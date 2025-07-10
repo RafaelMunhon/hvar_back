@@ -1,0 +1,210 @@
+{"timestamp": "2025-05-15T21:18:33.987943", "level": "INFO", "logger": "app.config.gcp_config", "message": "{\"timestamp\": \"2025-05-15T21:18:33.987875\", \"message\": \"Procurando arquivo de credenciais em:\"}"}
+{"timestamp": "2025-05-15T21:18:33.988092", "level": "INFO", "logger": "app.config.gcp_config", "message": "{\"timestamp\": \"2025-05-15T21:18:33.988041\", \"message\": \"- /home/rafael/Desktop/projetos/yduqs_back/conteudo-autenticare-d2aaae9aeffe.json\"}"}
+{"timestamp": "2025-05-15T21:18:35.671223", "level": "INFO", "logger": "app.config.gcp_config", "message": "{\"timestamp\": \"2025-05-15T21:18:35.671107\", \"message\": \"Procurando arquivo de credenciais em:\"}"}
+{"timestamp": "2025-05-15T21:18:35.671391", "level": "INFO", "logger": "app.config.gcp_config", "message": "{\"timestamp\": \"2025-05-15T21:18:35.671332\", \"message\": \"- /home/rafael/Desktop/projetos/yduqs_back/conteudo-autenticare-d2aaae9aeffe.json\"}"}
+{"timestamp": "2025-05-15T21:23:08.697270", "level": "INFO", "logger": "app.config.gcp_config", "message": "Procurando arquivo de credenciais em:"}
+{"timestamp": "2025-05-15T21:23:08.697364", "level": "INFO", "logger": "app.config.gcp_config", "message": "- /home/rafael/Desktop/projetos/yduqs_back/conteudo-autenticare-d2aaae9aeffe.json"}
+{"timestamp": "2025-05-15T21:23:10.559685", "level": "INFO", "logger": "app.config.gcp_config", "message": "Procurando arquivo de credenciais em:"}
+{"timestamp": "2025-05-15T21:23:10.559933", "level": "INFO", "logger": "app.config.gcp_config", "message": "- /home/rafael/Desktop/projetos/yduqs_back/conteudo-autenticare-d2aaae9aeffe.json"}
+{"timestamp": "2025-05-15T21:25:29.842249", "level": "INFO", "logger": "app.config.gcp_config", "message": "Procurando arquivo de credenciais em:"}
+{"timestamp": "2025-05-15T21:25:29.842390", "level": "INFO", "logger": "app.config.gcp_config", "message": "- /home/rafael/Desktop/projetos/yduqs_back/conteudo-autenticare-d2aaae9aeffe.json"}
+{"timestamp": "2025-05-15T21:25:31.489146", "level": "INFO", "logger": "app.config.gcp_config", "message": "Procurando arquivo de credenciais em:"}
+{"timestamp": "2025-05-15T21:25:31.489301", "level": "INFO", "logger": "app.config.gcp_config", "message": "- /home/rafael/Desktop/projetos/yduqs_back/conteudo-autenticare-d2aaae9aeffe.json"}
+{"timestamp": "2025-05-15T21:46:21.328162", "level": "INFO", "logger": "app.config.gcp_config", "message": "Procurando arquivo de credenciais em:"}
+{"timestamp": "2025-05-15T21:46:21.328269", "level": "INFO", "logger": "app.config.gcp_config", "message": "- /home/rafael/Desktop/projetos/yduqs_back/conteudo-autenticare-d2aaae9aeffe.json"}
+{"timestamp": "2025-05-15T21:46:23.110925", "level": "INFO", "logger": "app.config.gcp_config", "message": "Procurando arquivo de credenciais em:"}
+{"timestamp": "2025-05-15T21:46:23.111068", "level": "INFO", "logger": "app.config.gcp_config", "message": "- /home/rafael/Desktop/projetos/yduqs_back/conteudo-autenticare-d2aaae9aeffe.json"}
+{"timestamp": "2025-05-15T21:50:39.765761", "level": "INFO", "logger": "app.config.gcp_config", "message": "Procurando arquivo de credenciais em:"}
+{"timestamp": "2025-05-15T21:50:39.765860", "level": "INFO", "logger": "app.config.gcp_config", "message": "- /home/rafael/Desktop/projetos/yduqs_back/conteudo-autenticare-d2aaae9aeffe.json"}
+{"timestamp": "2025-05-15T21:50:41.563610", "level": "INFO", "logger": "app.config.gcp_config", "message": "Procurando arquivo de credenciais em:"}
+{"timestamp": "2025-05-15T21:50:41.563746", "level": "INFO", "logger": "app.config.gcp_config", "message": "- /home/rafael/Desktop/projetos/yduqs_back/conteudo-autenticare-d2aaae9aeffe.json"}
+{"timestamp": "2025-05-15T21:56:46.835157", "level": "INFO", "logger": "app.config.gcp_config", "message": "Procurando arquivo de credenciais em:"}
+{"timestamp": "2025-05-15T21:56:46.835248", "level": "INFO", "logger": "app.config.gcp_config", "message": "- /home/rafael/Desktop/projetos/yduqs_back/conteudo-autenticare-d2aaae9aeffe.json"}
+{"timestamp": "2025-05-15T21:56:48.416382", "level": "INFO", "logger": "app.config.gcp_config", "message": "Procurando arquivo de credenciais em:"}
+{"timestamp": "2025-05-15T21:56:48.416571", "level": "INFO", "logger": "app.config.gcp_config", "message": "- /home/rafael/Desktop/projetos/yduqs_back/conteudo-autenticare-d2aaae9aeffe.json"}
+{"timestamp": "2025-05-15T22:10:22.232319", "level": "INFO", "logger": "app.config.gcp_config", "message": "Procurando arquivo de credenciais em:"}
+{"timestamp": "2025-05-15T22:10:22.232429", "level": "INFO", "logger": "app.config.gcp_config", "message": "- /home/rafael/Desktop/projetos/yduqs_back/conteudo-autenticare-d2aaae9aeffe.json"}
+{"timestamp": "2025-05-15T22:10:23.793992", "level": "INFO", "logger": "app.config.gcp_config", "message": "Procurando arquivo de credenciais em:"}
+{"timestamp": "2025-05-15T22:10:23.794107", "level": "INFO", "logger": "app.config.gcp_config", "message": "- /home/rafael/Desktop/projetos/yduqs_back/conteudo-autenticare-d2aaae9aeffe.json"}
+{"timestamp": "2025-05-15T22:18:02.511043", "level": "INFO", "logger": "app.config.gcp_config", "message": "Procurando arquivo de credenciais em:"}
+{"timestamp": "2025-05-15T22:18:02.511134", "level": "INFO", "logger": "app.config.gcp_config", "message": "- /home/rafael/Desktop/projetos/yduqs_back/conteudo-autenticare-d2aaae9aeffe.json"}
+{"timestamp": "2025-05-15T22:18:04.139022", "level": "INFO", "logger": "app.config.gcp_config", "message": "Procurando arquivo de credenciais em:"}
+{"timestamp": "2025-05-15T22:18:04.139214", "level": "INFO", "logger": "app.config.gcp_config", "message": "- /home/rafael/Desktop/projetos/yduqs_back/conteudo-autenticare-d2aaae9aeffe.json"}
+{"timestamp": "2025-05-15T22:23:18.035771", "level": "INFO", "logger": "app.config.gcp_config", "message": "Procurando arquivo de credenciais em:"}
+{"timestamp": "2025-05-15T22:23:18.035895", "level": "INFO", "logger": "app.config.gcp_config", "message": "- /home/rafael/Desktop/projetos/yduqs_back/conteudo-autenticare-d2aaae9aeffe.json"}
+{"timestamp": "2025-05-15T22:23:19.814676", "level": "INFO", "logger": "app.config.gcp_config", "message": "Procurando arquivo de credenciais em:"}
+{"timestamp": "2025-05-15T22:23:19.814806", "level": "INFO", "logger": "app.config.gcp_config", "message": "- /home/rafael/Desktop/projetos/yduqs_back/conteudo-autenticare-d2aaae9aeffe.json"}
+{"timestamp": "2025-05-15T22:25:07.170500", "level": "INFO", "logger": "app.config.gcp_config", "message": "Procurando arquivo de credenciais em:"}
+{"timestamp": "2025-05-15T22:25:07.170596", "level": "INFO", "logger": "app.config.gcp_config", "message": "- /home/rafael/Desktop/projetos/yduqs_back/conteudo-autenticare-d2aaae9aeffe.json"}
+{"timestamp": "2025-05-15T22:25:09.240429", "level": "INFO", "logger": "app.config.gcp_config", "message": "Procurando arquivo de credenciais em:"}
+{"timestamp": "2025-05-15T22:25:09.240614", "level": "INFO", "logger": "app.config.gcp_config", "message": "- /home/rafael/Desktop/projetos/yduqs_back/conteudo-autenticare-d2aaae9aeffe.json"}
+{"timestamp": "2025-05-15T22:25:15.500629", "level": "INFO", "logger": "app.config.gcp_config", "message": "Procurando arquivo de credenciais em:"}
+{"timestamp": "2025-05-15T22:25:15.500743", "level": "INFO", "logger": "app.config.gcp_config", "message": "- /home/rafael/Desktop/projetos/yduqs_back/conteudo-autenticare-d2aaae9aeffe.json"}
+{"timestamp": "2025-05-15T22:25:17.511047", "level": "INFO", "logger": "app.config.gcp_config", "message": "Procurando arquivo de credenciais em:"}
+{"timestamp": "2025-05-15T22:25:17.511196", "level": "INFO", "logger": "app.config.gcp_config", "message": "- /home/rafael/Desktop/projetos/yduqs_back/conteudo-autenticare-d2aaae9aeffe.json"}
+{"timestamp": "2025-05-15T22:26:44.657926", "level": "INFO", "logger": "app.config.gcp_config", "message": "Procurando arquivo de credenciais em:"}
+{"timestamp": "2025-05-15T22:26:44.658319", "level": "INFO", "logger": "app.config.gcp_config", "message": "- /home/rafael/Desktop/projetos/yduqs_back/conteudo-autenticare-d2aaae9aeffe.json"}
+{"timestamp": "2025-05-15T22:26:46.738701", "level": "INFO", "logger": "app.config.gcp_config", "message": "Procurando arquivo de credenciais em:"}
+{"timestamp": "2025-05-15T22:26:46.738907", "level": "INFO", "logger": "app.config.gcp_config", "message": "- /home/rafael/Desktop/projetos/yduqs_back/conteudo-autenticare-d2aaae9aeffe.json"}
+{"timestamp": "2025-05-15T22:28:24.532597", "level": "INFO", "logger": "app.config.gcp_config", "message": "Procurando arquivo de credenciais em:"}
+{"timestamp": "2025-05-15T22:28:24.532895", "level": "INFO", "logger": "app.config.gcp_config", "message": "- /home/rafael/Desktop/projetos/yduqs_back/conteudo-autenticare-d2aaae9aeffe.json"}
+{"timestamp": "2025-05-15T22:28:26.428478", "level": "INFO", "logger": "app.config.gcp_config", "message": "Procurando arquivo de credenciais em:"}
+{"timestamp": "2025-05-15T22:28:26.428702", "level": "INFO", "logger": "app.config.gcp_config", "message": "- /home/rafael/Desktop/projetos/yduqs_back/conteudo-autenticare-d2aaae9aeffe.json"}
+{"timestamp": "2025-05-15T22:30:05.590816", "level": "INFO", "logger": "app.config.gcp_config", "message": "Procurando arquivo de credenciais em:"}
+{"timestamp": "2025-05-15T22:30:05.590994", "level": "INFO", "logger": "app.config.gcp_config", "message": "- /home/rafael/Desktop/projetos/yduqs_back/conteudo-autenticare-d2aaae9aeffe.json"}
+{"timestamp": "2025-05-15T22:30:07.640430", "level": "INFO", "logger": "app.config.gcp_config", "message": "Procurando arquivo de credenciais em:"}
+{"timestamp": "2025-05-15T22:30:07.640546", "level": "INFO", "logger": "app.config.gcp_config", "message": "- /home/rafael/Desktop/projetos/yduqs_back/conteudo-autenticare-d2aaae9aeffe.json"}
+{"timestamp": "2025-05-15T22:30:58.616131", "level": "INFO", "logger": "app.config.gcp_config", "message": "Procurando arquivo de credenciais em:"}
+{"timestamp": "2025-05-15T22:30:58.616340", "level": "INFO", "logger": "app.config.gcp_config", "message": "- /home/rafael/Desktop/projetos/yduqs_back/conteudo-autenticare-d2aaae9aeffe.json"}
+{"timestamp": "2025-05-15T22:31:00.637849", "level": "INFO", "logger": "app.config.gcp_config", "message": "Procurando arquivo de credenciais em:"}
+{"timestamp": "2025-05-15T22:31:00.637958", "level": "INFO", "logger": "app.config.gcp_config", "message": "- /home/rafael/Desktop/projetos/yduqs_back/conteudo-autenticare-d2aaae9aeffe.json"}
+{"timestamp": "2025-05-15T22:34:08.137914", "level": "INFO", "logger": "app.config.gcp_config", "message": "Procurando arquivo de credenciais em:"}
+{"timestamp": "2025-05-15T22:34:08.138038", "level": "INFO", "logger": "app.config.gcp_config", "message": "- /home/rafael/Desktop/projetos/yduqs_back/conteudo-autenticare-d2aaae9aeffe.json"}
+{"timestamp": "2025-05-15T22:34:09.851032", "level": "INFO", "logger": "app.config.gcp_config", "message": "Procurando arquivo de credenciais em:"}
+{"timestamp": "2025-05-15T22:34:09.851188", "level": "INFO", "logger": "app.config.gcp_config", "message": "- /home/rafael/Desktop/projetos/yduqs_back/conteudo-autenticare-d2aaae9aeffe.json"}
+{"timestamp": "2025-05-15T22:37:09.906182", "level": "INFO", "logger": "app.config.gcp_config", "message": "Procurando arquivo de credenciais em:"}
+{"timestamp": "2025-05-15T22:37:09.906283", "level": "INFO", "logger": "app.config.gcp_config", "message": "- /home/rafael/Desktop/projetos/yduqs_back/conteudo-autenticare-d2aaae9aeffe.json"}
+{"timestamp": "2025-05-15T22:39:17.384659", "level": "INFO", "logger": "app.config.gcp_config", "message": "Procurando arquivo de credenciais em:"}
+{"timestamp": "2025-05-15T22:39:17.384752", "level": "INFO", "logger": "app.config.gcp_config", "message": "- /home/rafael/Desktop/projetos/yduqs_back/conteudo-autenticare-d2aaae9aeffe.json"}
+{"timestamp": "2025-05-15T22:42:03.548823", "level": "INFO", "logger": "app.config.gcp_config", "message": "Procurando arquivo de credenciais em:"}
+{"timestamp": "2025-05-15T22:42:03.548964", "level": "INFO", "logger": "app.config.gcp_config", "message": "- /home/rafael/Desktop/projetos/yduqs_back/conteudo-autenticare-d2aaae9aeffe.json"}
+{"timestamp": "2025-05-15T22:43:41.004401", "level": "INFO", "logger": "app.config.gcp_config", "message": "Procurando arquivo de credenciais em:"}
+{"timestamp": "2025-05-15T22:43:41.004497", "level": "INFO", "logger": "app.config.gcp_config", "message": "- /home/rafael/Desktop/projetos/yduqs_back/conteudo-autenticare-d2aaae9aeffe.json"}
+{"timestamp": "2025-05-15T22:46:41.374642", "level": "INFO", "logger": "app.config.gcp_config", "message": "Procurando arquivo de credenciais em:"}
+{"timestamp": "2025-05-15T22:46:41.374742", "level": "INFO", "logger": "app.config.gcp_config", "message": "- /home/rafael/Desktop/projetos/yduqs_back/conteudo-autenticare-d2aaae9aeffe.json"}
+{"timestamp": "2025-05-15T22:48:31.746744", "level": "INFO", "logger": "app.config.gcp_config", "message": "Procurando arquivo de credenciais em:"}
+{"timestamp": "2025-05-15T22:48:31.746928", "level": "INFO", "logger": "app.config.gcp_config", "message": "- /home/rafael/Desktop/projetos/yduqs_back/conteudo-autenticare-d2aaae9aeffe.json"}
+{"timestamp": "2025-05-15T22:54:05.370944", "level": "INFO", "logger": "app.config.gcp_config", "message": "Procurando arquivo de credenciais em:"}
+{"timestamp": "2025-05-15T22:54:05.371043", "level": "INFO", "logger": "app.config.gcp_config", "message": "- /home/rafael/Desktop/projetos/yduqs_back/conteudo-autenticare-d2aaae9aeffe.json"}
+{"timestamp": "2025-05-15T22:58:41.684455", "level": "INFO", "logger": "app.config.gcp_config", "message": "Procurando arquivo de credenciais em:"}
+{"timestamp": "2025-05-15T22:58:41.684575", "level": "INFO", "logger": "app.config.gcp_config", "message": "- /home/rafael/Desktop/projetos/yduqs_back/conteudo-autenticare-d2aaae9aeffe.json"}
+{"timestamp": "2025-05-15T23:04:08.503062", "level": "INFO", "logger": "app.config.gcp_config", "message": "Procurando arquivo de credenciais em:"}
+{"timestamp": "2025-05-15T23:04:08.503265", "level": "INFO", "logger": "app.config.gcp_config", "message": "- /home/rafael/Desktop/projetos/yduqs_back/conteudo-autenticare-d2aaae9aeffe.json"}
+{"timestamp": "2025-05-15T23:06:23.206442", "level": "INFO", "logger": "app.config.gcp_config", "message": "Procurando arquivo de credenciais em:"}
+{"timestamp": "2025-05-15T23:06:23.206533", "level": "INFO", "logger": "app.config.gcp_config", "message": "- /home/rafael/Desktop/projetos/yduqs_back/conteudo-autenticare-d2aaae9aeffe.json"}
+{"timestamp": "2025-05-15T23:09:23.868700", "level": "INFO", "logger": "app.config.gcp_config", "message": "Procurando arquivo de credenciais em:"}
+{"timestamp": "2025-05-15T23:09:23.868827", "level": "INFO", "logger": "app.config.gcp_config", "message": "- /home/rafael/Desktop/projetos/yduqs_back/conteudo-autenticare-d2aaae9aeffe.json"}
+{"timestamp": "2025-05-15T23:12:46.440670", "level": "INFO", "logger": "app.config.gcp_config", "message": "Procurando arquivo de credenciais em:"}
+{"timestamp": "2025-05-15T23:12:46.440796", "level": "INFO", "logger": "app.config.gcp_config", "message": "- /home/rafael/Desktop/projetos/yduqs_back/conteudo-autenticare-d2aaae9aeffe.json"}
+{"timestamp": "2025-05-15T23:14:58.657469", "level": "INFO", "logger": "app.config.gcp_config", "message": "Procurando arquivo de credenciais em:"}
+{"timestamp": "2025-05-15T23:14:58.657582", "level": "INFO", "logger": "app.config.gcp_config", "message": "- /home/rafael/Desktop/projetos/yduqs_back/conteudo-autenticare-d2aaae9aeffe.json"}
+{"timestamp": "2025-05-15T23:16:32.641326", "level": "INFO", "logger": "app.config.gcp_config", "message": "Procurando arquivo de credenciais em:"}
+{"timestamp": "2025-05-15T23:16:32.641722", "level": "INFO", "logger": "app.config.gcp_config", "message": "- /home/rafael/Desktop/projetos/yduqs_back/conteudo-autenticare-d2aaae9aeffe.json"}
+{"timestamp": "2025-05-15T23:19:24.031532", "level": "INFO", "logger": "app.config.gcp_config", "message": "Procurando arquivo de credenciais em:"}
+{"timestamp": "2025-05-15T23:19:24.031668", "level": "INFO", "logger": "app.config.gcp_config", "message": "- /home/rafael/Desktop/projetos/yduqs_back/conteudo-autenticare-d2aaae9aeffe.json"}
+{"timestamp": "2025-05-15T23:27:28.266564", "level": "INFO", "logger": "app.config.gcp_config", "message": "Procurando arquivo de credenciais em:"}
+{"timestamp": "2025-05-15T23:27:28.267186", "level": "INFO", "logger": "app.config.gcp_config", "message": "- /home/rafael/Desktop/projetos/yduqs_back/conteudo-autenticare-d2aaae9aeffe.json"}
+{"timestamp": "2025-05-15T23:43:52.419007", "level": "INFO", "logger": "app.config.gcp_config", "message": "Procurando arquivo de credenciais em:"}
+{"timestamp": "2025-05-15T23:43:52.419386", "level": "INFO", "logger": "app.config.gcp_config", "message": "- /home/rafael/Desktop/projetos/yduqs_back/conteudo-autenticare-d2aaae9aeffe.json"}
+{"timestamp": "2025-05-15T23:54:50.258208", "level": "INFO", "logger": "app.config.gcp_config", "message": "Procurando arquivo de credenciais em:"}
+{"timestamp": "2025-05-15T23:54:50.258661", "level": "INFO", "logger": "app.config.gcp_config", "message": "- /home/rafael/Desktop/projetos/yduqs_back/conteudo-autenticare-d2aaae9aeffe.json"}
+{"timestamp": "2025-05-15T23:55:55.358636", "level": "INFO", "logger": "app.config.gcp_config", "message": "Procurando arquivo de credenciais em:"}
+{"timestamp": "2025-05-15T23:55:55.358734", "level": "INFO", "logger": "app.config.gcp_config", "message": "- /home/rafael/Desktop/projetos/yduqs_back/conteudo-autenticare-d2aaae9aeffe.json"}
+{"timestamp": "2025-05-15T23:59:15.190716", "level": "INFO", "logger": "app.config.gcp_config", "message": "Procurando arquivo de credenciais em:"}
+{"timestamp": "2025-05-15T23:59:15.190838", "level": "INFO", "logger": "app.config.gcp_config", "message": "- /home/rafael/Desktop/projetos/yduqs_back/conteudo-autenticare-d2aaae9aeffe.json"}
+{"timestamp": "2025-05-16T00:59:44.603655", "level": "INFO", "logger": "app.config.gcp_config", "message": "Procurando arquivo de credenciais em:"}
+{"timestamp": "2025-05-16T00:59:44.603754", "level": "INFO", "logger": "app.config.gcp_config", "message": "- /home/rafael/Desktop/projetos/yduqs_back/conteudo-autenticare-d2aaae9aeffe.json"}
+{"timestamp": "2025-05-16T01:03:57.389321", "level": "INFO", "logger": "app.config.gcp_config", "message": "Procurando arquivo de credenciais em:"}
+{"timestamp": "2025-05-16T01:03:57.389446", "level": "INFO", "logger": "app.config.gcp_config", "message": "- /home/rafael/Desktop/projetos/yduqs_back/conteudo-autenticare-d2aaae9aeffe.json"}
+{"timestamp": "2025-05-16T01:06:46.544996", "level": "INFO", "logger": "app.config.gcp_config", "message": "Procurando arquivo de credenciais em:"}
+{"timestamp": "2025-05-16T01:06:46.545116", "level": "INFO", "logger": "app.config.gcp_config", "message": "- /home/rafael/Desktop/projetos/yduqs_back/conteudo-autenticare-d2aaae9aeffe.json"}
+{"timestamp": "2025-05-16T01:13:25.271969", "level": "INFO", "logger": "app.config.gcp_config", "message": "Procurando arquivo de credenciais em:"}
+{"timestamp": "2025-05-16T01:13:25.272633", "level": "INFO", "logger": "app.config.gcp_config", "message": "- /home/rafael/Desktop/projetos/yduqs_back/conteudo-autenticare-d2aaae9aeffe.json"}
+{"timestamp": "2025-05-16T01:21:37.714084", "level": "INFO", "logger": "app.config.gcp_config", "message": "Procurando arquivo de credenciais em:"}
+{"timestamp": "2025-05-16T01:21:37.714181", "level": "INFO", "logger": "app.config.gcp_config", "message": "- /home/rafael/Desktop/projetos/yduqs_back/conteudo-autenticare-d2aaae9aeffe.json"}
+{"timestamp": "2025-05-16T01:51:07.866285", "level": "INFO", "logger": "app.config.gcp_config", "message": "Procurando arquivo de credenciais em:"}
+{"timestamp": "2025-05-16T01:51:07.866407", "level": "INFO", "logger": "app.config.gcp_config", "message": "- /home/rafael/Desktop/projetos/yduqs_back/conteudo-autenticare-d2aaae9aeffe.json"}
+{"timestamp": "2025-05-16T01:57:21.337384", "level": "INFO", "logger": "app.config.gcp_config", "message": "Procurando arquivo de credenciais em:"}
+{"timestamp": "2025-05-16T01:57:21.337504", "level": "INFO", "logger": "app.config.gcp_config", "message": "- /home/rafael/Desktop/projetos/yduqs_back/conteudo-autenticare-d2aaae9aeffe.json"}
+{"timestamp": "2025-05-16T02:01:14.695788", "level": "INFO", "logger": "app.config.gcp_config", "message": "Procurando arquivo de credenciais em:"}
+{"timestamp": "2025-05-16T02:01:14.695879", "level": "INFO", "logger": "app.config.gcp_config", "message": "- /home/rafael/Desktop/projetos/yduqs_back/conteudo-autenticare-d2aaae9aeffe.json"}
+{"timestamp": "2025-05-16T02:04:38.670719", "level": "INFO", "logger": "app.config.gcp_config", "message": "Procurando arquivo de credenciais em:"}
+{"timestamp": "2025-05-16T02:04:38.670815", "level": "INFO", "logger": "app.config.gcp_config", "message": "- /home/rafael/Desktop/projetos/yduqs_back/conteudo-autenticare-d2aaae9aeffe.json"}
+{"timestamp": "2025-05-16T02:10:07.698932", "level": "INFO", "logger": "app.config.gcp_config", "message": "Procurando arquivo de credenciais em:"}
+{"timestamp": "2025-05-16T02:10:07.699029", "level": "INFO", "logger": "app.config.gcp_config", "message": "- /home/rafael/Desktop/projetos/yduqs_back/conteudo-autenticare-d2aaae9aeffe.json"}
+{"timestamp": "2025-05-16T02:13:22.590390", "level": "INFO", "logger": "app.config.gcp_config", "message": "Procurando arquivo de credenciais em:"}
+{"timestamp": "2025-05-16T02:13:22.590486", "level": "INFO", "logger": "app.config.gcp_config", "message": "- /home/rafael/Desktop/projetos/yduqs_back/conteudo-autenticare-d2aaae9aeffe.json"}
+{"timestamp": "2025-05-16T02:17:08.448744", "level": "INFO", "logger": "app.config.gcp_config", "message": "Procurando arquivo de credenciais em:"}
+{"timestamp": "2025-05-16T02:17:08.448838", "level": "INFO", "logger": "app.config.gcp_config", "message": "- /home/rafael/Desktop/projetos/yduqs_back/conteudo-autenticare-d2aaae9aeffe.json"}
+{"timestamp": "2025-05-16T02:19:56.869219", "level": "INFO", "logger": "app.config.gcp_config", "message": "Procurando arquivo de credenciais em:"}
+{"timestamp": "2025-05-16T02:19:56.869312", "level": "INFO", "logger": "app.config.gcp_config", "message": "- /home/rafael/Desktop/projetos/yduqs_back/conteudo-autenticare-d2aaae9aeffe.json"}
+{"timestamp": "2025-05-16T02:23:29.506052", "level": "INFO", "logger": "app.config.gcp_config", "message": "Procurando arquivo de credenciais em:"}
+{"timestamp": "2025-05-16T02:23:29.506146", "level": "INFO", "logger": "app.config.gcp_config", "message": "- /home/rafael/Desktop/projetos/yduqs_back/conteudo-autenticare-d2aaae9aeffe.json"}
+{"timestamp": "2025-05-16T02:56:18.541749", "level": "INFO", "logger": "app.config.gcp_config", "message": "Procurando arquivo de credenciais em:"}
+{"timestamp": "2025-05-16T02:56:18.542247", "level": "INFO", "logger": "app.config.gcp_config", "message": "- /home/rafael/Desktop/projetos/yduqs_back/conteudo-autenticare-d2aaae9aeffe.json"}
+{"timestamp": "2025-05-16T03:14:10.335839", "level": "INFO", "logger": "app.config.gcp_config", "message": "Procurando arquivo de credenciais em:"}
+{"timestamp": "2025-05-16T03:14:10.336433", "level": "INFO", "logger": "app.config.gcp_config", "message": "- /home/rafael/Desktop/projetos/yduqs_back/conteudo-autenticare-d2aaae9aeffe.json"}
+{"timestamp": "2025-05-16T03:18:09.510909", "level": "INFO", "logger": "app.config.gcp_config", "message": "Procurando arquivo de credenciais em:"}
+{"timestamp": "2025-05-16T03:18:09.511016", "level": "INFO", "logger": "app.config.gcp_config", "message": "- /home/rafael/Desktop/projetos/yduqs_back/conteudo-autenticare-d2aaae9aeffe.json"}
+{"timestamp": "2025-05-16T03:20:15.712450", "level": "INFO", "logger": "app.config.gcp_config", "message": "Procurando arquivo de credenciais em:"}
+{"timestamp": "2025-05-16T03:20:15.712655", "level": "INFO", "logger": "app.config.gcp_config", "message": "- /home/rafael/Desktop/projetos/yduqs_back/conteudo-autenticare-d2aaae9aeffe.json"}
+{"timestamp": "2025-05-16T03:29:37.713758", "level": "INFO", "logger": "app.config.gcp_config", "message": "Procurando arquivo de credenciais em:"}
+{"timestamp": "2025-05-16T03:29:37.714246", "level": "INFO", "logger": "app.config.gcp_config", "message": "- /home/rafael/Desktop/projetos/yduqs_back/conteudo-autenticare-d2aaae9aeffe.json"}
+{"timestamp": "2025-05-16T03:38:08.682868", "level": "INFO", "logger": "app.config.gcp_config", "message": "Procurando arquivo de credenciais em:"}
+{"timestamp": "2025-05-16T03:38:08.683345", "level": "INFO", "logger": "app.config.gcp_config", "message": "- /home/rafael/Desktop/projetos/yduqs_back/conteudo-autenticare-d2aaae9aeffe.json"}
+{"timestamp": "2025-05-16T13:16:40.091484", "level": "INFO", "logger": "app.config.gcp_config", "message": "Procurando arquivo de credenciais em:"}
+{"timestamp": "2025-05-16T13:16:40.092095", "level": "INFO", "logger": "app.config.gcp_config", "message": "- /home/rafael/Desktop/projetos/yduqs_back/conteudo-autenticare-d2aaae9aeffe.json"}
+{"timestamp": "2025-05-16T13:58:27.915491", "level": "INFO", "logger": "app.config.gcp_config", "message": "Procurando arquivo de credenciais em:"}
+{"timestamp": "2025-05-16T13:58:27.916089", "level": "INFO", "logger": "app.config.gcp_config", "message": "- /home/rafael/Desktop/projetos/yduqs_back/conteudo-autenticare-d2aaae9aeffe.json"}
+{"timestamp": "2025-05-16T14:07:54.880959", "level": "INFO", "logger": "app.config.gcp_config", "message": "Procurando arquivo de credenciais em:"}
+{"timestamp": "2025-05-16T14:07:54.881842", "level": "INFO", "logger": "app.config.gcp_config", "message": "- /home/rafael/Desktop/projetos/yduqs_back/conteudo-autenticare-d2aaae9aeffe.json"}
+{"timestamp": "2025-05-16T14:31:57.107762", "level": "INFO", "logger": "app.config.gcp_config", "message": "Procurando arquivo de credenciais em:"}
+{"timestamp": "2025-05-16T14:31:57.107855", "level": "INFO", "logger": "app.config.gcp_config", "message": "- /home/rafael/Desktop/projetos/yduqs_back/conteudo-autenticare-d2aaae9aeffe.json"}
+{"timestamp": "2025-05-16T14:39:56.768580", "level": "INFO", "logger": "app.config.gcp_config", "message": "Procurando arquivo de credenciais em:"}
+{"timestamp": "2025-05-16T14:39:56.769263", "level": "INFO", "logger": "app.config.gcp_config", "message": "- /home/rafael/Desktop/projetos/yduqs_back/conteudo-autenticare-d2aaae9aeffe.json"}
+{"timestamp": "2025-05-16T14:48:21.035470", "level": "INFO", "logger": "app.config.gcp_config", "message": "Procurando arquivo de credenciais em:"}
+{"timestamp": "2025-05-16T14:48:21.035654", "level": "INFO", "logger": "app.config.gcp_config", "message": "- /home/rafael/Desktop/projetos/yduqs_back/conteudo-autenticare-d2aaae9aeffe.json"}
+{"timestamp": "2025-05-16T15:01:47.374818", "level": "INFO", "logger": "app.config.gcp_config", "message": "Procurando arquivo de credenciais em:"}
+{"timestamp": "2025-05-16T15:01:47.374959", "level": "INFO", "logger": "app.config.gcp_config", "message": "- /home/rafael/Desktop/projetos/yduqs_back/conteudo-autenticare-d2aaae9aeffe.json"}
+{"timestamp": "2025-05-16T15:03:00.167982", "level": "INFO", "logger": "app.config.gcp_config", "message": "Procurando arquivo de credenciais em:"}
+{"timestamp": "2025-05-16T15:03:00.168095", "level": "INFO", "logger": "app.config.gcp_config", "message": "- /home/rafael/Desktop/projetos/yduqs_back/conteudo-autenticare-d2aaae9aeffe.json"}
+{"timestamp": "2025-05-16T15:04:34.339324", "level": "INFO", "logger": "app.config.gcp_config", "message": "Procurando arquivo de credenciais em:"}
+{"timestamp": "2025-05-16T15:04:34.339433", "level": "INFO", "logger": "app.config.gcp_config", "message": "- /home/rafael/Desktop/projetos/yduqs_back/conteudo-autenticare-d2aaae9aeffe.json"}
+{"timestamp": "2025-05-16T15:06:15.227577", "level": "INFO", "logger": "app.config.gcp_config", "message": "Procurando arquivo de credenciais em:"}
+{"timestamp": "2025-05-16T15:06:15.227667", "level": "INFO", "logger": "app.config.gcp_config", "message": "- /home/rafael/Desktop/projetos/yduqs_back/conteudo-autenticare-d2aaae9aeffe.json"}
+{"timestamp": "2025-05-16T17:00:32.597195", "level": "INFO", "logger": "app.config.gcp_config", "message": "Procurando arquivo de credenciais em:"}
+{"timestamp": "2025-05-16T17:00:32.597632", "level": "INFO", "logger": "app.config.gcp_config", "message": "- /home/rafael/Desktop/projetos/yduqs_back/conteudo-autenticare-d2aaae9aeffe.json"}
+{"timestamp": "2025-05-16T17:12:02.830191", "level": "INFO", "logger": "app.config.gcp_config", "message": "Procurando arquivo de credenciais em:"}
+{"timestamp": "2025-05-16T17:12:02.830340", "level": "INFO", "logger": "app.config.gcp_config", "message": "- /home/rafael/Desktop/projetos/yduqs_back/conteudo-autenticare-d2aaae9aeffe.json"}
+{"timestamp": "2025-05-16T17:39:48.960679", "level": "INFO", "logger": "app.config.gcp_config", "message": "Procurando arquivo de credenciais em:"}
+{"timestamp": "2025-05-16T17:39:48.960793", "level": "INFO", "logger": "app.config.gcp_config", "message": "- /home/rafael/Desktop/projetos/yduqs_back/conteudo-autenticare-d2aaae9aeffe.json"}
+{"timestamp": "2025-05-16T18:07:33.968372", "level": "INFO", "logger": "app.config.gcp_config", "message": "Procurando arquivo de credenciais em:"}
+{"timestamp": "2025-05-16T18:07:33.969082", "level": "INFO", "logger": "app.config.gcp_config", "message": "- /home/rafael/Desktop/projetos/yduqs_back/conteudo-autenticare-d2aaae9aeffe.json"}
+{"timestamp": "2025-05-16T18:11:44.006222", "level": "INFO", "logger": "app.config.gcp_config", "message": "Procurando arquivo de credenciais em:"}
+{"timestamp": "2025-05-16T18:11:44.006367", "level": "INFO", "logger": "app.config.gcp_config", "message": "- /home/rafael/Desktop/projetos/yduqs_back/conteudo-autenticare-d2aaae9aeffe.json"}
+{"timestamp": "2025-05-16T18:23:38.530808", "level": "INFO", "logger": "app.config.gcp_config", "message": "Procurando arquivo de credenciais em:"}
+{"timestamp": "2025-05-16T18:23:38.530898", "level": "INFO", "logger": "app.config.gcp_config", "message": "- /home/rafael/Desktop/projetos/yduqs_back/conteudo-autenticare-d2aaae9aeffe.json"}
+{"timestamp": "2025-05-16T18:27:09.903451", "level": "INFO", "logger": "app.config.gcp_config", "message": "Procurando arquivo de credenciais em:"}
+{"timestamp": "2025-05-16T18:27:09.903572", "level": "INFO", "logger": "app.config.gcp_config", "message": "- /home/rafael/Desktop/projetos/yduqs_back/conteudo-autenticare-d2aaae9aeffe.json"}
+{"timestamp": "2025-05-16T18:27:26.872273", "level": "INFO", "logger": "app.config.gcp_config", "message": "Procurando arquivo de credenciais em:"}
+{"timestamp": "2025-05-16T18:27:26.872465", "level": "INFO", "logger": "app.config.gcp_config", "message": "- /home/rafael/Desktop/projetos/yduqs_back/conteudo-autenticare-d2aaae9aeffe.json"}
+{"timestamp": "2025-05-16T18:39:40.178144", "level": "INFO", "logger": "app.config.gcp_config", "message": "Procurando arquivo de credenciais em:"}
+{"timestamp": "2025-05-16T18:39:40.178684", "level": "INFO", "logger": "app.config.gcp_config", "message": "- /home/rafael/Desktop/projetos/yduqs_back/conteudo-autenticare-d2aaae9aeffe.json"}
+{"timestamp": "2025-05-16T18:57:55.662751", "level": "INFO", "logger": "app.config.gcp_config", "message": "Procurando arquivo de credenciais em:"}
+{"timestamp": "2025-05-16T18:57:55.663357", "level": "INFO", "logger": "app.config.gcp_config", "message": "- /home/rafael/Desktop/projetos/yduqs_back/conteudo-autenticare-d2aaae9aeffe.json"}
+{"timestamp": "2025-05-16T18:59:34.948709", "level": "INFO", "logger": "app.config.gcp_config", "message": "Procurando arquivo de credenciais em:"}
+{"timestamp": "2025-05-16T18:59:34.949164", "level": "INFO", "logger": "app.config.gcp_config", "message": "- /home/rafael/Desktop/projetos/yduqs_back/conteudo-autenticare-d2aaae9aeffe.json"}
+{"timestamp": "2025-05-16T19:03:31.350458", "level": "INFO", "logger": "app.config.gcp_config", "message": "Procurando arquivo de credenciais em:"}
+{"timestamp": "2025-05-16T19:03:31.350804", "level": "INFO", "logger": "app.config.gcp_config", "message": "- /home/rafael/Desktop/projetos/yduqs_back/conteudo-autenticare-d2aaae9aeffe.json"}
+{"timestamp": "2025-05-16T19:08:04.673279", "level": "INFO", "logger": "app.config.gcp_config", "message": "Procurando arquivo de credenciais em:"}
+{"timestamp": "2025-05-16T19:08:04.674141", "level": "INFO", "logger": "app.config.gcp_config", "message": "- /home/rafael/Desktop/projetos/yduqs_back/conteudo-autenticare-d2aaae9aeffe.json"}
+{"timestamp": "2025-05-16T19:13:48.083970", "level": "INFO", "logger": "app.config.gcp_config", "message": "Procurando arquivo de credenciais em:"}
+{"timestamp": "2025-05-16T19:13:48.084063", "level": "INFO", "logger": "app.config.gcp_config", "message": "- /home/rafael/Desktop/projetos/yduqs_back/conteudo-autenticare-d2aaae9aeffe.json"}
+{"timestamp": "2025-05-16T19:16:28.732537", "level": "INFO", "logger": "app.config.gcp_config", "message": "Procurando arquivo de credenciais em:"}
+{"timestamp": "2025-05-16T19:16:28.732652", "level": "INFO", "logger": "app.config.gcp_config", "message": "- /home/rafael/Desktop/projetos/yduqs_back/conteudo-autenticare-d2aaae9aeffe.json"}
+{"timestamp": "2025-05-16T21:52:49.173044", "level": "INFO", "logger": "app.config.gcp_config", "message": "Procurando arquivo de credenciais em:"}
+{"timestamp": "2025-05-16T21:52:49.173601", "level": "INFO", "logger": "app.config.gcp_config", "message": "- /home/rafael/Desktop/projetos/yduqs_back/conteudo-autenticare-d2aaae9aeffe.json"}
+{"timestamp": "2025-05-16T21:54:37.366678", "level": "INFO", "logger": "app.config.gcp_config", "message": "Procurando arquivo de credenciais em:"}
+{"timestamp": "2025-05-16T21:54:37.366808", "level": "INFO", "logger": "app.config.gcp_config", "message": "- /home/rafael/Desktop/projetos/yduqs_back/conteudo-autenticare-d2aaae9aeffe.json"}
+{"timestamp": "2025-05-16T22:05:36.681450", "level": "INFO", "logger": "app.config.gcp_config", "message": "Procurando arquivo de credenciais em:"}
+{"timestamp": "2025-05-16T22:05:36.681545", "level": "INFO", "logger": "app.config.gcp_config", "message": "- /home/rafael/Desktop/projetos/yduqs_back/conteudo-autenticare-d2aaae9aeffe.json"}
+{"timestamp": "2025-05-16T22:08:31.826825", "level": "INFO", "logger": "app.config.gcp_config", "message": "Procurando arquivo de credenciais em:"}
+{"timestamp": "2025-05-16T22:08:31.826932", "level": "INFO", "logger": "app.config.gcp_config", "message": "- /home/rafael/Desktop/projetos/yduqs_back/conteudo-autenticare-d2aaae9aeffe.json"}
+{"timestamp": "2025-05-16T22:41:13.611876", "level": "INFO", "logger": "app.config.gcp_config", "message": "Procurando arquivo de credenciais em:"}
+{"timestamp": "2025-05-16T22:41:13.611981", "level": "INFO", "logger": "app.config.gcp_config", "message": "- /home/rafael/Desktop/projetos/yduqs_back/conteudo-autenticare-d2aaae9aeffe.json"}
+{"timestamp": "2025-05-19T17:49:44.961723", "level": "INFO", "logger": "app.config.gcp_config", "message": "Procurando arquivo de credenciais em:"}
+{"timestamp": "2025-05-19T17:49:44.966501", "level": "INFO", "logger": "app.config.gcp_config", "message": "- /home/rafael/Desktop/projetos/yduqs_back/conteudo-autenticare-d2aaae9aeffe.json"}
+{"timestamp": "2025-05-19T17:55:55.664338", "level": "INFO", "logger": "app.config.gcp_config", "message": "Procurando arquivo de credenciais em:"}
+{"timestamp": "2025-05-19T17:55:55.664468", "level": "INFO", "logger": "app.config.gcp_config", "message": "- /home/rafael/Desktop/projetos/yduqs_back/conteudo-autenticare-d2aaae9aeffe.json"}
+{"timestamp": "2025-05-19T18:29:28.075681", "level": "INFO", "logger": "app.config.gcp_config", "message": "Procurando arquivo de credenciais em:"}
+{"timestamp": "2025-05-19T18:29:28.075779", "level": "INFO", "logger": "app.config.gcp_config", "message": "- /home/rafael/Desktop/projetos/yduqs_back/conteudo-autenticare-d2aaae9aeffe.json"}

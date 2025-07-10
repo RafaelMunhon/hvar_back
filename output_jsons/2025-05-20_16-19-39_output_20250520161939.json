@@ -1,0 +1,94 @@
+{
+    "titulo": "Análise Exploratória de Dados: Ferramentas e Medidas",
+    "subtitulo": "Descobrindo Insights em seus Dados",
+    "imagens": [],
+    "codigo": [],
+    "formulas": [],
+    "cenas": [
+        {
+            "cena": 1,
+            "tempo": "0:00-1:30",
+            "script": "Olá! Vamos explorar as ferramentas e medidas da análise exploratória de dados. Primeiro, é importante compreender o propósito da análise: extrair informações valiosas dos seus dados. Para essa aula, prepare sua calculadora científica ou utilize a do seu smartphone. Nossos objetivos são reconhecer as ferramentas de análise exploratória, analisar as medidas de posição ou tendência central, e descrever as medidas de dispersão ou variabilidade. Iniciaremos o estudo de uma ferramenta importante da estatística e conheceremos os dados com os quais vamos trabalhar. Veremos desde os conceitos básicos — tais como classificação de variáveis — até as principais ferramentas para apresentar e sintetizar os dados, como distribuição de frequência e representações gráficas. Além disso, medidas de posição ou tendência central são medidas que visam representar os fenômenos por seus valores centrais, em torno dos quais tendem a concentrar-se os dados. Apresentaremos essas medidas de acordo com os conceitos vistos, ou seja, considerando que os dados podem apresentar-se: agrupados (quando estão dispostos em uma distribuição de frequência) e não agrupados (quando estão dispostos em rol ou dados brutos. Para concluir, veremos as medidas de dispersão ou variabilidade, as quais possuem grande utilidade, pois avaliam o grau de dispersão dos dados em torno da média. Elas servem para verificar a representatividade da média.",
+            "elementos_visuais": [
+                {
+                    "tipo": "texto",
+                    "titulo": "Propósito",
+                    "subtitulo": "Extrair informações valiosas dos dados.",
+                    "breveDescricao": "A análise exploratória de dados visa compreender os dados, identificar padrões e relações, e fornecer insights para tomadas de decisão.",
+                    "topico_1": "Coleta de Dados",
+                    "topico_2": "Limpeza de Dados",
+                    "topico_3": "Análise Descritiva",
+                    "topico_4": "Visualização de Dados"
+                },
+                {
+                    "tipo": "texto",
+                    "titulo": "Preparação",
+                    "subtitulo": "Tenha sua calculadora à mão.",
+                    "breveDescricao": "Para acompanhar os cálculos e exemplos práticos, é recomendado ter uma calculadora científica ou utilizar uma calculadora no seu dispositivo.",
+                    "topico_1": "Calculadora Científica",
+                    "topico_2": "Smartphone",
+                    "topico_3": "Computador"
+                },
+                {
+                    "tipo": "texto",
+                    "titulo": "Objetivos",
+                    "subtitulo": "O que vamos aprender hoje.",
+                    "breveDescricao": "Nesta aula, vamos aprender a reconhecer as ferramentas de análise exploratória de dados, analisar medidas de posição e descrever medidas de dispersão.",
+                    "topico_1": "Ferramentas de Análise",
+                    "topico_2": "Medidas de Posição",
+                    "topico_3": "Medidas de Dispersão"
+                },
+                {
+                    "tipo": "texto",
+                    "titulo": "Introdução",
+                    "subtitulo": "Conceitos básicos e ferramentas.",
+                    "breveDescricao": "Vamos começar com os conceitos básicos e avançar para as ferramentas de apresentação e síntese de dados, como distribuições de frequência e gráficos.",
+                    "topico_1": "Conceitos Estatísticos",
+                    "topico_2": "Distribuição de Frequência",
+                    "topico_3": "Representações Gráficas"
+                }
+            ],
+            "palavras_chave": [
+                "propósito da análise",
+                "extrair informações valiosas",
+                "calculadora científica",
+                "ferramentas de análise exploratória",
+                "medidas de posição",
+                "medidas de dispersão",
+                "conceitos básicos",
+                "distribuição de frequência",
+                "representações gráficas",
+                "medidas de tendência central",
+                "dados agrupados",
+                "dados não agrupados",
+                "grau de dispersão",
+                "representatividade da média"
+            ]
+        },
+        {
+            "cena": 2,
+            "tempo": "1:30-2:00",
+            "script": "Para resumir o que vimos hoje, exploramos o propósito da análise exploratória de dados, a importância da preparação com uma calculadora, os objetivos de reconhecer ferramentas e medidas, e a introdução aos conceitos básicos e avançados. Espero que tenham aproveitado a aula! Até a próxima!",
+            "elementos_visuais": [
+                {
+                    "tipo": "texto",
+                    "titulo": "Resumo da Aula",
+                    "subtitulo": "Revisão dos principais pontos.",
+                    "breveDescricao": "Nesta aula, exploramos o propósito da análise exploratória de dados, a preparação necessária e os objetivos principais. Vimos também uma introdução aos conceitos básicos e avançados.",
+                    "topico_1": "Propósito da Análise",
+                    "topico_2": "Preparação",
+                    "topico_3": "Objetivos",
+                    "topico_4": "Conceitos Básicos"
+                }
+            ],
+            "palavras_chave": [
+                "propósito",
+                "análise exploratória de dados",
+                "ferramentas",
+                "medidas",
+                "conceitos básicos",
+                "conceitos avançados"
+            ]
+        }
+    ]
+}

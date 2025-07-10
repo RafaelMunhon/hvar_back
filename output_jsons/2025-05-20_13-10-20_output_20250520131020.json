@@ -1,0 +1,291 @@
+{
+    "titulo": "Desvendando Projetos, Programas e Portfólios",
+    "subtitulo": "Entenda as diferenças e como se relacionam com exemplos práticos no mundo do gerenciamento.",
+    "imagens": [
+        {
+            "urlImg": "https://images.pexels.com/photos/3184418/pexels-photo-3184418.jpeg",
+            "momentoChave": "mergulhar no universo do gerenciamento e entender direitinho",
+            "descricaoBuscaEnvato": "modern office team meeting project planning collaboration discussion business people"
+        },
+        {
+            "urlImg": "https://conteudo-scientia-prd.s3.amazonaws.com/00908_01_993760edcf.jpg",
+            "momentoChave": "alcançar os resultados do planejamento estratégico da organização",
+            "descricaoBuscaEnvato": "project management principles concepts strategic planning organization chart"
+        },
+        {
+            "urlImg": "https://images.pexels.com/photos/207891/pexels-photo-207891.jpeg",
+            "momentoChave": "projeto tem um começo e um fim bem definidos",
+            "descricaoBuscaEnvato": "calendar clock time management project deadline temporary concept schedule planning"
+        },
+        {
+            "urlImg": "https://conteudo-scientia-prd.s3.amazonaws.com/medium_00908_02_d74d7ed69d.jpg",
+            "momentoChave": "Extrair determinados dados de vendas para encaminhar",
+            "descricaoBuscaEnvato": "IT project data extraction sales report screen business technology computer"
+        },
+        {
+            "urlImg": "https://conteudo-scientia-prd.s3.amazonaws.com/medium_00908_03_dd0ff46603.jpg",
+            "momentoChave": "projeto teria dois meses de duração",
+            "descricaoBuscaEnvato": "automatic data extraction mechanism IT solution server room technology concept"
+        },
+        {
+            "urlImg": "https://conteudo-scientia-prd.s3.amazonaws.com/medium_00908_04_a74c36a90c.jpg",
+            "momentoChave": "gerente de projeto fez a entrega do produto",
+            "descricaoBuscaEnvato": "project delivery product acceptance client sign-off data file presentation meeting"
+        },
+        {
+            "urlImg": "https://conteudo-scientia-prd.s3.amazonaws.com/medium_00908_05_675cd9d4db.jpg",
+            "momentoChave": "mecanismo de extração de dados que foi criado",
+            "descricaoBuscaEnvato": "data extraction mechanism daily use business process automation workflow computer screen"
+        },
+        {
+            "urlImg": "https://images.pexels.com/photos/326501/pexels-photo-326501.jpeg",
+            "momentoChave": "projetos estão interligados e são gerenciados juntos",
+            "descricaoBuscaEnvato": "interconnected projects diagram workflow abstract network program structure business technology connections"
+        },
+        {
+            "urlImg": "https://images.pexels.com/photos/1172018/pexels-photo-1172018.jpeg",
+            "momentoChave": "proporcionar bem-estar físico e mental para um público",
+            "descricaoBuscaEnvato": "modern wellness center building architecture nature green health complex design cityscape"
+        },
+        {
+            "urlImg": "https://conteudo-scientia-prd.s3.amazonaws.com/06_f10b568827.jpg",
+            "momentoChave": "podemos decompor esse projeto maior em um Programa",
+            "descricaoBuscaEnvato": "leisure center program diagram interdependent projects olympic park games flowchart structure"
+        },
+        {
+            "urlImg": "https://images.pexels.com/photos/3184465/pexels-photo-3184465.jpeg",
+            "momentoChave": "Programa Centro de Lazer seja um sucesso",
+            "descricaoBuscaEnvato": "team celebrating success project achievement collaboration office happiness results business people"
+        },
+        {
+            "urlImg": "https://images.pexels.com/photos/164593/pexels-photo-164593.jpeg",
+            "momentoChave": "alinha todos esses projetos e programas",
+            "descricaoBuscaEnvato": "interconnected concepts puzzle pieces project program portfolio relationship business strategy connections"
+        }
+    ],
+    "codigo": [],
+    "formulas": [],
+    "cenas": [
+        {
+            "cena": 1,
+            "tempo": "0:00-0:35",
+            "script": "Olá! Que bom ter você por aqui! Hoje, vamos mergulhar no universo do gerenciamento e entender direitinho o que são projetos, programas e portfólios. Vamos descobrir como eles se conectam e onde você pode aplicar todo esse conhecimento com exemplos bem práticos. Preparado? Então vamos lá! Para começar, o que é um projeto? Muita gente fala, mas o que define mesmo? Segundo o Guia PMBOK, que é uma referência super importante na área, projeto é um esforço temporário empreendido para criar um produto, serviço ou resultado único. Guarde bem essas palavras: 'temporário' e 'único'. A maioria dos projetos é implementado com o objetivo de alcançar os resultados do planejamento estratégico da organização como um todo ou de uma área funcional. Isso significa que eles são peças chave para as empresas atingirem suas metas.",
+            "elementos_visuais": [
+                {
+                    "tipo": "texto",
+                    "titulo": "Projetos, Programas e Portfólios: Uma Visão Geral",
+                    "subtitulo": "Entendendo os conceitos fundamentais e suas aplicações práticas.",
+                    "breveDescricao": "Introdução aos conceitos de projetos, programas e portfólios, destacando a definição de projeto segundo o PMBOK como um esforço temporário para um resultado único, e sua importância no planejamento estratégico."
+                },
+                {
+                    "tipo": "imagem",
+                    "urlImg": "https://images.pexels.com/photos/3184418/pexels-photo-3184418.jpeg",
+                    "decricaoImagem": "Equipe planejando"
+                },
+                {
+                    "tipo": "imagem",
+                    "urlImg": "https://conteudo-scientia-prd.s3.amazonaws.com/00908_01_993760edcf.jpg",
+                    "decricaoImagem": "Gerenciamento projetos"
+                }
+            ],
+            "palavras_chave": [
+                "projetos",
+                "programas",
+                "portfólios",
+                "gerenciamento",
+                "exemplos práticos",
+                "Guia PMBOK",
+                "esforço temporário",
+                "produto único",
+                "serviço único",
+                "resultado único",
+                "planejamento estratégico",
+                "organização",
+                "metas"
+            ]
+        },
+        {
+            "cena": 2,
+            "tempo": "0:35-1:05",
+            "script": "Falamos que um projeto é 'temporário', certo? Isso quer dizer que ele não dura para sempre. Todo projeto tem um começo e um fim bem definidos, combinados entre todos os envolvidos, as chamadas partes interessadas. E o 'único'? Significa que o produto, serviço ou resultado que ele gera é especial, diferente de algo que já existe ou é feito repetidamente. Se fosse algo igualzinho, já seria uma rotina ou um processo, e não um projeto! Para clarear, vamos apresentar um exemplo: Imagine que uma empresa precisa de ajuda da área de TI. O objetivo? Extrair determinados dados de vendas para encaminhar a outra empresa. Esse é o pontapé inicial do nosso projeto fictício.",
+            "elementos_visuais": [
+                {
+                    "tipo": "texto",
+                    "titulo": "Características Essenciais de um Projeto",
+                    "subtitulo": "Desvendando os termos 'temporário' e 'único' com um exemplo prático em TI.",
+                    "breveDescricao": "Exploração das características 'temporário' (início e fim definidos) e 'único' (diferente de rotinas) de um projeto, introduzindo um exemplo de projeto de TI para extração de dados de vendas."
+                },
+                {
+                    "tipo": "imagem",
+                    "urlImg": "https://images.pexels.com/photos/207891/pexels-photo-207891.jpeg",
+                    "decricaoImagem": "Tempo projeto"
+                },
+                {
+                    "tipo": "imagem",
+                    "urlImg": "https://conteudo-scientia-prd.s3.amazonaws.com/medium_00908_02_d74d7ed69d.jpg",
+                    "decricaoImagem": "Projeto TI"
+                }
+            ],
+            "palavras_chave": [
+                "projeto temporário",
+                "começo e fim",
+                "partes interessadas",
+                "produto único",
+                "serviço único",
+                "resultado único",
+                "rotina",
+                "processo",
+                "projeto de TI",
+                "dados de vendas",
+                "empresa"
+            ]
+        },
+        {
+            "cena": 3,
+            "tempo": "1:05-1:40",
+            "script": "Continuando nosso exemplo de TI, esse projeto teria dois meses de duração. E qual seria a entrega principal? Um mecanismo automático de extração desses dados. Parece útil, não é? Ao final desses dois meses, o gerente de projeto fez a entrega do produto, gerando o primeiro arquivo com a extração dos dados e, muito importante, obteve o aceite do cliente. Nesse momento, com tudo entregue e aprovado, o projeto se encerrou. Mas a história não acaba aí! Esse mecanismo de extração de dados que foi criado pelo projeto, agora está sendo utilizado diariamente. Ele virou parte de um processo da empresa, e não mais uma entrega de um projeto específico.",
+            "elementos_visuais": [
+                {
+                    "tipo": "texto",
+                    "titulo": "Do Projeto à Operação: Exemplo de TI",
+                    "subtitulo": "Acompanhando a conclusão do projeto de TI e sua transformação em um processo contínuo.",
+                    "breveDescricao": "Detalhes do projeto de TI: duração, entrega de um mecanismo automático, aceite do cliente e como o resultado do projeto se integrou às operações diárias da empresa, tornando-se um processo."
+                },
+                {
+                    "tipo": "imagem",
+                    "urlImg": "https://conteudo-scientia-prd.s3.amazonaws.com/medium_00908_03_dd0ff46603.jpg",
+                    "decricaoImagem": "Mecanismo automático"
+                },
+                {
+                    "tipo": "imagem",
+                    "urlImg": "https://conteudo-scientia-prd.s3.amazonaws.com/medium_00908_04_a74c36a90c.jpg",
+                    "decricaoImagem": "Entrega produto"
+                }
+            ],
+            "palavras_chave": [
+                "dois meses",
+                "mecanismo automático",
+                "extração de dados",
+                "gerente de projeto",
+                "entrega do produto",
+                "aceite do cliente",
+                "projeto encerrou",
+                "utilizado diariamente",
+                "processo da empresa",
+                "entrega de um projeto"
+            ]
+        },
+        {
+            "cena": 4,
+            "tempo": "1:40-2:20",
+            "script": "Interessante como um projeto pode dar origem a uma rotina, né? Agora, é importante saber que um projeto pode ser independente, voando solo, ou pode estar conectado a outros projetos. Quando vários projetos estão interligados e são gerenciados juntos para alcançar benefícios maiores, chamamos isso de programa. O Guia PMBOK define um programa como um grupo de projetos, programas subsidiários e atividades de programas relacionados, gerenciados de modo coordenado visando à obtenção de benefícios que não estariam disponíveis se eles fossem gerenciados individualmente. E se formos ainda mais abrangentes? Aí entra o portfólio! De acordo com o Guia PMBOK, um portfólio é um conjunto de projetos, programas, outros portfólios menores e até operações, todos gerenciados juntos para alcançar os objetivos estratégicos da organização. O gerenciamento de portfólio ajuda a empresa a ser mais eficiente para atingir suas grandes metas, muitas vezes dentro de uma estrutura chamada Gerenciamento de Projetos Organizacionais, ou GPO.",
+            "elementos_visuais": [
+                {
+                    "tipo": "texto",
+                    "titulo": "Entendendo Programas e Portfólios",
+                    "subtitulo": "Definições do PMBOK e a importância do gerenciamento para alcançar objetivos estratégicos.",
+                    "breveDescricao": "Explicação sobre como projetos podem ser interdependentes, formando programas para benefícios coordenados, e como programas e projetos se agrupam em portfólios para atingir objetivos estratégicos, mencionando o GPO."
+                },
+                {
+                    "tipo": "imagem",
+                    "urlImg": "https://conteudo-scientia-prd.s3.amazonaws.com/medium_00908_05_675cd9d4db.jpg",
+                    "decricaoImagem": "Mecanismo operando"
+                },
+                {
+                    "tipo": "imagem",
+                    "urlImg": "https://images.pexels.com/photos/326501/pexels-photo-326501.jpeg",
+                    "decricaoImagem": "Projetos conectados"
+                }
+            ],
+            "palavras_chave": [
+                "projeto independente",
+                "conectado a outros",
+                "programa",
+                "Guia PMBOK",
+                "benefícios coordenados",
+                "portfólio",
+                "objetivos estratégicos",
+                "gerenciamento de portfólio",
+                "eficiente",
+                "grandes metas",
+                "Gerenciamento de Projetos Organizacionais",
+                "GPO"
+            ]
+        },
+        {
+            "cena": 5,
+            "tempo": "2:20-3:00",
+            "script": "Vamos ver um exemplo prático para juntar todas essas peças: portfólio, programa e projeto. Imagine que o grande objetivo estratégico de uma organização é proporcionar bem-estar físico e mental para um público específico. Para isso, ela planeja criar um complexo com cuidados físicos, psicológicos e área de lazer. Na primeira etapa, pensando nos cuidados, surge a necessidade da construção de um prédio com ambulatórios. Isso pode ser um projeto único, que podemos chamar de Projeto Centro de Cuidados. Agora, na segunda etapa, vamos pensar no Projeto Centro de Lazer. Esse centro deve ter jogos, shows, festas e muito mais. É algo grande, né? Então, podemos decompor esse projeto maior em um Programa Centro de Lazer, que vai agrupar vários projetos interdependentes. Por exemplo: um projeto para o Parque Olímpico, outro para a Quadra de Jogos de Salão, um para a Quadra de Jogos ao Ar Livre, um para a Casa de Festas e Shows, e até uma Casa de Festas Infantil.",
+            "elementos_visuais": [
+                {
+                    "tipo": "texto",
+                    "titulo": "Exemplo Prático: Complexo de Bem-Estar",
+                    "subtitulo": "Visualizando projetos e programas dentro de um objetivo estratégico maior.",
+                    "breveDescricao": "Apresentação de um exemplo prático de um portfólio (complexo de bem-estar) que inclui um projeto (Centro de Cuidados) e um programa (Centro de Lazer), o qual é subdividido em múltiplos projetos interdependentes."
+                },
+                {
+                    "tipo": "imagem",
+                    "urlImg": "https://images.pexels.com/photos/1172018/pexels-photo-1172018.jpeg",
+                    "decricaoImagem": "Complexo bem-estar"
+                },
+                {
+                    "tipo": "imagem",
+                    "urlImg": "https://conteudo-scientia-prd.s3.amazonaws.com/06_f10b568827.jpg",
+                    "decricaoImagem": "Diagrama lazer"
+                }
+            ],
+            "palavras_chave": [
+                "exemplo prático",
+                "objetivo estratégico",
+                "bem-estar físico",
+                "bem-estar mental",
+                "Projeto Centro de Cuidados",
+                "construção de prédio",
+                "Projeto Centro de Lazer",
+                "jogos",
+                "shows",
+                "festas",
+                "Programa Centro de Lazer",
+                "projetos interdependentes",
+                "Parque Olímpico"
+            ]
+        },
+        {
+            "cena": 6,
+            "tempo": "3:00-3:30",
+            "script": "Chegamos à terceira etapa do nosso exemplo. Para que o Programa Centro de Lazer seja um sucesso e entregue tudo o que promete, ele depende diretamente do quê? Isso mesmo, ele precisa que todos os projetos ligados a ele, como o Parque Olímpico e a Casa de Festas, façam suas entregas no prazo adequado e com a qualidade esperada. É um trabalho em equipe! Então, recapitulando rapidinho: um projeto tem um objetivo específico e é temporário. Vários projetos relacionados podem formar um programa, buscando benefícios em conjunto. E um portfólio alinha todos esses projetos e programas com os objetivos estratégicos da empresa. Entender essas diferenças e como eles se conectam é fundamental para o sucesso em qualquer área! Espero que esta aula tenha clareado suas ideias sobre projetos, programas e portfólios. Até a próxima!",
+            "elementos_visuais": [
+                {
+                    "tipo": "texto",
+                    "titulo": "Conclusão e Resumo",
+                    "subtitulo": "Recapitulando as interconexões entre projetos, programas e portfólios.",
+                    "breveDescricao": "Conclusão do exemplo do Centro de Lazer, enfatizando a interdependência para o sucesso. Resumo dos conceitos de projeto, programa e portfólio, e a importância de entender suas relações para o sucesso organizacional."
+                },
+                {
+                    "tipo": "imagem",
+                    "urlImg": "https://images.pexels.com/photos/3184465/pexels-photo-3184465.jpeg",
+                    "decricaoImagem": "Sucesso equipe"
+                },
+                {
+                    "tipo": "imagem",
+                    "urlImg": "https://images.pexels.com/photos/164593/pexels-photo-164593.jpeg",
+                    "decricaoImagem": "Conceitos interligados"
+                }
+            ],
+            "palavras_chave": [
+                "Programa Centro de Lazer",
+                "sucesso",
+                "entregas",
+                "prazo adequado",
+                "qualidade esperada",
+                "trabalho em equipe",
+                "projeto",
+                "programa",
+                "portfólio",
+                "objetivos estratégicos",
+                "diferenças",
+                "conexões"
+            ]
+        }
+    ]
+}

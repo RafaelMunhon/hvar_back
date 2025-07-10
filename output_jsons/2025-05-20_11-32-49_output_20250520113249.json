@@ -1,0 +1,270 @@
+{
+    "titulo": "Desvendando os Eventos em Probabilidade",
+    "subtitulo": "Uma introdução aos subconjuntos do espaço amostral e como identificá-los, com exemplos práticos utilizando moedas e dados.",
+    "imagens": [
+        {
+            "urlImg": "https://img.freepik.com/fotos-gratis/arranjo-de-elementos-do-jogo-de-tabuleiro_23-2151025498.jpg",
+            "momentoChave": "Esse universo é o nosso espaço amostral",
+            "descricaoBuscaEnvato": "Abstract concept of universe of possibilities, data, probability, sample space, colorful elements"
+        },
+        {
+            "urlImg": "https://img.freepik.com/vetores-gratis/diagrama-de-venn-colorido-plano_23-2149321395.jpg",
+            "momentoChave": "todo subconjunto A que faz parte de S",
+            "descricaoBuscaEnvato": "Venn diagram showing subset A within set S, probability event concept, colorful circles"
+        },
+        {
+            "urlImg": "https://img.freepik.com/fotos-gratis/duas-moedas-de-um-euro-de-ouro-isoladas-em-um-fundo-branco_661200-512.jpg",
+            "momentoChave": "que a gente quer o evento A1",
+            "descricaoBuscaEnvato": "Two coins showing heads and tails, probability coin toss experiment, isolated objects"
+        },
+        {
+            "urlImg": "https://img.freepik.com/fotos-gratis/dados-de-jogo-em-fundo-escuro_102671-6100.jpg",
+            "momentoChave": "o valor de x é igual à raiz quadrada",
+            "descricaoBuscaEnvato": "Two dice on a dark surface, probability dice roll game concept, random numbers"
+        },
+        {
+            "urlImg": "https://img.freepik.com/premium-photo/two-dice-showing-sum-seven_1048944-25019741.jpg",
+            "momentoChave": "onde a soma dos resultados dos dois dados é 7",
+            "descricaoBuscaEnvato": "Two dice showing a combination that sums to seven luck game, close up"
+        },
+        {
+            "urlImg": "https://img.freepik.com/vetores-gratis/ilustracao-do-conceito-de-apresentacao_114360-7041.jpg",
+            "momentoChave": "Vimos que S é o evento certo",
+            "descricaoBuscaEnvato": "Concept illustration of learning summary, education, probability icons, infographic style"
+        }
+    ],
+    "codigo": [],
+    "formulas": [
+        {
+            "formula": "A_1:{(c, c),(c, k)}",
+            "momentoChaveFormula": "Veja como fica a representação",
+            "fimMomentoChaveFormula": "contendo os pares (c, c) e (c, k)"
+        },
+        {
+            "formula": "A_2:{(x, y) \\mid x=\\sqrt{y}} \\Rightarrow A_2=\\{(1,1),(2,4)\\}",
+            "momentoChaveFormula": "A representação do evento A2 fica assim",
+            "fimMomentoChaveFormula": "contendo os pares (1,1) e (2,4)"
+        },
+        {
+            "formula": "A_3=\\{(1,6),(2,5),(3,4),(4,3),(5,2),(6,1)\\}",
+            "momentoChaveFormula": "Então, a representação fica",
+            "fimMomentoChaveFormula": "pares (1,6), (2,5), (3,4), (4,3), (5,2) e (6,1)"
+        }
+    ],
+    "cenas": [
+        {
+            "cena": 1,
+            "tempo": "0:00-0:30",
+            "script": "Olá! Tudo bem? Hoje vamos mergulhar no mundo da probabilidade e falar sobre algo super importante: os eventos! Sabe, quando falamos de probabilidade, sempre temos um 'universo' de todas as coisas que podem acontecer, certo? Esse universo é o nosso espaço amostral. E um evento? Ah, um evento é como pegar uma fatia desse universo, ou seja, um evento é um subconjunto do espaço amostral. Simples assim!",
+            "elementos_visuais": [
+                {
+                    "tipo": "texto",
+                    "titulo": "O que é um Evento?",
+                    "subtitulo": "Entendendo o conceito básico de evento em probabilidade.",
+                    "breveDescricao": "Introdução ao conceito de evento como uma parte (subconjunto) do espaço amostral, que representa todas as possibilidades de um experimento.",
+                    "topico_1": "Probabilidade e seus componentes",
+                    "topico_2": "Espaço amostral: o universo das possibilidades",
+                    "topico_3": "Evento: uma fatia do universo",
+                    "topico_4": "Definição simples de evento"
+                },
+                {
+                    "tipo": "imagem",
+                    "urlImg": "https://img.freepik.com/fotos-gratis/arranjo-de-elementos-do-jogo-de-tabuleiro_23-2151025498.jpg",
+                    "decricaoImagem": "Universo possibilidades"
+                }
+            ],
+            "palavras_chave": [
+                "Olá",
+                "probabilidade",
+                "eventos",
+                "espaço amostral",
+                "universo de todas as coisas",
+                "podem acontecer",
+                "um evento",
+                "subconjunto do espaço amostral",
+                "pegar uma fatia",
+                "Simples assim"
+            ]
+        },
+        {
+            "cena": 2,
+            "tempo": "0:30-1:00",
+            "script": "Então, para ficar bem claro: se a gente tem um espaço amostral, que chamamos de S, qualquer pedacinho dele, ou seja, todo subconjunto A que faz parte de S, é o que chamamos de evento. Pensou em um experimento? O S é tudo o que pode acontecer, por isso ele é o evento certo. E se não tiver como acontecer nada daquilo que a gente quer? Aí temos o evento impossível, que é representado pelo conjunto vazio.",
+            "elementos_visuais": [
+                {
+                    "tipo": "texto",
+                    "titulo": "Definição Formal e Casos Especiais",
+                    "subtitulo": "Aprofundando na definição de evento e conhecendo evento certo e impossível.",
+                    "breveDescricao": "Exploração da definição formal de evento como um subconjunto A de um espaço amostral S. Apresentação do evento certo (S) e do evento impossível (conjunto vazio).",
+                    "topico_1": "Espaço amostral S",
+                    "topico_2": "Subconjunto A como evento",
+                    "topico_3": "Evento certo: todas as possibilidades",
+                    "topico_4": "Evento impossível: nenhuma possibilidade"
+                },
+                {
+                    "tipo": "imagem",
+                    "urlImg": "https://img.freepik.com/vetores-gratis/diagrama-de-venn-colorido-plano_23-2149321395.jpg",
+                    "decricaoImagem": "Diagrama evento"
+                }
+            ],
+            "palavras_chave": [
+                "espaço amostral S",
+                "subconjunto A",
+                "faz parte de S",
+                "chamamos de evento",
+                "Pensou em um experimento",
+                "S é tudo",
+                "evento certo",
+                "não tiver como acontecer",
+                "evento impossível",
+                "conjunto vazio"
+            ]
+        },
+        {
+            "cena": 3,
+            "tempo": "1:00-1:40",
+            "script": "Vamos ver na prática? Imagine que você vai lançar uma moeda duas vezes. Quais são os resultados possíveis? Pode ser cara e cara, cara e coroa, coroa e cara, ou coroa e coroa. Esse é nosso espaço amostral. Agora, digamos que a gente quer o evento A1, onde o primeiro resultado é cara. Quais combinações atendem a isso? Exatamente! Seriam os pares (cara, cara) e (cara, coroa). Veja como fica a representação: A1 é igual ao conjunto contendo os pares (c, c) e (c, k).",
+            "elementos_visuais": [
+                {
+                    "tipo": "texto",
+                    "titulo": "Exemplo 1: Lançamento de Moedas",
+                    "subtitulo": "Aplicando o conceito de evento no lançamento de duas moedas.",
+                    "breveDescricao": "Demonstração prática com o lançamento de duas moedas. Identificação do espaço amostral e do evento A1 (primeiro resultado ser cara), incluindo sua representação matemática.",
+                    "topico_1": "Experimento: lançar moeda duas vezes",
+                    "topico_2": "Espaço amostral do experimento",
+                    "topico_3": "Evento A1: Primeiro resultado é cara",
+                    "topico_4": "Representação A1: {(c,c), (c,k)}"
+                },
+                {
+                    "tipo": "imagem",
+                    "urlImg": "https://img.freepik.com/fotos-gratis/duas-moedas-de-um-euro-de-ouro-isoladas-em-um-fundo-branco_661200-512.jpg",
+                    "decricaoImagem": "Moedas cara coroa"
+                }
+            ],
+            "palavras_chave": [
+                "Vamos ver na prática",
+                "lançar uma moeda",
+                "duas vezes",
+                "resultados possíveis",
+                "primeiro resultado é cara",
+                "evento A1",
+                "Quais combinações",
+                "pares (cara, cara)",
+                "pares (cara, coroa)",
+                "representação A1",
+                "conjunto contendo os pares"
+            ]
+        },
+        {
+            "cena": 4,
+            "tempo": "1:40-2:25",
+            "script": "Outro exemplo! Agora com o lançamento de dois dados. Pense que o resultado do primeiro dado é 'x' e o do segundo é 'y'. Nosso evento A2 é definido assim: queremos os pares (x, y) onde o valor de x é igual à raiz quadrada do valor de y. Parece complicado? Nem tanto! Se o primeiro dado (x) for 1, qual deve ser o segundo (y) para que 1 seja a raiz quadrada de y? Isso, y tem que ser 1, porque raiz de 1 é 1. Então temos o par (1,1). E se o primeiro dado (x) for 2? Então y tem que ser 4, pois 2 é a raiz quadrada de 4. Temos o par (2,4). A representação do evento A2 fica assim: A2 é igual ao conjunto contendo os pares (1,1) e (2,4).",
+            "elementos_visuais": [
+                {
+                    "tipo": "texto",
+                    "titulo": "Exemplo 2.1: Lançamento de Dados (Condição Raiz Quadrada)",
+                    "subtitulo": "Analisando um evento no lançamento de dois dados com uma condição específica.",
+                    "breveDescricao": "Exemplo com dois dados. Definição do evento A2 onde o resultado do primeiro dado (x) é a raiz quadrada do segundo (y). Identificação dos pares que satisfazem a condição: (1,1) e (2,4).",
+                    "topico_1": "Experimento: lançar dois dados",
+                    "topico_2": "Evento A2: x = √y",
+                    "topico_3": "Par (1,1): 1 = √1",
+                    "topico_4": "Par (2,4): 2 = √4"
+                },
+                {
+                    "tipo": "imagem",
+                    "urlImg": "https://img.freepik.com/fotos-gratis/dados-de-jogo-em-fundo-escuro_102671-6100.jpg",
+                    "decricaoImagem": "Dois dados"
+                }
+            ],
+            "palavras_chave": [
+                "lançamento de dois dados",
+                "primeiro dado é x",
+                "segundo é y",
+                "evento A2",
+                "x é igual",
+                "raiz quadrada do valor de y",
+                "par (1,1)",
+                "par (2,4)",
+                "y tem que ser 1",
+                "y tem que ser 4",
+                "conjunto contendo os pares"
+            ]
+        },
+        {
+            "cena": 5,
+            "tempo": "2:25-3:00",
+            "script": "Continuando com os dados, vamos pensar no evento A3, onde a soma dos resultados dos dois dados é 7. Quais pares de números somam 7? Podemos ter (1,6), (2,5), (3,4). E também o contrário, (4,3), (5,2) e (6,1). Todas essas combinações formam o nosso evento A3. Então, a representação fica: A3 é igual ao conjunto contendo os pares (1,6), (2,5), (3,4), (4,3), (5,2) e (6,1).",
+            "elementos_visuais": [
+                {
+                    "tipo": "texto",
+                    "titulo": "Exemplo 2.2: Lançamento de Dados (Soma dos Resultados)",
+                    "subtitulo": "Identificando o evento onde a soma dos resultados de dois dados é 7.",
+                    "breveDescricao": "Continuação do exemplo dos dados. Definição do evento A3 onde a soma dos resultados dos dois dados é 7. Listagem de todas as combinações possíveis: (1,6), (2,5), (3,4), (4,3), (5,2), (6,1).",
+                    "topico_1": "Evento A3: Soma dos resultados é 7",
+                    "topico_2": "Pares que somam 7: (1,6), (2,5), (3,4)",
+                    "topico_3": "Pares invertidos: (4,3), (5,2), (6,1)",
+                    "topico_4": "Representação do evento A3"
+                },
+                {
+                    "tipo": "imagem",
+                    "urlImg": "https://img.freepik.com/premium-photo/two-dice-showing-sum-seven_1048944-25019741.jpg",
+                    "decricaoImagem": "Dados soma 7"
+                }
+            ],
+            "palavras_chave": [
+                "Continuando com os dados",
+                "evento A3",
+                "soma dos resultados",
+                "dados é 7",
+                "Quais pares",
+                "números somam 7",
+                "(1,6)",
+                "(2,5)",
+                "(3,4)",
+                "(4,3)",
+                "(5,2)",
+                "(6,1)",
+                "combinações formam",
+                "conjunto contendo os pares"
+            ]
+        },
+        {
+            "cena": 6,
+            "tempo": "3:00-3:30",
+            "script": "E aí, ficou mais claro o que é um evento? Recapitulando: um evento é sempre um subconjunto do espaço amostral, ou seja, uma parte de todas as possibilidades. Vimos que S é o evento certo e o conjunto vazio é o evento impossível. E através dos exemplos da moeda e dos dados, vimos como identificar e representar esses eventos. Espero que essa conversa tenha ajudado شما a entender melhor esse conceito fundamental da probabilidade. Até a próxima!",
+            "elementos_visuais": [
+                {
+                    "tipo": "texto",
+                    "titulo": "Resumo da Aula: Eventos em Probabilidade",
+                    "subtitulo": "Revisão dos principais conceitos sobre eventos.",
+                    "breveDescricao": " recapitulação dos pontos chave: evento como subconjunto do espaço amostral, evento certo (S), evento impossível (conjunto vazio), e a exemplificação prática com moedas e dados.",
+                    "topico_1": "Evento é subconjunto do espaço amostral",
+                    "topico_2": "S é o evento certo",
+                    "topico_3": "Conjunto vazio é evento impossível",
+                    "topico_4": "Exemplos práticos revisados"
+                },
+                {
+                    "tipo": "imagem",
+                    "urlImg": "https://img.freepik.com/vetores-gratis/ilustracao-do-conceito-de-apresentacao_114360-7041.jpg",
+                    "decricaoImagem": "Resumo aprendizado"
+                }
+            ],
+            "palavras_chave": [
+                "ficou mais claro",
+                "o que é um evento",
+                "Recapitulando",
+                "evento é subconjunto",
+                "espaço amostral",
+                "parte de todas as possibilidades",
+                "S é o evento certo",
+                "conjunto vazio",
+                "evento impossível",
+                "exemplos da moeda",
+                "exemplos dos dados",
+                "conceito fundamental",
+                "entender melhor",
+                "Até a próxima"
+            ]
+        }
+    ]
+}

@@ -1,0 +1,29 @@
+{
+    "palavras_chaves": [
+        "Aurora",
+        "poente",
+        "terra",
+        "sementes",
+        "planta",
+        "tenaz",
+        "coração",
+        "vento",
+        "hinos",
+        "amadurecemos",
+        "plenitude"
+    ],
+    "imagens": [
+        {
+            "momentoChave": "nunca Aurora nos encontra onde o poente nos deixou mesmo quando a terra dorme",
+            "descricaoBuscaEnvato": "Sunrise over a field with mountains in the distance, golden light shining on the landscape"
+        },
+        {
+            "momentoChave": "somos todos sementes de uma planta tenaz e quando amadurecemos e atingimos a nossa",
+            "descricaoBuscaEnvato": "Close-up of seeds being scattered by the wind in a field, with soft focus background"
+        },
+        {
+            "momentoChave": "plenitude de coração aí vem o vento hinos espalha",
+            "descricaoBuscaEnvato": "Wind blowing through a field of tall grass, creating movement and texture in the landscape"
+        }
+    ]
+}

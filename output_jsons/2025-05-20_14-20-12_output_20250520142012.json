@@ -1,0 +1,290 @@
+{
+    "titulo": "Desvendando a Estrutura Organizacional",
+    "subtitulo": "Entenda como as empresas se organizam para o sucesso dos projetos e do negócio.",
+    "imagens": [
+        {
+            "urlImg": "https://conteudo-scientia-prd.s3.amazonaws.com/00908_10_ab484cad89.jpg",
+            "momentoChave": "alcance de suas metas e atenda ao que definiu",
+            "descricaoBuscaEnvato": "Business team working on a project, organizational structure concept, meeting room collaboration"
+        },
+        {
+            "urlImg": "https://images.pexels.com/photos/3184398/pexels-photo-3184398.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+            "momentoChave": "se estabelece pelos próprios funcionários de acordo com a convivência",
+            "descricaoBuscaEnvato": "Diverse team collaborating casually in a modern office, informal meeting, brainstorming session"
+        },
+        {
+            "urlImg": "https://images.pexels.com/photos/7414040/pexels-photo-7414040.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+            "momentoChave": "formal se estrutura de forma hierárquica podendo ser por função",
+            "descricaoBuscaEnvato": "Clear organizational chart diagram, corporate hierarchy structure, business management concept"
+        },
+        {
+            "urlImg": "https://images.pexels.com/photos/6078099/pexels-photo-6078099.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+            "momentoChave": "Define a autoridade que pode ser linear ou hierárquica",
+            "descricaoBuscaEnvato": "Abstract representation of chain of command, leadership flow, authority lines in business"
+        },
+        {
+            "urlImg": "https://images.pexels.com/photos/3184418/pexels-photo-3184418.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+            "momentoChave": "define se a mesma será centralizada acontecendo nos níveis mais altos",
+            "descricaoBuscaEnvato": "Business team making decisions around a table, strategic planning meeting, data analysis"
+        },
+        {
+            "urlImg": "https://images.pexels.com/photos/1181345/pexels-photo-1181345.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+            "momentoChave": "possam contribuir para um fluxo de comunicação eficiente e eficaz",
+            "descricaoBuscaEnvato": "Diverse group in effective communication, team discussion, sharing ideas in office"
+        },
+        {
+            "urlImg": "https://images.pexels.com/photos/7176026/pexels-photo-7176026.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+            "momentoChave": "detalhamos seus componentes chave cadeia de comando amplitude administrativa",
+            "descricaoBuscaEnvato": "Friendly thank you message, end of presentation slide, successful learning concept"
+        }
+    ],
+    "codigo": [],
+    "formulas": [],
+    "cenas": [
+        {
+            "cena": 1,
+            "tempo": "0:00-0:45",
+            "script": "Olá! Hoje vamos conversar sobre um tema super importante para qualquer projeto ou empresa: a estrutura organizacional. Sabe quando a gente pensa em como uma empresa funciona para alcançar seus objetivos? Então, estamos falando de como ela se organiza! Uma empresa ou instituição se organiza de forma que melhor propicie o alcance de suas metas e atenda ao que definiu como missão, visão, valores e estratégias. Essa organização pode ser mais formal ou mais solta, digamos, informal.",
+            "elementos_visuais": [
+                {
+                    "tipo": "texto",
+                    "titulo": "Estrutura Organizacional: A Base de Tudo",
+                    "subtitulo": "Entendendo como as empresas se organizam para o sucesso.",
+                    "breveDescricao": "Introdução ao conceito de estrutura organizacional, como as empresas se organizam para atingir metas e objetivos, alinhado à missão, visão e valores. Aborda a existência de estruturas formais e informais.",
+                    "estilo": "default"
+                },
+                {
+                    "tipo": "imagem",
+                    "urlImg": "https://conteudo-scientia-prd.s3.amazonaws.com/00908_10_ab484cad89.jpg",
+                    "decricaoImagem": "Equipe colaborando",
+                    "estilo": "default"
+                }
+            ],
+            "palavras_chave": [
+                "estrutura organizacional",
+                "empresa funciona",
+                "alcançar objetivos",
+                "como ela se organiza",
+                "alcance de suas metas",
+                "missão",
+                "visão",
+                "valores",
+                "estratégias",
+                "organização formal",
+                "organização informal",
+                "propicie o alcance",
+                "empresa ou instituição",
+                "se organiza"
+            ]
+        },
+        {
+            "cena": 2,
+            "tempo": "0:45-1:30",
+            "script": "Vamos entender melhor essas duas formas. A estrutura organizacional informal é aquela que surge naturalmente, sabe? Ela se estabelece pelos próprios funcionários de acordo com a convivência e a experiência nas tarefas do dia a dia. Já a estrutura organizacional formal é mais desenhada, se estrutura de forma hierárquica podendo ser por função, por projetos, por unidade de negócios, e por aí vai. É como um mapa oficial da empresa.",
+            "elementos_visuais": [
+                {
+                    "tipo": "texto",
+                    "titulo": "Formal vs. Informal: As Duas Faces da Organização",
+                    "subtitulo": "Compreendendo as diferenças e características de cada tipo.",
+                    "breveDescricao": "Explicação das estruturas organizacionais informal, que surge da convivência dos funcionários, e formal, que é hierárquica e definida por funções, projetos ou unidades de negócio, sendo o 'mapa oficial' da empresa.",
+                    "estilo": "default"
+                },
+                {
+                    "tipo": "imagem",
+                    "urlImg": "https://images.pexels.com/photos/3184398/pexels-photo-3184398.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+                    "decricaoImagem": "Colaboração informal",
+                    "estilo": "default"
+                },
+                {
+                    "tipo": "imagem",
+                    "urlImg": "https://images.pexels.com/photos/7414040/pexels-photo-7414040.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+                    "decricaoImagem": "Organograma formal",
+                    "estilo": "default"
+                }
+            ],
+            "palavras_chave": [
+                "estrutura informal",
+                "surge naturalmente",
+                "próprios funcionários",
+                "convivência",
+                "experiência nas tarefas",
+                "estrutura formal",
+                "forma hierárquica",
+                "por função",
+                "por projetos",
+                "unidade de negócios",
+                "mapa oficial",
+                "duas formas"
+            ]
+        },
+        {
+            "cena": 3,
+            "tempo": "1:30-2:20",
+            "script": "Toda estrutura organizacional, especialmente a formal, tem alguns componentes chave que ajudam a definir como tudo funciona. Vamos conhecer alguns! Primeiro, a Cadeia de Comando: ela Define a autoridade que pode ser linear ou hierárquica e funcional ou de assessoria. Basicamente, quem responde a quem. Depois, temos a Amplitude Administrativa. Já ouviu falar? Ela é definida pelo número de subordinados que uma gerência controla. Se for larga, com muitos subordinados, a descentralização ajuda e motiva, mas o controle pode ser um desafio. Se for estreita, com poucos, a centralização facilita o controle, mas pode desmotivar pela falta de delegação.",
+            "elementos_visuais": [
+                {
+                    "tipo": "texto",
+                    "titulo": "Componentes da Estrutura (Parte 1)",
+                    "subtitulo": "Cadeia de Comando e Amplitude Administrativa.",
+                    "breveDescricao": "Apresentação dos primeiros componentes da estrutura organizacional formal: a Cadeia de Comando, que define a hierarquia e autoridade, e a Amplitude Administrativa, referente ao número de subordinados por gestor e seu impacto na centralização/descentralização.",
+                    "estilo": "default"
+                },
+                {
+                    "tipo": "imagem",
+                    "urlImg": "https://images.pexels.com/photos/6078099/pexels-photo-6078099.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+                    "decricaoImagem": "Fluxo Autoridade",
+                    "estilo": "default"
+                }
+            ],
+            "palavras_chave": [
+                "componentes chave",
+                "Cadeia de Comando",
+                "define a autoridade",
+                "linear ou hierárquica",
+                "funcional ou assessoria",
+                "quem responde a quem",
+                "Amplitude Administrativa",
+                "número de subordinados",
+                "amplitude larga",
+                "descentralização",
+                "amplitude estreita",
+                "centralização",
+                "falta de delegação",
+                "gerência controla"
+            ]
+        },
+        {
+            "cena": 4,
+            "tempo": "2:20-3:05",
+            "script": "Continuando com os componentes, temos a Tomada de Decisão. Esse componente define se a mesma será centralizada acontecendo nos níveis mais altos da empresa, ou descentralizada, quando as decisões podem acontecer em todos os níveis hierárquicos. Outro componente importante é o Tamanho da Especialização, que define o grau de divisão e padronização das tarefas. Ou seja, o quão específicas e repetitivas são as funções de cada um.",
+            "elementos_visuais": [
+                {
+                    "tipo": "texto",
+                    "titulo": "Componentes da Estrutura (Parte 2)",
+                    "subtitulo": "Tomada de Decisão e Tamanho da Especialização.",
+                    "breveDescricao": "Continuação sobre os componentes da estrutura: Tomada de Decisão, que define onde as decisões são feitas (centralizadas ou descentralizadas), e o Tamanho da Especialização, que trata do grau de divisão e padronização das tarefas.",
+                    "estilo": "default"
+                },
+                {
+                    "tipo": "imagem",
+                    "urlImg": "https://images.pexels.com/photos/3184418/pexels-photo-3184418.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+                    "decricaoImagem": "Decisões equipe",
+                    "estilo": "default"
+                }
+            ],
+            "palavras_chave": [
+                "Tomada de Decisão",
+                "decisão centralizada",
+                "níveis mais altos",
+                "decisão descentralizada",
+                "todos os níveis hierárquicos",
+                "Tamanho da Especialização",
+                "grau de divisão",
+                "padronização das tarefas",
+                "tarefas específicas",
+                "tarefas repetitivas",
+                "funções de cada um"
+            ]
+        },
+        {
+            "cena": 5,
+            "tempo": "3:05-3:55",
+            "script": "Chegando aos últimos componentes, temos a Formalização, que estabelece as regras e procedimentos a serem adotados pela empresa, o famoso 'como as coisas devem ser feitas'. E a Departamentalização, que agrupa as atividades por especialidades, como marketing, financeiro, RH, etc. Agora, uma dúvida comum: qual a diferença entre Estrutura Organizacional e Organograma? A estrutura organizacional é como a organização se divide para gerir suas atividades com foco em metas. Já o organograma é a ferramenta gráfica, o desenho que representa essa estrutura, orientando processos, cargos e responsabilidades.",
+            "elementos_visuais": [
+                {
+                    "tipo": "texto",
+                    "titulo": "Componentes Finais e o Organograma",
+                    "subtitulo": "Formalização, Departamentalização e a distinção crucial.",
+                    "breveDescricao": "Discussão sobre os componentes finais Formalização (regras e procedimentos) e Departamentalização (agrupamento por especialidades). Esclarece a diferença entre Estrutura Organizacional (divisão para gerir atividades) e Organograma (representação gráfica da estrutura).",
+                    "estilo": "default"
+                }
+            ],
+            "palavras_chave": [
+                "Formalização",
+                "regras e procedimentos",
+                "como as coisas devem ser feitas",
+                "Departamentalização",
+                "agrupa atividades",
+                "por especialidades",
+                "Estrutura Organizacional",
+                "Organograma",
+                "ferramenta gráfica",
+                "desenho que representa",
+                "orientando processos",
+                "cargos",
+                "responsabilidades"
+            ]
+        },
+        {
+            "cena": 6,
+            "tempo": "3:55-4:45",
+            "script": "Legal! Mas não adianta só definir tudo isso no papel, né? É fundamental que essa estrutura seja conhecida por todos na organização. Assim, cada um sabe seu papel, suas responsabilidades, e isso ajuda muito para que todos possam contribuir para um fluxo de comunicação eficiente e eficaz. E falando em escolher uma estrutura, cada organização é única! Diversos fatores influenciam essa escolha, como o alinhamento com os objetivos, a capacidade de delegar, a clareza nas comunicações e até os locais físicos. Não existe uma fórmula mágica ou uma estrutura que sirva para todos.",
+            "elementos_visuais": [
+                {
+                    "tipo": "texto",
+                    "titulo": "Comunicação e a Escolha da Estrutura",
+                    "subtitulo": "Propagando a informação e fatores de decisão.",
+                    "breveDescricao": "Ênfase na importância de comunicar a estrutura organizacional a todos, garantindo clareza de papéis e responsabilidades para uma comunicação eficaz. Aborda que cada organização é única e diversos fatores influenciam a escolha da estrutura ideal.",
+                    "estilo": "default"
+                },
+                {
+                    "tipo": "imagem",
+                    "urlImg": "https://images.pexels.com/photos/1181345/pexels-photo-1181345.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+                    "decricaoImagem": "Comunicação eficaz",
+                    "estilo": "default"
+                }
+            ],
+            "palavras_chave": [
+                "conhecida por todos",
+                "papel",
+                "responsabilidades",
+                "fluxo de comunicação",
+                "comunicação eficiente",
+                "cada organização é única",
+                "fatores influenciam",
+                "alinhamento com objetivos",
+                "capacidade de delegar",
+                "clareza nas comunicações",
+                "locais físicos",
+                "não existe fórmula mágica",
+                "estrutura que sirva para todos"
+            ]
+        },
+        {
+            "cena": 7,
+            "tempo": "4:45-5:30",
+            "script": "E aí, deu pra clarear as ideias sobre estrutura organizacional? Hoje nós vimos o que é uma estrutura organizacional, exploramos as diferenças entre formal e informal. Nós detalhamos seus componentes chave cadeia de comando amplitude administrativa tomada de decisão especialização formalização e departamentalização. Falamos sobre a diferença para o organograma e a importância da comunicação. Lembre-se que escolher a estrutura certa é crucial para o sucesso! Espero que tenham gostado. Até a próxima!",
+            "elementos_visuais": [
+                {
+                    "tipo": "texto",
+                    "titulo": "Resumo da Aula: Estrutura Organizacional",
+                    "subtitulo": "Recapitulando os pontos principais e mensagem final.",
+                    "breveDescricao": "Recapitulação dos temas abordados: conceito de estrutura organizacional, distinção entre formal e informal, os componentes chave (cadeia de comando, amplitude, decisão, especialização, formalização, departamentalização), diferença para organograma e a importância da comunicação e escolha adequada.",
+                    "estilo": "default"
+                },
+                {
+                    "tipo": "imagem",
+                    "urlImg": "https://images.pexels.com/photos/7176026/pexels-photo-7176026.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+                    "decricaoImagem": "Aula finalizada",
+                    "estilo": "default"
+                }
+            ],
+            "palavras_chave": [
+                "clarear as ideias",
+                "o que é estrutura",
+                "formal e informal",
+                "componentes chave",
+                "cadeia de comando",
+                "amplitude administrativa",
+                "tomada de decisão",
+                "especialização",
+                "formalização",
+                "departamentalização",
+                "diferença para organograma",
+                "importância da comunicação",
+                "estrutura certa",
+                "crucial para o sucesso"
+            ]
+        }
+    ]
+}

@@ -1,0 +1,381 @@
+{"timestamp": "2025-05-15T23:59:48.031954", "level": "ERROR", "logger": "app.videoPexel.search", "message": "Error analyzing video: object dict can't be used in 'await' expression"}
+{"timestamp": "2025-05-15T23:59:52.468802", "level": "ERROR", "logger": "app.videoPexel.search", "message": "Error analyzing video: object dict can't be used in 'await' expression"}
+{"timestamp": "2025-05-15T23:59:58.220202", "level": "ERROR", "logger": "app.videoPexel.search", "message": "Error analyzing video: object dict can't be used in 'await' expression"}
+{"timestamp": "2025-05-16T01:00:52.427279", "level": "ERROR", "logger": "app.videoPexel.search", "message": "Error analyzing video: object dict can't be used in 'await' expression"}
+{"timestamp": "2025-05-16T01:00:52.817399", "level": "ERROR", "logger": "app.videoPexel.search", "message": "Error analyzing video: object dict can't be used in 'await' expression"}
+{"timestamp": "2025-05-16T01:00:53.072492", "level": "ERROR", "logger": "app.videoPexel.search", "message": "Error analyzing video: object dict can't be used in 'await' expression"}
+{"timestamp": "2025-05-16T01:00:53.600210", "level": "ERROR", "logger": "app.videoPexel.search", "message": "Error analyzing video: object dict can't be used in 'await' expression"}
+{"timestamp": "2025-05-16T01:00:54.017871", "level": "ERROR", "logger": "app.videoPexel.search", "message": "Error analyzing video: object dict can't be used in 'await' expression"}
+{"timestamp": "2025-05-16T01:00:55.279874", "level": "ERROR", "logger": "app.videoPexel.search", "message": "Error analyzing video: object dict can't be used in 'await' expression"}
+{"timestamp": "2025-05-16T01:00:56.295190", "level": "ERROR", "logger": "app.videoPexel.search", "message": "Error analyzing video: object dict can't be used in 'await' expression"}
+{"timestamp": "2025-05-16T01:00:56.703223", "level": "ERROR", "logger": "app.videoPexel.search", "message": "Error analyzing video: object dict can't be used in 'await' expression"}
+{"timestamp": "2025-05-16T01:00:58.647952", "level": "ERROR", "logger": "app.videoPexel.search", "message": "Error analyzing video: object dict can't be used in 'await' expression"}
+{"timestamp": "2025-05-16T01:00:59.625406", "level": "ERROR", "logger": "app.videoPexel.search", "message": "Error analyzing video: object dict can't be used in 'await' expression"}
+{"timestamp": "2025-05-16T01:04:51.989381", "level": "ERROR", "logger": "app.videoPexel.search", "message": "Error analyzing video: object dict can't be used in 'await' expression"}
+{"timestamp": "2025-05-16T01:04:54.845857", "level": "ERROR", "logger": "app.videoPexel.search", "message": "Error analyzing video: object dict can't be used in 'await' expression"}
+{"timestamp": "2025-05-16T01:05:00.274433", "level": "ERROR", "logger": "app.videoPexel.search", "message": "Error analyzing video: object dict can't be used in 'await' expression"}
+{"timestamp": "2025-05-16T01:05:03.377530", "level": "ERROR", "logger": "app.videoPexel.search", "message": "Error analyzing video: object dict can't be used in 'await' expression"}
+{"timestamp": "2025-05-16T01:07:22.367220", "level": "INFO", "logger": "app.videoPexel.search", "message": "Video analysis results:"}
+{"timestamp": "2025-05-16T01:07:22.367392", "level": "INFO", "logger": "app.videoPexel.search", "message": "Gemini Description: None"}
+{"timestamp": "2025-05-16T01:07:22.367488", "level": "INFO", "logger": "app.videoPexel.search", "message": "Matches: False"}
+{"timestamp": "2025-05-16T01:07:22.367566", "level": "INFO", "logger": "app.videoPexel.search", "message": "Confidence: 0%"}
+{"timestamp": "2025-05-16T01:07:22.367641", "level": "INFO", "logger": "app.videoPexel.search", "message": "Details: Erro ao analisar imagem: object GenerationResponse can't be used in 'await' expression"}
+{"timestamp": "2025-05-16T01:07:22.367720", "level": "WARNING", "logger": "app.videoPexel.search", "message": "Video doesn't match expected description or confidence too low"}
+{"timestamp": "2025-05-16T01:07:25.309071", "level": "INFO", "logger": "app.videoPexel.search", "message": "Video analysis results:"}
+{"timestamp": "2025-05-16T01:07:25.309187", "level": "INFO", "logger": "app.videoPexel.search", "message": "Gemini Description: None"}
+{"timestamp": "2025-05-16T01:07:25.309300", "level": "INFO", "logger": "app.videoPexel.search", "message": "Matches: False"}
+{"timestamp": "2025-05-16T01:07:25.309383", "level": "INFO", "logger": "app.videoPexel.search", "message": "Confidence: 0%"}
+{"timestamp": "2025-05-16T01:07:25.309459", "level": "INFO", "logger": "app.videoPexel.search", "message": "Details: Erro ao analisar imagem: object GenerationResponse can't be used in 'await' expression"}
+{"timestamp": "2025-05-16T01:07:25.309542", "level": "WARNING", "logger": "app.videoPexel.search", "message": "Video doesn't match expected description or confidence too low"}
+{"timestamp": "2025-05-16T01:07:28.333262", "level": "INFO", "logger": "app.videoPexel.search", "message": "Video analysis results:"}
+{"timestamp": "2025-05-16T01:07:28.333377", "level": "INFO", "logger": "app.videoPexel.search", "message": "Gemini Description: None"}
+{"timestamp": "2025-05-16T01:07:28.333463", "level": "INFO", "logger": "app.videoPexel.search", "message": "Matches: False"}
+{"timestamp": "2025-05-16T01:07:28.333539", "level": "INFO", "logger": "app.videoPexel.search", "message": "Confidence: 0%"}
+{"timestamp": "2025-05-16T01:07:28.333606", "level": "INFO", "logger": "app.videoPexel.search", "message": "Details: Erro ao analisar imagem: object GenerationResponse can't be used in 'await' expression"}
+{"timestamp": "2025-05-16T01:07:28.333679", "level": "WARNING", "logger": "app.videoPexel.search", "message": "Video doesn't match expected description or confidence too low"}
+{"timestamp": "2025-05-16T01:07:31.684584", "level": "INFO", "logger": "app.videoPexel.search", "message": "Video analysis results:"}
+{"timestamp": "2025-05-16T01:07:31.685325", "level": "INFO", "logger": "app.videoPexel.search", "message": "Gemini Description: None"}
+{"timestamp": "2025-05-16T01:07:31.685446", "level": "INFO", "logger": "app.videoPexel.search", "message": "Matches: False"}
+{"timestamp": "2025-05-16T01:07:31.685565", "level": "INFO", "logger": "app.videoPexel.search", "message": "Confidence: 0%"}
+{"timestamp": "2025-05-16T01:07:31.685689", "level": "INFO", "logger": "app.videoPexel.search", "message": "Details: Erro ao analisar imagem: object GenerationResponse can't be used in 'await' expression"}
+{"timestamp": "2025-05-16T01:07:31.685796", "level": "WARNING", "logger": "app.videoPexel.search", "message": "Video doesn't match expected description or confidence too low"}
+{"timestamp": "2025-05-16T01:07:35.009149", "level": "INFO", "logger": "app.videoPexel.search", "message": "Video analysis results:"}
+{"timestamp": "2025-05-16T01:07:35.009323", "level": "INFO", "logger": "app.videoPexel.search", "message": "Gemini Description: None"}
+{"timestamp": "2025-05-16T01:07:35.009453", "level": "INFO", "logger": "app.videoPexel.search", "message": "Matches: False"}
+{"timestamp": "2025-05-16T01:07:35.009526", "level": "INFO", "logger": "app.videoPexel.search", "message": "Confidence: 0%"}
+{"timestamp": "2025-05-16T01:07:35.009602", "level": "INFO", "logger": "app.videoPexel.search", "message": "Details: Erro ao analisar imagem: object GenerationResponse can't be used in 'await' expression"}
+{"timestamp": "2025-05-16T01:07:35.009720", "level": "WARNING", "logger": "app.videoPexel.search", "message": "Video doesn't match expected description or confidence too low"}
+{"timestamp": "2025-05-16T01:07:37.593625", "level": "INFO", "logger": "app.videoPexel.search", "message": "Video analysis results:"}
+{"timestamp": "2025-05-16T01:07:37.593984", "level": "INFO", "logger": "app.videoPexel.search", "message": "Gemini Description: None"}
+{"timestamp": "2025-05-16T01:07:37.594107", "level": "INFO", "logger": "app.videoPexel.search", "message": "Matches: False"}
+{"timestamp": "2025-05-16T01:07:37.594207", "level": "INFO", "logger": "app.videoPexel.search", "message": "Confidence: 0%"}
+{"timestamp": "2025-05-16T01:07:37.594304", "level": "INFO", "logger": "app.videoPexel.search", "message": "Details: Erro ao analisar imagem: object GenerationResponse can't be used in 'await' expression"}
+{"timestamp": "2025-05-16T01:07:37.594413", "level": "WARNING", "logger": "app.videoPexel.search", "message": "Video doesn't match expected description or confidence too low"}
+{"timestamp": "2025-05-16T01:07:40.998075", "level": "INFO", "logger": "app.videoPexel.search", "message": "Video analysis results:"}
+{"timestamp": "2025-05-16T01:07:40.998217", "level": "INFO", "logger": "app.videoPexel.search", "message": "Gemini Description: None"}
+{"timestamp": "2025-05-16T01:07:40.998301", "level": "INFO", "logger": "app.videoPexel.search", "message": "Matches: False"}
+{"timestamp": "2025-05-16T01:07:40.998375", "level": "INFO", "logger": "app.videoPexel.search", "message": "Confidence: 0%"}
+{"timestamp": "2025-05-16T01:07:40.998449", "level": "INFO", "logger": "app.videoPexel.search", "message": "Details: Erro ao analisar imagem: object GenerationResponse can't be used in 'await' expression"}
+{"timestamp": "2025-05-16T01:07:40.998550", "level": "WARNING", "logger": "app.videoPexel.search", "message": "Video doesn't match expected description or confidence too low"}
+{"timestamp": "2025-05-16T01:07:43.705639", "level": "INFO", "logger": "app.videoPexel.search", "message": "Video analysis results:"}
+{"timestamp": "2025-05-16T01:07:43.705829", "level": "INFO", "logger": "app.videoPexel.search", "message": "Gemini Description: None"}
+{"timestamp": "2025-05-16T01:07:43.705969", "level": "INFO", "logger": "app.videoPexel.search", "message": "Matches: False"}
+{"timestamp": "2025-05-16T01:07:43.706090", "level": "INFO", "logger": "app.videoPexel.search", "message": "Confidence: 0%"}
+{"timestamp": "2025-05-16T01:07:43.706319", "level": "INFO", "logger": "app.videoPexel.search", "message": "Details: Erro ao analisar imagem: object GenerationResponse can't be used in 'await' expression"}
+{"timestamp": "2025-05-16T01:07:43.706474", "level": "WARNING", "logger": "app.videoPexel.search", "message": "Video doesn't match expected description or confidence too low"}
+{"timestamp": "2025-05-16T01:07:46.801247", "level": "INFO", "logger": "app.videoPexel.search", "message": "Video analysis results:"}
+{"timestamp": "2025-05-16T01:07:46.801350", "level": "INFO", "logger": "app.videoPexel.search", "message": "Gemini Description: None"}
+{"timestamp": "2025-05-16T01:07:46.801599", "level": "INFO", "logger": "app.videoPexel.search", "message": "Matches: False"}
+{"timestamp": "2025-05-16T01:07:46.801727", "level": "INFO", "logger": "app.videoPexel.search", "message": "Confidence: 0%"}
+{"timestamp": "2025-05-16T01:07:46.801826", "level": "INFO", "logger": "app.videoPexel.search", "message": "Details: Erro ao analisar imagem: object GenerationResponse can't be used in 'await' expression"}
+{"timestamp": "2025-05-16T01:07:46.801954", "level": "WARNING", "logger": "app.videoPexel.search", "message": "Video doesn't match expected description or confidence too low"}
+{"timestamp": "2025-05-16T01:07:49.912389", "level": "INFO", "logger": "app.videoPexel.search", "message": "Video analysis results:"}
+{"timestamp": "2025-05-16T01:07:49.912494", "level": "INFO", "logger": "app.videoPexel.search", "message": "Gemini Description: None"}
+{"timestamp": "2025-05-16T01:07:49.912573", "level": "INFO", "logger": "app.videoPexel.search", "message": "Matches: False"}
+{"timestamp": "2025-05-16T01:07:49.912669", "level": "INFO", "logger": "app.videoPexel.search", "message": "Confidence: 0%"}
+{"timestamp": "2025-05-16T01:07:49.912757", "level": "INFO", "logger": "app.videoPexel.search", "message": "Details: Erro ao analisar imagem: object GenerationResponse can't be used in 'await' expression"}
+{"timestamp": "2025-05-16T01:07:49.912838", "level": "WARNING", "logger": "app.videoPexel.search", "message": "Video doesn't match expected description or confidence too low"}
+{"timestamp": "2025-05-16T01:07:53.117271", "level": "INFO", "logger": "app.videoPexel.search", "message": "Video analysis results:"}
+{"timestamp": "2025-05-16T01:07:53.117427", "level": "INFO", "logger": "app.videoPexel.search", "message": "Gemini Description: None"}
+{"timestamp": "2025-05-16T01:07:53.117548", "level": "INFO", "logger": "app.videoPexel.search", "message": "Matches: False"}
+{"timestamp": "2025-05-16T01:07:53.117645", "level": "INFO", "logger": "app.videoPexel.search", "message": "Confidence: 0%"}
+{"timestamp": "2025-05-16T01:07:53.117720", "level": "INFO", "logger": "app.videoPexel.search", "message": "Details: Erro ao analisar imagem: object GenerationResponse can't be used in 'await' expression"}
+{"timestamp": "2025-05-16T01:07:53.117799", "level": "WARNING", "logger": "app.videoPexel.search", "message": "Video doesn't match expected description or confidence too low"}
+{"timestamp": "2025-05-16T01:07:56.037119", "level": "INFO", "logger": "app.videoPexel.search", "message": "Video analysis results:"}
+{"timestamp": "2025-05-16T01:07:56.037929", "level": "INFO", "logger": "app.videoPexel.search", "message": "Gemini Description: None"}
+{"timestamp": "2025-05-16T01:07:56.038080", "level": "INFO", "logger": "app.videoPexel.search", "message": "Matches: False"}
+{"timestamp": "2025-05-16T01:07:56.038187", "level": "INFO", "logger": "app.videoPexel.search", "message": "Confidence: 0%"}
+{"timestamp": "2025-05-16T01:07:56.038517", "level": "INFO", "logger": "app.videoPexel.search", "message": "Details: Erro ao analisar imagem: object GenerationResponse can't be used in 'await' expression"}
+{"timestamp": "2025-05-16T01:07:56.038833", "level": "WARNING", "logger": "app.videoPexel.search", "message": "Video doesn't match expected description or confidence too low"}
+{"timestamp": "2025-05-16T01:08:00.139931", "level": "INFO", "logger": "app.videoPexel.search", "message": "Video analysis results:"}
+{"timestamp": "2025-05-16T01:08:00.140065", "level": "INFO", "logger": "app.videoPexel.search", "message": "Gemini Description: None"}
+{"timestamp": "2025-05-16T01:08:00.140196", "level": "INFO", "logger": "app.videoPexel.search", "message": "Matches: False"}
+{"timestamp": "2025-05-16T01:08:00.140294", "level": "INFO", "logger": "app.videoPexel.search", "message": "Confidence: 0%"}
+{"timestamp": "2025-05-16T01:08:00.140371", "level": "INFO", "logger": "app.videoPexel.search", "message": "Details: Erro ao analisar imagem: object GenerationResponse can't be used in 'await' expression"}
+{"timestamp": "2025-05-16T01:08:00.140458", "level": "WARNING", "logger": "app.videoPexel.search", "message": "Video doesn't match expected description or confidence too low"}
+{"timestamp": "2025-05-16T01:22:42.994533", "level": "ERROR", "logger": "app.videoPexel.search", "message": "Error searching videos: cannot schedule new futures after interpreter shutdown"}
+{"timestamp": "2025-05-16T01:22:42.994896", "level": "WARNING", "logger": "app.videoPexel.search", "message": "No videos found for query: Favela football talent"}
+{"timestamp": "2025-05-16T01:51:50.643061", "level": "INFO", "logger": "app.videoPexel.search", "message": "Video analysis results:"}
+{"timestamp": "2025-05-16T01:51:50.643257", "level": "INFO", "logger": "app.videoPexel.search", "message": "Gemini Description: "}
+{"timestamp": "2025-05-16T01:51:50.643342", "level": "INFO", "logger": "app.videoPexel.search", "message": "Matches: False"}
+{"timestamp": "2025-05-16T01:51:50.643419", "level": "INFO", "logger": "app.videoPexel.search", "message": "Confidence: 0%"}
+{"timestamp": "2025-05-16T01:51:50.643534", "level": "INFO", "logger": "app.videoPexel.search", "message": "Details: "}
+{"timestamp": "2025-05-16T01:51:50.643620", "level": "WARNING", "logger": "app.videoPexel.search", "message": "Video doesn't match expected description or confidence too low"}
+{"timestamp": "2025-05-16T01:52:02.084651", "level": "INFO", "logger": "app.videoPexel.search", "message": "Video analysis results:"}
+{"timestamp": "2025-05-16T01:52:02.084859", "level": "INFO", "logger": "app.videoPexel.search", "message": "Gemini Description: "}
+{"timestamp": "2025-05-16T01:52:02.084958", "level": "INFO", "logger": "app.videoPexel.search", "message": "Matches: False"}
+{"timestamp": "2025-05-16T01:52:02.085053", "level": "INFO", "logger": "app.videoPexel.search", "message": "Confidence: 0%"}
+{"timestamp": "2025-05-16T01:52:02.085160", "level": "INFO", "logger": "app.videoPexel.search", "message": "Details: "}
+{"timestamp": "2025-05-16T01:52:02.085253", "level": "WARNING", "logger": "app.videoPexel.search", "message": "Video doesn't match expected description or confidence too low"}
+{"timestamp": "2025-05-16T01:52:11.404436", "level": "INFO", "logger": "app.videoPexel.search", "message": "Video analysis results:"}
+{"timestamp": "2025-05-16T01:52:11.404653", "level": "INFO", "logger": "app.videoPexel.search", "message": "Gemini Description: "}
+{"timestamp": "2025-05-16T01:52:11.404777", "level": "INFO", "logger": "app.videoPexel.search", "message": "Matches: False"}
+{"timestamp": "2025-05-16T01:52:11.404860", "level": "INFO", "logger": "app.videoPexel.search", "message": "Confidence: 0%"}
+{"timestamp": "2025-05-16T01:52:11.404936", "level": "INFO", "logger": "app.videoPexel.search", "message": "Details: "}
+{"timestamp": "2025-05-16T01:52:11.405012", "level": "WARNING", "logger": "app.videoPexel.search", "message": "Video doesn't match expected description or confidence too low"}
+{"timestamp": "2025-05-16T01:52:20.964872", "level": "INFO", "logger": "app.videoPexel.search", "message": "Video analysis results:"}
+{"timestamp": "2025-05-16T01:52:20.965143", "level": "INFO", "logger": "app.videoPexel.search", "message": "Gemini Description: "}
+{"timestamp": "2025-05-16T01:52:20.965320", "level": "INFO", "logger": "app.videoPexel.search", "message": "Matches: False"}
+{"timestamp": "2025-05-16T01:52:20.965420", "level": "INFO", "logger": "app.videoPexel.search", "message": "Confidence: 0%"}
+{"timestamp": "2025-05-16T01:52:20.965501", "level": "INFO", "logger": "app.videoPexel.search", "message": "Details: "}
+{"timestamp": "2025-05-16T01:52:20.965601", "level": "WARNING", "logger": "app.videoPexel.search", "message": "Video doesn't match expected description or confidence too low"}
+{"timestamp": "2025-05-16T01:58:25.780265", "level": "ERROR", "logger": "app.videoPexel.search", "message": "Error analyzing video: object dict can't be used in 'await' expression"}
+{"timestamp": "2025-05-16T01:58:29.081364", "level": "ERROR", "logger": "app.videoPexel.search", "message": "Error analyzing video: object dict can't be used in 'await' expression"}
+{"timestamp": "2025-05-16T01:58:31.785913", "level": "ERROR", "logger": "app.videoPexel.search", "message": "Error analyzing video: object dict can't be used in 'await' expression"}
+{"timestamp": "2025-05-16T01:58:34.325345", "level": "ERROR", "logger": "app.videoPexel.search", "message": "Error analyzing video: object dict can't be used in 'await' expression"}
+{"timestamp": "2025-05-16T01:58:38.118887", "level": "ERROR", "logger": "app.videoPexel.search", "message": "Error analyzing video: object dict can't be used in 'await' expression"}
+{"timestamp": "2025-05-16T01:58:42.276911", "level": "ERROR", "logger": "app.videoPexel.search", "message": "Error analyzing video: object dict can't be used in 'await' expression"}
+{"timestamp": "2025-05-16T01:58:44.763858", "level": "ERROR", "logger": "app.videoPexel.search", "message": "Error analyzing video: object dict can't be used in 'await' expression"}
+{"timestamp": "2025-05-16T02:02:12.010718", "level": "ERROR", "logger": "app.videoPexel.search", "message": "Error analyzing video: object dict can't be used in 'await' expression"}
+{"timestamp": "2025-05-16T02:02:14.940395", "level": "ERROR", "logger": "app.videoPexel.search", "message": "Error analyzing video: object dict can't be used in 'await' expression"}
+{"timestamp": "2025-05-16T02:02:17.895515", "level": "ERROR", "logger": "app.videoPexel.search", "message": "Error analyzing video: object dict can't be used in 'await' expression"}
+{"timestamp": "2025-05-16T02:02:20.865023", "level": "ERROR", "logger": "app.videoPexel.search", "message": "Error analyzing video: object dict can't be used in 'await' expression"}
+{"timestamp": "2025-05-16T02:02:23.085582", "level": "ERROR", "logger": "app.videoPexel.search", "message": "Error analyzing video: object dict can't be used in 'await' expression"}
+{"timestamp": "2025-05-16T02:02:26.190597", "level": "ERROR", "logger": "app.videoPexel.search", "message": "Error analyzing video: object dict can't be used in 'await' expression"}
+{"timestamp": "2025-05-16T02:02:31.521871", "level": "ERROR", "logger": "app.videoPexel.search", "message": "Error analyzing video: object dict can't be used in 'await' expression"}
+{"timestamp": "2025-05-16T02:02:33.402086", "level": "ERROR", "logger": "app.videoPexel.search", "message": "Error analyzing video: object dict can't be used in 'await' expression"}
+{"timestamp": "2025-05-16T02:02:35.196326", "level": "ERROR", "logger": "app.videoPexel.search", "message": "Error analyzing video: object dict can't be used in 'await' expression"}
+{"timestamp": "2025-05-16T02:02:42.513953", "level": "ERROR", "logger": "app.videoPexel.search", "message": "Error analyzing video: object dict can't be used in 'await' expression"}
+{"timestamp": "2025-05-16T02:02:44.603992", "level": "ERROR", "logger": "app.videoPexel.search", "message": "Error analyzing video: object dict can't be used in 'await' expression"}
+{"timestamp": "2025-05-16T02:02:47.293021", "level": "ERROR", "logger": "app.videoPexel.search", "message": "Error analyzing video: object dict can't be used in 'await' expression"}
+{"timestamp": "2025-05-16T02:02:49.498569", "level": "ERROR", "logger": "app.videoPexel.search", "message": "Error analyzing video: object dict can't be used in 'await' expression"}
+{"timestamp": "2025-05-16T02:02:51.473644", "level": "ERROR", "logger": "app.videoPexel.search", "message": "Error analyzing video: object dict can't be used in 'await' expression"}
+{"timestamp": "2025-05-16T02:05:17.286295", "level": "ERROR", "logger": "app.videoPexel.search", "message": "Error analyzing video: object dict can't be used in 'await' expression"}
+{"timestamp": "2025-05-16T02:05:20.303560", "level": "ERROR", "logger": "app.videoPexel.search", "message": "Error analyzing video: object dict can't be used in 'await' expression"}
+{"timestamp": "2025-05-16T02:05:23.673995", "level": "ERROR", "logger": "app.videoPexel.search", "message": "Error analyzing video: object dict can't be used in 'await' expression"}
+{"timestamp": "2025-05-16T02:05:25.857131", "level": "ERROR", "logger": "app.videoPexel.search", "message": "Error analyzing video: object dict can't be used in 'await' expression"}
+{"timestamp": "2025-05-16T02:05:28.593470", "level": "ERROR", "logger": "app.videoPexel.search", "message": "Error analyzing video: object dict can't be used in 'await' expression"}
+{"timestamp": "2025-05-16T02:05:30.511759", "level": "ERROR", "logger": "app.videoPexel.search", "message": "Error analyzing video: object dict can't be used in 'await' expression"}
+{"timestamp": "2025-05-16T02:11:04.046388", "level": "INFO", "logger": "app.videoPexel.search", "message": "Video analysis results:"}
+{"timestamp": "2025-05-16T02:11:04.046515", "level": "INFO", "logger": "app.videoPexel.search", "message": "Gemini Description: None"}
+{"timestamp": "2025-05-16T02:11:04.046593", "level": "INFO", "logger": "app.videoPexel.search", "message": "Matches: False"}
+{"timestamp": "2025-05-16T02:11:04.046667", "level": "INFO", "logger": "app.videoPexel.search", "message": "Confidence: 0%"}
+{"timestamp": "2025-05-16T02:11:04.046752", "level": "INFO", "logger": "app.videoPexel.search", "message": "Details: Erro ao analisar imagem: N\u00e3o foi poss\u00edvel gerar an\u00e1lise da imagem com nenhum dos modelos dispon\u00edveis"}
+{"timestamp": "2025-05-16T02:11:04.046840", "level": "WARNING", "logger": "app.videoPexel.search", "message": "Video doesn't match expected description or confidence too low"}
+{"timestamp": "2025-05-16T02:11:14.175877", "level": "INFO", "logger": "app.videoPexel.search", "message": "Video analysis results:"}
+{"timestamp": "2025-05-16T02:11:14.175975", "level": "INFO", "logger": "app.videoPexel.search", "message": "Gemini Description: None"}
+{"timestamp": "2025-05-16T02:11:14.176071", "level": "INFO", "logger": "app.videoPexel.search", "message": "Matches: False"}
+{"timestamp": "2025-05-16T02:11:14.176182", "level": "INFO", "logger": "app.videoPexel.search", "message": "Confidence: 0%"}
+{"timestamp": "2025-05-16T02:11:14.176294", "level": "INFO", "logger": "app.videoPexel.search", "message": "Details: Erro ao analisar imagem: N\u00e3o foi poss\u00edvel gerar an\u00e1lise da imagem com nenhum dos modelos dispon\u00edveis"}
+{"timestamp": "2025-05-16T02:11:14.176382", "level": "WARNING", "logger": "app.videoPexel.search", "message": "Video doesn't match expected description or confidence too low"}
+{"timestamp": "2025-05-16T02:11:23.668309", "level": "INFO", "logger": "app.videoPexel.search", "message": "Video analysis results:"}
+{"timestamp": "2025-05-16T02:11:23.668403", "level": "INFO", "logger": "app.videoPexel.search", "message": "Gemini Description: None"}
+{"timestamp": "2025-05-16T02:11:23.668497", "level": "INFO", "logger": "app.videoPexel.search", "message": "Matches: False"}
+{"timestamp": "2025-05-16T02:11:23.668585", "level": "INFO", "logger": "app.videoPexel.search", "message": "Confidence: 0%"}
+{"timestamp": "2025-05-16T02:11:23.668661", "level": "INFO", "logger": "app.videoPexel.search", "message": "Details: Erro ao analisar imagem: N\u00e3o foi poss\u00edvel gerar an\u00e1lise da imagem com nenhum dos modelos dispon\u00edveis"}
+{"timestamp": "2025-05-16T02:11:23.668741", "level": "WARNING", "logger": "app.videoPexel.search", "message": "Video doesn't match expected description or confidence too low"}
+{"timestamp": "2025-05-16T02:11:32.846478", "level": "INFO", "logger": "app.videoPexel.search", "message": "Video analysis results:"}
+{"timestamp": "2025-05-16T02:11:32.846709", "level": "INFO", "logger": "app.videoPexel.search", "message": "Gemini Description: None"}
+{"timestamp": "2025-05-16T02:11:32.846916", "level": "INFO", "logger": "app.videoPexel.search", "message": "Matches: False"}
+{"timestamp": "2025-05-16T02:11:32.847055", "level": "INFO", "logger": "app.videoPexel.search", "message": "Confidence: 0%"}
+{"timestamp": "2025-05-16T02:11:32.847505", "level": "INFO", "logger": "app.videoPexel.search", "message": "Details: Erro ao analisar imagem: N\u00e3o foi poss\u00edvel gerar an\u00e1lise da imagem com nenhum dos modelos dispon\u00edveis"}
+{"timestamp": "2025-05-16T02:11:32.847731", "level": "WARNING", "logger": "app.videoPexel.search", "message": "Video doesn't match expected description or confidence too low"}
+{"timestamp": "2025-05-16T02:15:21.132592", "level": "INFO", "logger": "app.videoPexel.search", "message": "Video analysis results:"}
+{"timestamp": "2025-05-16T02:15:21.132723", "level": "INFO", "logger": "app.videoPexel.search", "message": "Gemini Description: None"}
+{"timestamp": "2025-05-16T02:15:21.132830", "level": "INFO", "logger": "app.videoPexel.search", "message": "Matches: False"}
+{"timestamp": "2025-05-16T02:15:21.132929", "level": "INFO", "logger": "app.videoPexel.search", "message": "Confidence: 0%"}
+{"timestamp": "2025-05-16T02:15:21.133049", "level": "INFO", "logger": "app.videoPexel.search", "message": "Details: Erro ao analisar imagem: could not convert string to float: '0 (Confian\u00e7a de que a entrada fornecida \u2013 que n\u00e3o \u00e9 uma imagem \u2013 corresponda \u00e0 descri\u00e7\u00e3o \"Favela soccer passion\".)'"}
+{"timestamp": "2025-05-16T02:15:21.133173", "level": "WARNING", "logger": "app.videoPexel.search", "message": "Video doesn't match expected description or confidence too low"}
+{"timestamp": "2025-05-16T02:18:16.107993", "level": "INFO", "logger": "app.videoPexel.search", "message": "Video analysis results:"}
+{"timestamp": "2025-05-16T02:18:16.108156", "level": "INFO", "logger": "app.videoPexel.search", "message": "Gemini Description: None"}
+{"timestamp": "2025-05-16T02:18:16.108281", "level": "INFO", "logger": "app.videoPexel.search", "message": "Matches: False"}
+{"timestamp": "2025-05-16T02:18:16.108414", "level": "INFO", "logger": "app.videoPexel.search", "message": "Confidence: 0%"}
+{"timestamp": "2025-05-16T02:18:16.108538", "level": "INFO", "logger": "app.videoPexel.search", "message": "Details: Erro ao analisar imagem: could not convert string to float: '100 (para a descri\u00e7\u00e3o \"Favela football game\")'"}
+{"timestamp": "2025-05-16T02:18:16.108664", "level": "WARNING", "logger": "app.videoPexel.search", "message": "Video doesn't match expected description or confidence too low"}
+{"timestamp": "2025-05-16T02:20:34.849352", "level": "INFO", "logger": "app.videoPexel.search", "message": "Video analysis results:"}
+{"timestamp": "2025-05-16T02:20:34.849468", "level": "INFO", "logger": "app.videoPexel.search", "message": "Gemini Description: None"}
+{"timestamp": "2025-05-16T02:20:34.849572", "level": "INFO", "logger": "app.videoPexel.search", "message": "Matches: False"}
+{"timestamp": "2025-05-16T02:20:34.849652", "level": "INFO", "logger": "app.videoPexel.search", "message": "Confidence: 0%"}
+{"timestamp": "2025-05-16T02:20:34.849728", "level": "INFO", "logger": "app.videoPexel.search", "message": "Details: Erro ao analisar imagem: N\u00e3o foi poss\u00edvel gerar an\u00e1lise da imagem com nenhum dos modelos dispon\u00edveis"}
+{"timestamp": "2025-05-16T02:20:34.849847", "level": "WARNING", "logger": "app.videoPexel.search", "message": "Video doesn't match expected description or confidence too low"}
+{"timestamp": "2025-05-16T02:24:07.053678", "level": "INFO", "logger": "app.videoPexel.search", "message": "Video analysis results:"}
+{"timestamp": "2025-05-16T02:24:07.053782", "level": "INFO", "logger": "app.videoPexel.search", "message": "Gemini Description: None"}
+{"timestamp": "2025-05-16T02:24:07.053862", "level": "INFO", "logger": "app.videoPexel.search", "message": "Matches: False"}
+{"timestamp": "2025-05-16T02:24:07.053936", "level": "INFO", "logger": "app.videoPexel.search", "message": "Confidence: 0%"}
+{"timestamp": "2025-05-16T02:24:07.054032", "level": "INFO", "logger": "app.videoPexel.search", "message": "Details: Erro ao analisar imagem: N\u00e3o foi poss\u00edvel gerar an\u00e1lise da imagem com nenhum dos modelos dispon\u00edveis"}
+{"timestamp": "2025-05-16T02:24:07.054137", "level": "WARNING", "logger": "app.videoPexel.search", "message": "Video doesn't match expected description or confidence too low"}
+{"timestamp": "2025-05-16T02:24:08.183309", "level": "INFO", "logger": "app.videoPexel.search", "message": "Video analysis results:"}
+{"timestamp": "2025-05-16T02:24:08.184873", "level": "INFO", "logger": "app.videoPexel.search", "message": "Gemini Description: None"}
+{"timestamp": "2025-05-16T02:24:08.185206", "level": "INFO", "logger": "app.videoPexel.search", "message": "Matches: False"}
+{"timestamp": "2025-05-16T02:24:08.185601", "level": "INFO", "logger": "app.videoPexel.search", "message": "Confidence: 0%"}
+{"timestamp": "2025-05-16T02:24:08.186711", "level": "INFO", "logger": "app.videoPexel.search", "message": "Details: Erro ao analisar imagem: N\u00e3o foi poss\u00edvel gerar an\u00e1lise da imagem com nenhum dos modelos dispon\u00edveis"}
+{"timestamp": "2025-05-16T02:24:08.187079", "level": "WARNING", "logger": "app.videoPexel.search", "message": "Video doesn't match expected description or confidence too low"}
+{"timestamp": "2025-05-16T02:24:09.039612", "level": "INFO", "logger": "app.videoPexel.search", "message": "Video analysis results:"}
+{"timestamp": "2025-05-16T02:24:09.039826", "level": "INFO", "logger": "app.videoPexel.search", "message": "Gemini Description: None"}
+{"timestamp": "2025-05-16T02:24:09.039917", "level": "INFO", "logger": "app.videoPexel.search", "message": "Matches: False"}
+{"timestamp": "2025-05-16T02:24:09.039998", "level": "INFO", "logger": "app.videoPexel.search", "message": "Confidence: 0%"}
+{"timestamp": "2025-05-16T02:24:09.040076", "level": "INFO", "logger": "app.videoPexel.search", "message": "Details: Erro ao analisar imagem: N\u00e3o foi poss\u00edvel gerar an\u00e1lise da imagem com nenhum dos modelos dispon\u00edveis"}
+{"timestamp": "2025-05-16T02:24:09.040172", "level": "WARNING", "logger": "app.videoPexel.search", "message": "Video doesn't match expected description or confidence too low"}
+{"timestamp": "2025-05-16T02:24:09.464597", "level": "INFO", "logger": "app.videoPexel.search", "message": "Video analysis results:"}
+{"timestamp": "2025-05-16T02:24:09.464729", "level": "INFO", "logger": "app.videoPexel.search", "message": "Gemini Description: None"}
+{"timestamp": "2025-05-16T02:24:09.464831", "level": "INFO", "logger": "app.videoPexel.search", "message": "Matches: False"}
+{"timestamp": "2025-05-16T02:24:09.464910", "level": "INFO", "logger": "app.videoPexel.search", "message": "Confidence: 0%"}
+{"timestamp": "2025-05-16T02:24:09.464982", "level": "INFO", "logger": "app.videoPexel.search", "message": "Details: Erro ao analisar imagem: N\u00e3o foi poss\u00edvel gerar an\u00e1lise da imagem com nenhum dos modelos dispon\u00edveis"}
+{"timestamp": "2025-05-16T02:24:09.465053", "level": "WARNING", "logger": "app.videoPexel.search", "message": "Video doesn't match expected description or confidence too low"}
+{"timestamp": "2025-05-16T02:24:10.288302", "level": "INFO", "logger": "app.videoPexel.search", "message": "Video analysis results:"}
+{"timestamp": "2025-05-16T02:24:10.288399", "level": "INFO", "logger": "app.videoPexel.search", "message": "Gemini Description: None"}
+{"timestamp": "2025-05-16T02:24:10.288476", "level": "INFO", "logger": "app.videoPexel.search", "message": "Matches: False"}
+{"timestamp": "2025-05-16T02:24:10.288585", "level": "INFO", "logger": "app.videoPexel.search", "message": "Confidence: 0%"}
+{"timestamp": "2025-05-16T02:24:10.288672", "level": "INFO", "logger": "app.videoPexel.search", "message": "Details: Erro ao analisar imagem: N\u00e3o foi poss\u00edvel gerar an\u00e1lise da imagem com nenhum dos modelos dispon\u00edveis"}
+{"timestamp": "2025-05-16T02:24:10.288759", "level": "WARNING", "logger": "app.videoPexel.search", "message": "Video doesn't match expected description or confidence too low"}
+{"timestamp": "2025-05-16T02:24:11.094994", "level": "INFO", "logger": "app.videoPexel.search", "message": "Video analysis results:"}
+{"timestamp": "2025-05-16T02:24:11.095192", "level": "INFO", "logger": "app.videoPexel.search", "message": "Gemini Description: None"}
+{"timestamp": "2025-05-16T02:24:11.095411", "level": "INFO", "logger": "app.videoPexel.search", "message": "Matches: False"}
+{"timestamp": "2025-05-16T02:24:11.095593", "level": "INFO", "logger": "app.videoPexel.search", "message": "Confidence: 0%"}
+{"timestamp": "2025-05-16T02:24:11.095794", "level": "INFO", "logger": "app.videoPexel.search", "message": "Details: Erro ao analisar imagem: N\u00e3o foi poss\u00edvel gerar an\u00e1lise da imagem com nenhum dos modelos dispon\u00edveis"}
+{"timestamp": "2025-05-16T02:24:11.096000", "level": "WARNING", "logger": "app.videoPexel.search", "message": "Video doesn't match expected description or confidence too low"}
+{"timestamp": "2025-05-16T02:24:11.654454", "level": "INFO", "logger": "app.videoPexel.search", "message": "Video analysis results:"}
+{"timestamp": "2025-05-16T02:24:11.654552", "level": "INFO", "logger": "app.videoPexel.search", "message": "Gemini Description: None"}
+{"timestamp": "2025-05-16T02:24:11.654631", "level": "INFO", "logger": "app.videoPexel.search", "message": "Matches: False"}
+{"timestamp": "2025-05-16T02:24:11.654711", "level": "INFO", "logger": "app.videoPexel.search", "message": "Confidence: 0%"}
+{"timestamp": "2025-05-16T02:24:11.654853", "level": "INFO", "logger": "app.videoPexel.search", "message": "Details: Erro ao analisar imagem: N\u00e3o foi poss\u00edvel gerar an\u00e1lise da imagem com nenhum dos modelos dispon\u00edveis"}
+{"timestamp": "2025-05-16T02:24:11.654962", "level": "WARNING", "logger": "app.videoPexel.search", "message": "Video doesn't match expected description or confidence too low"}
+{"timestamp": "2025-05-16T02:24:11.901212", "level": "INFO", "logger": "app.videoPexel.search", "message": "Video analysis results:"}
+{"timestamp": "2025-05-16T02:24:11.901345", "level": "INFO", "logger": "app.videoPexel.search", "message": "Gemini Description: None"}
+{"timestamp": "2025-05-16T02:24:11.901426", "level": "INFO", "logger": "app.videoPexel.search", "message": "Matches: False"}
+{"timestamp": "2025-05-16T02:24:11.901505", "level": "INFO", "logger": "app.videoPexel.search", "message": "Confidence: 0%"}
+{"timestamp": "2025-05-16T02:24:11.901583", "level": "INFO", "logger": "app.videoPexel.search", "message": "Details: Erro ao analisar imagem: N\u00e3o foi poss\u00edvel gerar an\u00e1lise da imagem com nenhum dos modelos dispon\u00edveis"}
+{"timestamp": "2025-05-16T02:24:11.901671", "level": "WARNING", "logger": "app.videoPexel.search", "message": "Video doesn't match expected description or confidence too low"}
+{"timestamp": "2025-05-16T02:24:12.092166", "level": "INFO", "logger": "app.videoPexel.search", "message": "Video analysis results:"}
+{"timestamp": "2025-05-16T02:24:12.092269", "level": "INFO", "logger": "app.videoPexel.search", "message": "Gemini Description: None"}
+{"timestamp": "2025-05-16T02:24:12.092349", "level": "INFO", "logger": "app.videoPexel.search", "message": "Matches: False"}
+{"timestamp": "2025-05-16T02:24:12.092423", "level": "INFO", "logger": "app.videoPexel.search", "message": "Confidence: 0%"}
+{"timestamp": "2025-05-16T02:24:12.092496", "level": "INFO", "logger": "app.videoPexel.search", "message": "Details: Erro ao analisar imagem: N\u00e3o foi poss\u00edvel gerar an\u00e1lise da imagem com nenhum dos modelos dispon\u00edveis"}
+{"timestamp": "2025-05-16T02:24:12.092596", "level": "WARNING", "logger": "app.videoPexel.search", "message": "Video doesn't match expected description or confidence too low"}
+{"timestamp": "2025-05-16T02:24:12.332640", "level": "INFO", "logger": "app.videoPexel.search", "message": "Video analysis results:"}
+{"timestamp": "2025-05-16T02:24:12.332744", "level": "INFO", "logger": "app.videoPexel.search", "message": "Gemini Description: None"}
+{"timestamp": "2025-05-16T02:24:12.332826", "level": "INFO", "logger": "app.videoPexel.search", "message": "Matches: False"}
+{"timestamp": "2025-05-16T02:24:12.332898", "level": "INFO", "logger": "app.videoPexel.search", "message": "Confidence: 0%"}
+{"timestamp": "2025-05-16T02:24:12.332971", "level": "INFO", "logger": "app.videoPexel.search", "message": "Details: Erro ao analisar imagem: N\u00e3o foi poss\u00edvel gerar an\u00e1lise da imagem com nenhum dos modelos dispon\u00edveis"}
+{"timestamp": "2025-05-16T02:24:12.333050", "level": "WARNING", "logger": "app.videoPexel.search", "message": "Video doesn't match expected description or confidence too low"}
+{"timestamp": "2025-05-16T02:24:12.949359", "level": "INFO", "logger": "app.videoPexel.search", "message": "Video analysis results:"}
+{"timestamp": "2025-05-16T02:24:12.949459", "level": "INFO", "logger": "app.videoPexel.search", "message": "Gemini Description: None"}
+{"timestamp": "2025-05-16T02:24:12.949541", "level": "INFO", "logger": "app.videoPexel.search", "message": "Matches: False"}
+{"timestamp": "2025-05-16T02:24:12.949617", "level": "INFO", "logger": "app.videoPexel.search", "message": "Confidence: 0%"}
+{"timestamp": "2025-05-16T02:24:12.949693", "level": "INFO", "logger": "app.videoPexel.search", "message": "Details: Erro ao analisar imagem: N\u00e3o foi poss\u00edvel gerar an\u00e1lise da imagem com nenhum dos modelos dispon\u00edveis"}
+{"timestamp": "2025-05-16T02:24:12.949788", "level": "WARNING", "logger": "app.videoPexel.search", "message": "Video doesn't match expected description or confidence too low"}
+{"timestamp": "2025-05-16T02:24:13.400380", "level": "INFO", "logger": "app.videoPexel.search", "message": "Video analysis results:"}
+{"timestamp": "2025-05-16T02:24:13.400468", "level": "INFO", "logger": "app.videoPexel.search", "message": "Gemini Description: None"}
+{"timestamp": "2025-05-16T02:24:13.400543", "level": "INFO", "logger": "app.videoPexel.search", "message": "Matches: False"}
+{"timestamp": "2025-05-16T02:24:13.400652", "level": "INFO", "logger": "app.videoPexel.search", "message": "Confidence: 0%"}
+{"timestamp": "2025-05-16T02:24:13.400724", "level": "INFO", "logger": "app.videoPexel.search", "message": "Details: Erro ao analisar imagem: N\u00e3o foi poss\u00edvel gerar an\u00e1lise da imagem com nenhum dos modelos dispon\u00edveis"}
+{"timestamp": "2025-05-16T02:24:13.400810", "level": "WARNING", "logger": "app.videoPexel.search", "message": "Video doesn't match expected description or confidence too low"}
+{"timestamp": "2025-05-16T02:24:13.841218", "level": "INFO", "logger": "app.videoPexel.search", "message": "Video analysis results:"}
+{"timestamp": "2025-05-16T02:24:13.841310", "level": "INFO", "logger": "app.videoPexel.search", "message": "Gemini Description: None"}
+{"timestamp": "2025-05-16T02:24:13.841387", "level": "INFO", "logger": "app.videoPexel.search", "message": "Matches: False"}
+{"timestamp": "2025-05-16T02:24:13.841461", "level": "INFO", "logger": "app.videoPexel.search", "message": "Confidence: 0%"}
+{"timestamp": "2025-05-16T02:24:13.841540", "level": "INFO", "logger": "app.videoPexel.search", "message": "Details: Erro ao analisar imagem: N\u00e3o foi poss\u00edvel gerar an\u00e1lise da imagem com nenhum dos modelos dispon\u00edveis"}
+{"timestamp": "2025-05-16T02:24:13.841620", "level": "WARNING", "logger": "app.videoPexel.search", "message": "Video doesn't match expected description or confidence too low"}
+{"timestamp": "2025-05-16T02:24:14.327367", "level": "INFO", "logger": "app.videoPexel.search", "message": "Video analysis results:"}
+{"timestamp": "2025-05-16T02:24:14.327502", "level": "INFO", "logger": "app.videoPexel.search", "message": "Gemini Description: None"}
+{"timestamp": "2025-05-16T02:24:14.327581", "level": "INFO", "logger": "app.videoPexel.search", "message": "Matches: False"}
+{"timestamp": "2025-05-16T02:24:14.327652", "level": "INFO", "logger": "app.videoPexel.search", "message": "Confidence: 0%"}
+{"timestamp": "2025-05-16T02:24:14.327723", "level": "INFO", "logger": "app.videoPexel.search", "message": "Details: Erro ao analisar imagem: N\u00e3o foi poss\u00edvel gerar an\u00e1lise da imagem com nenhum dos modelos dispon\u00edveis"}
+{"timestamp": "2025-05-16T02:24:14.327797", "level": "WARNING", "logger": "app.videoPexel.search", "message": "Video doesn't match expected description or confidence too low"}
+{"timestamp": "2025-05-16T02:24:15.070820", "level": "INFO", "logger": "app.videoPexel.search", "message": "Video analysis results:"}
+{"timestamp": "2025-05-16T02:24:15.070915", "level": "INFO", "logger": "app.videoPexel.search", "message": "Gemini Description: None"}
+{"timestamp": "2025-05-16T02:24:15.071018", "level": "INFO", "logger": "app.videoPexel.search", "message": "Matches: False"}
+{"timestamp": "2025-05-16T02:24:15.071099", "level": "INFO", "logger": "app.videoPexel.search", "message": "Confidence: 0%"}
+{"timestamp": "2025-05-16T02:24:15.071171", "level": "INFO", "logger": "app.videoPexel.search", "message": "Details: Erro ao analisar imagem: N\u00e3o foi poss\u00edvel gerar an\u00e1lise da imagem com nenhum dos modelos dispon\u00edveis"}
+{"timestamp": "2025-05-16T02:24:15.071276", "level": "WARNING", "logger": "app.videoPexel.search", "message": "Video doesn't match expected description or confidence too low"}
+{"timestamp": "2025-05-16T02:56:53.880822", "level": "INFO", "logger": "app.videoPexel.search", "message": "Video analysis results:"}
+{"timestamp": "2025-05-16T02:56:53.881156", "level": "INFO", "logger": "app.videoPexel.search", "message": "Gemini Description: None"}
+{"timestamp": "2025-05-16T02:56:53.881257", "level": "INFO", "logger": "app.videoPexel.search", "message": "Matches: False"}
+{"timestamp": "2025-05-16T02:56:53.881352", "level": "INFO", "logger": "app.videoPexel.search", "message": "Confidence: 0%"}
+{"timestamp": "2025-05-16T02:56:53.881439", "level": "INFO", "logger": "app.videoPexel.search", "message": "Details: Falha ao analisar imagem com Gemini"}
+{"timestamp": "2025-05-16T02:56:53.881560", "level": "WARNING", "logger": "app.videoPexel.search", "message": "Video doesn't match expected description or confidence too low"}
+{"timestamp": "2025-05-16T02:56:54.999723", "level": "INFO", "logger": "app.videoPexel.search", "message": "Video analysis results:"}
+{"timestamp": "2025-05-16T02:56:54.999843", "level": "INFO", "logger": "app.videoPexel.search", "message": "Gemini Description: None"}
+{"timestamp": "2025-05-16T02:56:54.999936", "level": "INFO", "logger": "app.videoPexel.search", "message": "Matches: False"}
+{"timestamp": "2025-05-16T02:56:55.000034", "level": "INFO", "logger": "app.videoPexel.search", "message": "Confidence: 0%"}
+{"timestamp": "2025-05-16T02:56:55.000131", "level": "INFO", "logger": "app.videoPexel.search", "message": "Details: Falha ao analisar imagem com Gemini"}
+{"timestamp": "2025-05-16T02:56:55.000209", "level": "WARNING", "logger": "app.videoPexel.search", "message": "Video doesn't match expected description or confidence too low"}
+{"timestamp": "2025-05-16T02:56:56.068393", "level": "INFO", "logger": "app.videoPexel.search", "message": "Video analysis results:"}
+{"timestamp": "2025-05-16T02:56:56.068476", "level": "INFO", "logger": "app.videoPexel.search", "message": "Gemini Description: None"}
+{"timestamp": "2025-05-16T02:56:56.068553", "level": "INFO", "logger": "app.videoPexel.search", "message": "Matches: False"}
+{"timestamp": "2025-05-16T02:56:56.068625", "level": "INFO", "logger": "app.videoPexel.search", "message": "Confidence: 0%"}
+{"timestamp": "2025-05-16T02:56:56.068697", "level": "INFO", "logger": "app.videoPexel.search", "message": "Details: Falha ao analisar imagem com Gemini"}
+{"timestamp": "2025-05-16T02:56:56.068785", "level": "WARNING", "logger": "app.videoPexel.search", "message": "Video doesn't match expected description or confidence too low"}
+{"timestamp": "2025-05-16T02:56:57.237971", "level": "INFO", "logger": "app.videoPexel.search", "message": "Video analysis results:"}
+{"timestamp": "2025-05-16T02:56:57.238059", "level": "INFO", "logger": "app.videoPexel.search", "message": "Gemini Description: None"}
+{"timestamp": "2025-05-16T02:56:57.238138", "level": "INFO", "logger": "app.videoPexel.search", "message": "Matches: False"}
+{"timestamp": "2025-05-16T02:56:57.238210", "level": "INFO", "logger": "app.videoPexel.search", "message": "Confidence: 0%"}
+{"timestamp": "2025-05-16T02:56:57.238282", "level": "INFO", "logger": "app.videoPexel.search", "message": "Details: Falha ao analisar imagem com Gemini"}
+{"timestamp": "2025-05-16T02:56:57.238379", "level": "WARNING", "logger": "app.videoPexel.search", "message": "Video doesn't match expected description or confidence too low"}
+{"timestamp": "2025-05-16T02:56:58.085304", "level": "INFO", "logger": "app.videoPexel.search", "message": "Video analysis results:"}
+{"timestamp": "2025-05-16T02:56:58.085515", "level": "INFO", "logger": "app.videoPexel.search", "message": "Gemini Description: None"}
+{"timestamp": "2025-05-16T02:56:58.085727", "level": "INFO", "logger": "app.videoPexel.search", "message": "Matches: False"}
+{"timestamp": "2025-05-16T02:56:58.085926", "level": "INFO", "logger": "app.videoPexel.search", "message": "Confidence: 0%"}
+{"timestamp": "2025-05-16T02:56:58.086006", "level": "INFO", "logger": "app.videoPexel.search", "message": "Details: Falha ao analisar imagem com Gemini"}
+{"timestamp": "2025-05-16T02:56:58.086083", "level": "WARNING", "logger": "app.videoPexel.search", "message": "Video doesn't match expected description or confidence too low"}
+{"timestamp": "2025-05-16T02:56:59.408722", "level": "INFO", "logger": "app.videoPexel.search", "message": "Video analysis results:"}
+{"timestamp": "2025-05-16T02:56:59.408801", "level": "INFO", "logger": "app.videoPexel.search", "message": "Gemini Description: None"}
+{"timestamp": "2025-05-16T02:56:59.408869", "level": "INFO", "logger": "app.videoPexel.search", "message": "Matches: False"}
+{"timestamp": "2025-05-16T02:56:59.408933", "level": "INFO", "logger": "app.videoPexel.search", "message": "Confidence: 0%"}
+{"timestamp": "2025-05-16T02:56:59.409018", "level": "INFO", "logger": "app.videoPexel.search", "message": "Details: Falha ao analisar imagem com Gemini"}
+{"timestamp": "2025-05-16T02:56:59.409094", "level": "WARNING", "logger": "app.videoPexel.search", "message": "Video doesn't match expected description or confidence too low"}
+{"timestamp": "2025-05-16T02:57:00.555668", "level": "INFO", "logger": "app.videoPexel.search", "message": "Video analysis results:"}
+{"timestamp": "2025-05-16T02:57:00.555786", "level": "INFO", "logger": "app.videoPexel.search", "message": "Gemini Description: None"}
+{"timestamp": "2025-05-16T02:57:00.555865", "level": "INFO", "logger": "app.videoPexel.search", "message": "Matches: False"}
+{"timestamp": "2025-05-16T02:57:00.555940", "level": "INFO", "logger": "app.videoPexel.search", "message": "Confidence: 0%"}
+{"timestamp": "2025-05-16T02:57:00.556014", "level": "INFO", "logger": "app.videoPexel.search", "message": "Details: Falha ao analisar imagem com Gemini"}
+{"timestamp": "2025-05-16T02:57:00.556087", "level": "WARNING", "logger": "app.videoPexel.search", "message": "Video doesn't match expected description or confidence too low"}
+{"timestamp": "2025-05-16T02:57:01.783089", "level": "INFO", "logger": "app.videoPexel.search", "message": "Video analysis results:"}
+{"timestamp": "2025-05-16T02:57:01.783173", "level": "INFO", "logger": "app.videoPexel.search", "message": "Gemini Description: None"}
+{"timestamp": "2025-05-16T02:57:01.783337", "level": "INFO", "logger": "app.videoPexel.search", "message": "Matches: False"}
+{"timestamp": "2025-05-16T02:57:01.783467", "level": "INFO", "logger": "app.videoPexel.search", "message": "Confidence: 0%"}
+{"timestamp": "2025-05-16T02:57:01.783616", "level": "INFO", "logger": "app.videoPexel.search", "message": "Details: Falha ao analisar imagem com Gemini"}
+{"timestamp": "2025-05-16T02:57:01.783731", "level": "WARNING", "logger": "app.videoPexel.search", "message": "Video doesn't match expected description or confidence too low"}
+{"timestamp": "2025-05-16T02:57:02.435861", "level": "INFO", "logger": "app.videoPexel.search", "message": "Video analysis results:"}
+{"timestamp": "2025-05-16T02:57:02.435969", "level": "INFO", "logger": "app.videoPexel.search", "message": "Gemini Description: None"}
+{"timestamp": "2025-05-16T02:57:02.436047", "level": "INFO", "logger": "app.videoPexel.search", "message": "Matches: False"}
+{"timestamp": "2025-05-16T02:57:02.436139", "level": "INFO", "logger": "app.videoPexel.search", "message": "Confidence: 0%"}
+{"timestamp": "2025-05-16T02:57:02.436215", "level": "INFO", "logger": "app.videoPexel.search", "message": "Details: Falha ao analisar imagem com Gemini"}
+{"timestamp": "2025-05-16T02:57:02.436289", "level": "WARNING", "logger": "app.videoPexel.search", "message": "Video doesn't match expected description or confidence too low"}
+{"timestamp": "2025-05-16T02:57:03.271277", "level": "INFO", "logger": "app.videoPexel.search", "message": "Video analysis results:"}
+{"timestamp": "2025-05-16T02:57:03.271363", "level": "INFO", "logger": "app.videoPexel.search", "message": "Gemini Description: None"}
+{"timestamp": "2025-05-16T02:57:03.271479", "level": "INFO", "logger": "app.videoPexel.search", "message": "Matches: False"}
+{"timestamp": "2025-05-16T02:57:03.271577", "level": "INFO", "logger": "app.videoPexel.search", "message": "Confidence: 0%"}
+{"timestamp": "2025-05-16T02:57:03.271679", "level": "INFO", "logger": "app.videoPexel.search", "message": "Details: Falha ao analisar imagem com Gemini"}
+{"timestamp": "2025-05-16T02:57:03.271762", "level": "WARNING", "logger": "app.videoPexel.search", "message": "Video doesn't match expected description or confidence too low"}
+{"timestamp": "2025-05-16T02:57:05.666523", "level": "INFO", "logger": "app.videoPexel.search", "message": "Video analysis results:"}
+{"timestamp": "2025-05-16T02:57:05.666604", "level": "INFO", "logger": "app.videoPexel.search", "message": "Gemini Description: None"}
+{"timestamp": "2025-05-16T02:57:05.666682", "level": "INFO", "logger": "app.videoPexel.search", "message": "Matches: False"}
+{"timestamp": "2025-05-16T02:57:05.666754", "level": "INFO", "logger": "app.videoPexel.search", "message": "Confidence: 0%"}
+{"timestamp": "2025-05-16T02:57:05.666843", "level": "INFO", "logger": "app.videoPexel.search", "message": "Details: Falha ao analisar imagem com Gemini"}
+{"timestamp": "2025-05-16T02:57:05.666943", "level": "WARNING", "logger": "app.videoPexel.search", "message": "Video doesn't match expected description or confidence too low"}
+{"timestamp": "2025-05-16T02:57:05.964686", "level": "INFO", "logger": "app.videoPexel.search", "message": "Video analysis results:"}
+{"timestamp": "2025-05-16T02:57:05.964789", "level": "INFO", "logger": "app.videoPexel.search", "message": "Gemini Description: None"}
+{"timestamp": "2025-05-16T02:57:05.964888", "level": "INFO", "logger": "app.videoPexel.search", "message": "Matches: False"}
+{"timestamp": "2025-05-16T02:57:05.964993", "level": "INFO", "logger": "app.videoPexel.search", "message": "Confidence: 0%"}
+{"timestamp": "2025-05-16T02:57:05.965105", "level": "INFO", "logger": "app.videoPexel.search", "message": "Details: Falha ao analisar imagem com Gemini"}
+{"timestamp": "2025-05-16T02:57:05.965216", "level": "WARNING", "logger": "app.videoPexel.search", "message": "Video doesn't match expected description or confidence too low"}
+{"timestamp": "2025-05-16T02:57:09.117075", "level": "INFO", "logger": "app.videoPexel.search", "message": "Video analysis results:"}
+{"timestamp": "2025-05-16T02:57:09.117159", "level": "INFO", "logger": "app.videoPexel.search", "message": "Gemini Description: None"}
+{"timestamp": "2025-05-16T02:57:09.117235", "level": "INFO", "logger": "app.videoPexel.search", "message": "Matches: False"}
+{"timestamp": "2025-05-16T02:57:09.117332", "level": "INFO", "logger": "app.videoPexel.search", "message": "Confidence: 0%"}
+{"timestamp": "2025-05-16T02:57:09.117518", "level": "INFO", "logger": "app.videoPexel.search", "message": "Details: Falha ao analisar imagem com Gemini"}
+{"timestamp": "2025-05-16T02:57:09.118124", "level": "WARNING", "logger": "app.videoPexel.search", "message": "Video doesn't match expected description or confidence too low"}
+{"timestamp": "2025-05-16T02:57:13.175203", "level": "INFO", "logger": "app.videoPexel.search", "message": "Video analysis results:"}
+{"timestamp": "2025-05-16T02:57:13.175305", "level": "INFO", "logger": "app.videoPexel.search", "message": "Gemini Description: None"}
+{"timestamp": "2025-05-16T02:57:13.175411", "level": "INFO", "logger": "app.videoPexel.search", "message": "Matches: False"}
+{"timestamp": "2025-05-16T02:57:13.175505", "level": "INFO", "logger": "app.videoPexel.search", "message": "Confidence: 0%"}
+{"timestamp": "2025-05-16T02:57:13.175578", "level": "INFO", "logger": "app.videoPexel.search", "message": "Details: Falha ao analisar imagem com Gemini"}
+{"timestamp": "2025-05-16T02:57:13.175681", "level": "WARNING", "logger": "app.videoPexel.search", "message": "Video doesn't match expected description or confidence too low"}
+{"timestamp": "2025-05-16T02:57:13.672429", "level": "INFO", "logger": "app.videoPexel.search", "message": "Video analysis results:"}
+{"timestamp": "2025-05-16T02:57:13.672520", "level": "INFO", "logger": "app.videoPexel.search", "message": "Gemini Description: None"}
+{"timestamp": "2025-05-16T02:57:13.672599", "level": "INFO", "logger": "app.videoPexel.search", "message": "Matches: False"}
+{"timestamp": "2025-05-16T02:57:13.672674", "level": "INFO", "logger": "app.videoPexel.search", "message": "Confidence: 0%"}
+{"timestamp": "2025-05-16T02:57:13.672747", "level": "INFO", "logger": "app.videoPexel.search", "message": "Details: Falha ao analisar imagem com Gemini"}
+{"timestamp": "2025-05-16T02:57:13.672846", "level": "WARNING", "logger": "app.videoPexel.search", "message": "Video doesn't match expected description or confidence too low"}
+{"timestamp": "2025-05-16T03:14:48.234719", "level": "ERROR", "logger": "app.videoPexel.search", "message": "Error analyzing video: object dict can't be used in 'await' expression"}
+{"timestamp": "2025-05-16T03:14:49.960343", "level": "ERROR", "logger": "app.videoPexel.search", "message": "Error analyzing video: object dict can't be used in 'await' expression"}
+{"timestamp": "2025-05-16T03:14:51.834139", "level": "ERROR", "logger": "app.videoPexel.search", "message": "Error analyzing video: object dict can't be used in 'await' expression"}
+{"timestamp": "2025-05-16T03:14:53.316012", "level": "ERROR", "logger": "app.videoPexel.search", "message": "Error analyzing video: object dict can't be used in 'await' expression"}
+{"timestamp": "2025-05-16T03:14:57.423623", "level": "ERROR", "logger": "app.videoPexel.search", "message": "Error analyzing video: object dict can't be used in 'await' expression"}
+{"timestamp": "2025-05-16T03:18:43.108010", "level": "ERROR", "logger": "app.videoPexel.search", "message": "Error analyzing video: object dict can't be used in 'await' expression"}
+{"timestamp": "2025-05-16T03:18:47.263977", "level": "ERROR", "logger": "app.videoPexel.search", "message": "Error analyzing video: object dict can't be used in 'await' expression"}
+{"timestamp": "2025-05-16T03:20:55.714901", "level": "ERROR", "logger": "app.videoPexel.search", "message": "Error analyzing video: object dict can't be used in 'await' expression"}
+{"timestamp": "2025-05-16T03:20:59.043150", "level": "ERROR", "logger": "app.videoPexel.search", "message": "Error analyzing video: object dict can't be used in 'await' expression"}
+{"timestamp": "2025-05-16T03:21:01.496784", "level": "ERROR", "logger": "app.videoPexel.search", "message": "Error analyzing video: object dict can't be used in 'await' expression"}
+{"timestamp": "2025-05-16T03:21:03.712027", "level": "ERROR", "logger": "app.videoPexel.search", "message": "Error analyzing video: object dict can't be used in 'await' expression"}

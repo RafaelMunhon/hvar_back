@@ -1,0 +1,222 @@
+{"timestamp": "2025-05-15T21:18:33.988197", "level": "INFO", "logger": "app.api.video_studio", "message": "{\"timestamp\": \"2025-05-15T21:18:33.988148\", \"message\": \"Usando arquivo de credenciais: /home/rafael/Desktop/projetos/yduqs_back/conteudo-autenticare-d2aaae9aeffe.json\"}"}
+{"timestamp": "2025-05-15T21:18:34.019751", "level": "INFO", "logger": "app.api.video_studio", "message": "{\"timestamp\": \"2025-05-15T21:18:34.019611\", \"message\": \"Cliente GCS inicializado com sucesso\"}"}
+{"timestamp": "2025-05-15T21:23:08.697460", "level": "INFO", "logger": "app.api.video_studio", "message": "Usando arquivo de credenciais: /home/rafael/Desktop/projetos/yduqs_back/conteudo-autenticare-d2aaae9aeffe.json"}
+{"timestamp": "2025-05-15T21:23:08.728852", "level": "INFO", "logger": "app.api.video_studio", "message": "Cliente GCS inicializado com sucesso"}
+{"timestamp": "2025-05-15T21:25:29.842501", "level": "INFO", "logger": "app.api.video_studio", "message": "Usando arquivo de credenciais: /home/rafael/Desktop/projetos/yduqs_back/conteudo-autenticare-d2aaae9aeffe.json"}
+{"timestamp": "2025-05-15T21:25:29.873652", "level": "INFO", "logger": "app.api.video_studio", "message": "Cliente GCS inicializado com sucesso"}
+{"timestamp": "2025-05-15T21:46:21.328358", "level": "INFO", "logger": "app.api.video_studio", "message": "Usando arquivo de credenciais: /home/rafael/Desktop/projetos/yduqs_back/conteudo-autenticare-d2aaae9aeffe.json"}
+{"timestamp": "2025-05-15T21:46:21.360628", "level": "INFO", "logger": "app.api.video_studio", "message": "Cliente GCS inicializado com sucesso"}
+{"timestamp": "2025-05-15T21:50:39.765982", "level": "INFO", "logger": "app.api.video_studio", "message": "Usando arquivo de credenciais: /home/rafael/Desktop/projetos/yduqs_back/conteudo-autenticare-d2aaae9aeffe.json"}
+{"timestamp": "2025-05-15T21:50:39.798146", "level": "INFO", "logger": "app.api.video_studio", "message": "Cliente GCS inicializado com sucesso"}
+{"timestamp": "2025-05-15T21:56:46.835336", "level": "INFO", "logger": "app.api.video_studio", "message": "Usando arquivo de credenciais: /home/rafael/Desktop/projetos/yduqs_back/conteudo-autenticare-d2aaae9aeffe.json"}
+{"timestamp": "2025-05-15T21:56:46.867163", "level": "INFO", "logger": "app.api.video_studio", "message": "Cliente GCS inicializado com sucesso"}
+{"timestamp": "2025-05-15T22:10:22.232536", "level": "INFO", "logger": "app.api.video_studio", "message": "Usando arquivo de credenciais: /home/rafael/Desktop/projetos/yduqs_back/conteudo-autenticare-d2aaae9aeffe.json"}
+{"timestamp": "2025-05-15T22:10:22.263582", "level": "INFO", "logger": "app.api.video_studio", "message": "Cliente GCS inicializado com sucesso"}
+{"timestamp": "2025-05-15T22:18:02.511238", "level": "INFO", "logger": "app.api.video_studio", "message": "Usando arquivo de credenciais: /home/rafael/Desktop/projetos/yduqs_back/conteudo-autenticare-d2aaae9aeffe.json"}
+{"timestamp": "2025-05-15T22:18:02.542558", "level": "INFO", "logger": "app.api.video_studio", "message": "Cliente GCS inicializado com sucesso"}
+{"timestamp": "2025-05-15T22:23:18.035976", "level": "INFO", "logger": "app.api.video_studio", "message": "Usando arquivo de credenciais: /home/rafael/Desktop/projetos/yduqs_back/conteudo-autenticare-d2aaae9aeffe.json"}
+{"timestamp": "2025-05-15T22:23:18.067274", "level": "INFO", "logger": "app.api.video_studio", "message": "Cliente GCS inicializado com sucesso"}
+{"timestamp": "2025-05-15T22:25:07.170687", "level": "INFO", "logger": "app.api.video_studio", "message": "Usando arquivo de credenciais: /home/rafael/Desktop/projetos/yduqs_back/conteudo-autenticare-d2aaae9aeffe.json"}
+{"timestamp": "2025-05-15T22:25:07.201813", "level": "INFO", "logger": "app.api.video_studio", "message": "Cliente GCS inicializado com sucesso"}
+{"timestamp": "2025-05-15T22:25:15.500826", "level": "INFO", "logger": "app.api.video_studio", "message": "Usando arquivo de credenciais: /home/rafael/Desktop/projetos/yduqs_back/conteudo-autenticare-d2aaae9aeffe.json"}
+{"timestamp": "2025-05-15T22:25:15.532289", "level": "INFO", "logger": "app.api.video_studio", "message": "Cliente GCS inicializado com sucesso"}
+{"timestamp": "2025-05-15T22:26:44.658679", "level": "INFO", "logger": "app.api.video_studio", "message": "Usando arquivo de credenciais: /home/rafael/Desktop/projetos/yduqs_back/conteudo-autenticare-d2aaae9aeffe.json"}
+{"timestamp": "2025-05-15T22:26:44.691856", "level": "INFO", "logger": "app.api.video_studio", "message": "Cliente GCS inicializado com sucesso"}
+{"timestamp": "2025-05-15T22:28:24.533084", "level": "INFO", "logger": "app.api.video_studio", "message": "Usando arquivo de credenciais: /home/rafael/Desktop/projetos/yduqs_back/conteudo-autenticare-d2aaae9aeffe.json"}
+{"timestamp": "2025-05-15T22:28:24.564536", "level": "INFO", "logger": "app.api.video_studio", "message": "Cliente GCS inicializado com sucesso"}
+{"timestamp": "2025-05-15T22:30:05.591129", "level": "INFO", "logger": "app.api.video_studio", "message": "Usando arquivo de credenciais: /home/rafael/Desktop/projetos/yduqs_back/conteudo-autenticare-d2aaae9aeffe.json"}
+{"timestamp": "2025-05-15T22:30:05.622963", "level": "INFO", "logger": "app.api.video_studio", "message": "Cliente GCS inicializado com sucesso"}
+{"timestamp": "2025-05-15T22:30:58.616565", "level": "INFO", "logger": "app.api.video_studio", "message": "Usando arquivo de credenciais: /home/rafael/Desktop/projetos/yduqs_back/conteudo-autenticare-d2aaae9aeffe.json"}
+{"timestamp": "2025-05-15T22:30:58.651828", "level": "INFO", "logger": "app.api.video_studio", "message": "Cliente GCS inicializado com sucesso"}
+{"timestamp": "2025-05-15T22:34:08.138129", "level": "INFO", "logger": "app.api.video_studio", "message": "Usando arquivo de credenciais: /home/rafael/Desktop/projetos/yduqs_back/conteudo-autenticare-d2aaae9aeffe.json"}
+{"timestamp": "2025-05-15T22:34:08.168981", "level": "INFO", "logger": "app.api.video_studio", "message": "Cliente GCS inicializado com sucesso"}
+{"timestamp": "2025-05-15T22:37:09.906369", "level": "INFO", "logger": "app.api.video_studio", "message": "Usando arquivo de credenciais: /home/rafael/Desktop/projetos/yduqs_back/conteudo-autenticare-d2aaae9aeffe.json"}
+{"timestamp": "2025-05-15T22:37:09.938092", "level": "INFO", "logger": "app.api.video_studio", "message": "Cliente GCS inicializado com sucesso"}
+{"timestamp": "2025-05-15T22:39:17.384864", "level": "INFO", "logger": "app.api.video_studio", "message": "Usando arquivo de credenciais: /home/rafael/Desktop/projetos/yduqs_back/conteudo-autenticare-d2aaae9aeffe.json"}
+{"timestamp": "2025-05-15T22:39:17.416221", "level": "INFO", "logger": "app.api.video_studio", "message": "Cliente GCS inicializado com sucesso"}
+{"timestamp": "2025-05-15T22:42:03.549058", "level": "INFO", "logger": "app.api.video_studio", "message": "Usando arquivo de credenciais: /home/rafael/Desktop/projetos/yduqs_back/conteudo-autenticare-d2aaae9aeffe.json"}
+{"timestamp": "2025-05-15T22:42:03.579928", "level": "INFO", "logger": "app.api.video_studio", "message": "Cliente GCS inicializado com sucesso"}
+{"timestamp": "2025-05-15T22:43:41.004580", "level": "INFO", "logger": "app.api.video_studio", "message": "Usando arquivo de credenciais: /home/rafael/Desktop/projetos/yduqs_back/conteudo-autenticare-d2aaae9aeffe.json"}
+{"timestamp": "2025-05-15T22:43:41.035721", "level": "INFO", "logger": "app.api.video_studio", "message": "Cliente GCS inicializado com sucesso"}
+{"timestamp": "2025-05-15T22:46:41.374828", "level": "INFO", "logger": "app.api.video_studio", "message": "Usando arquivo de credenciais: /home/rafael/Desktop/projetos/yduqs_back/conteudo-autenticare-d2aaae9aeffe.json"}
+{"timestamp": "2025-05-15T22:46:41.406770", "level": "INFO", "logger": "app.api.video_studio", "message": "Cliente GCS inicializado com sucesso"}
+{"timestamp": "2025-05-15T22:48:31.747014", "level": "INFO", "logger": "app.api.video_studio", "message": "Usando arquivo de credenciais: /home/rafael/Desktop/projetos/yduqs_back/conteudo-autenticare-d2aaae9aeffe.json"}
+{"timestamp": "2025-05-15T22:48:31.778607", "level": "INFO", "logger": "app.api.video_studio", "message": "Cliente GCS inicializado com sucesso"}
+{"timestamp": "2025-05-15T22:54:05.371126", "level": "INFO", "logger": "app.api.video_studio", "message": "Usando arquivo de credenciais: /home/rafael/Desktop/projetos/yduqs_back/conteudo-autenticare-d2aaae9aeffe.json"}
+{"timestamp": "2025-05-15T22:54:05.402671", "level": "INFO", "logger": "app.api.video_studio", "message": "Cliente GCS inicializado com sucesso"}
+{"timestamp": "2025-05-15T22:58:41.684679", "level": "INFO", "logger": "app.api.video_studio", "message": "Usando arquivo de credenciais: /home/rafael/Desktop/projetos/yduqs_back/conteudo-autenticare-d2aaae9aeffe.json"}
+{"timestamp": "2025-05-15T22:58:41.723272", "level": "INFO", "logger": "app.api.video_studio", "message": "Cliente GCS inicializado com sucesso"}
+{"timestamp": "2025-05-15T23:04:08.503463", "level": "INFO", "logger": "app.api.video_studio", "message": "Usando arquivo de credenciais: /home/rafael/Desktop/projetos/yduqs_back/conteudo-autenticare-d2aaae9aeffe.json"}
+{"timestamp": "2025-05-15T23:04:08.540834", "level": "INFO", "logger": "app.api.video_studio", "message": "Cliente GCS inicializado com sucesso"}
+{"timestamp": "2025-05-15T23:06:23.206615", "level": "INFO", "logger": "app.api.video_studio", "message": "Usando arquivo de credenciais: /home/rafael/Desktop/projetos/yduqs_back/conteudo-autenticare-d2aaae9aeffe.json"}
+{"timestamp": "2025-05-15T23:06:23.237878", "level": "INFO", "logger": "app.api.video_studio", "message": "Cliente GCS inicializado com sucesso"}
+{"timestamp": "2025-05-15T23:09:23.868924", "level": "INFO", "logger": "app.api.video_studio", "message": "Usando arquivo de credenciais: /home/rafael/Desktop/projetos/yduqs_back/conteudo-autenticare-d2aaae9aeffe.json"}
+{"timestamp": "2025-05-15T23:09:23.900301", "level": "INFO", "logger": "app.api.video_studio", "message": "Cliente GCS inicializado com sucesso"}
+{"timestamp": "2025-05-15T23:12:46.440908", "level": "INFO", "logger": "app.api.video_studio", "message": "Usando arquivo de credenciais: /home/rafael/Desktop/projetos/yduqs_back/conteudo-autenticare-d2aaae9aeffe.json"}
+{"timestamp": "2025-05-15T23:12:46.472461", "level": "INFO", "logger": "app.api.video_studio", "message": "Cliente GCS inicializado com sucesso"}
+{"timestamp": "2025-05-15T23:14:58.657674", "level": "INFO", "logger": "app.api.video_studio", "message": "Usando arquivo de credenciais: /home/rafael/Desktop/projetos/yduqs_back/conteudo-autenticare-d2aaae9aeffe.json"}
+{"timestamp": "2025-05-15T23:14:58.689106", "level": "INFO", "logger": "app.api.video_studio", "message": "Cliente GCS inicializado com sucesso"}
+{"timestamp": "2025-05-15T23:16:32.642064", "level": "INFO", "logger": "app.api.video_studio", "message": "Usando arquivo de credenciais: /home/rafael/Desktop/projetos/yduqs_back/conteudo-autenticare-d2aaae9aeffe.json"}
+{"timestamp": "2025-05-15T23:16:32.673183", "level": "INFO", "logger": "app.api.video_studio", "message": "Cliente GCS inicializado com sucesso"}
+{"timestamp": "2025-05-15T23:19:24.031767", "level": "INFO", "logger": "app.api.video_studio", "message": "Usando arquivo de credenciais: /home/rafael/Desktop/projetos/yduqs_back/conteudo-autenticare-d2aaae9aeffe.json"}
+{"timestamp": "2025-05-15T23:19:24.062552", "level": "INFO", "logger": "app.api.video_studio", "message": "Cliente GCS inicializado com sucesso"}
+{"timestamp": "2025-05-15T23:27:28.267745", "level": "INFO", "logger": "app.api.video_studio", "message": "Usando arquivo de credenciais: /home/rafael/Desktop/projetos/yduqs_back/conteudo-autenticare-d2aaae9aeffe.json"}
+{"timestamp": "2025-05-15T23:27:28.301676", "level": "INFO", "logger": "app.api.video_studio", "message": "Cliente GCS inicializado com sucesso"}
+{"timestamp": "2025-05-15T23:31:10.680609", "level": "INFO", "logger": "app.api.video_studio", "message": "Gerando URL assinada para: videos_studio/20250515T203110_videos_studio/20250515T233110_1 Minuto de Poesia.mp4"}
+{"timestamp": "2025-05-15T23:31:10.681568", "level": "INFO", "logger": "app.api.video_studio", "message": "URL assinada gerada com sucesso"}
+{"timestamp": "2025-05-15T23:31:10.681704", "level": "INFO", "logger": "app.api.video_studio", "message": "Nome do arquivo: videos_studio/20250515T203110_videos_studio/20250515T233110_1 Minuto de Poesia.mp4"}
+{"timestamp": "2025-05-15T23:31:10.681822", "level": "INFO", "logger": "app.api.video_studio", "message": "URL p\u00fablica: https://storage.googleapis.com/conteudo-autenticare-videos/videos_studio/20250515T203110_videos_studio/20250515T233110_1 Minuto de Poesia.mp4"}
+{"timestamp": "2025-05-15T23:32:22.187862", "level": "INFO", "logger": "app.api.video_studio", "message": "Gerando URL assinada para: videos_studio/20250515T203222_videos_studio/20250515T233221_1 Minuto de Poesia.mp4"}
+{"timestamp": "2025-05-15T23:32:22.189037", "level": "INFO", "logger": "app.api.video_studio", "message": "URL assinada gerada com sucesso"}
+{"timestamp": "2025-05-15T23:32:22.189345", "level": "INFO", "logger": "app.api.video_studio", "message": "Nome do arquivo: videos_studio/20250515T203222_videos_studio/20250515T233221_1 Minuto de Poesia.mp4"}
+{"timestamp": "2025-05-15T23:32:22.189547", "level": "INFO", "logger": "app.api.video_studio", "message": "URL p\u00fablica: https://storage.googleapis.com/conteudo-autenticare-videos/videos_studio/20250515T203222_videos_studio/20250515T233221_1 Minuto de Poesia.mp4"}
+{"timestamp": "2025-05-15T23:32:39.356473", "level": "INFO", "logger": "app.api.video_studio", "message": "Gerando URL assinada para: videos_studio/20250515T203239_videos_studio/20250515T233239_1 Minuto de Poesia.mp4"}
+{"timestamp": "2025-05-15T23:32:39.358086", "level": "INFO", "logger": "app.api.video_studio", "message": "URL assinada gerada com sucesso"}
+{"timestamp": "2025-05-15T23:32:39.358522", "level": "INFO", "logger": "app.api.video_studio", "message": "Nome do arquivo: videos_studio/20250515T203239_videos_studio/20250515T233239_1 Minuto de Poesia.mp4"}
+{"timestamp": "2025-05-15T23:32:39.358830", "level": "INFO", "logger": "app.api.video_studio", "message": "URL p\u00fablica: https://storage.googleapis.com/conteudo-autenticare-videos/videos_studio/20250515T203239_videos_studio/20250515T233239_1 Minuto de Poesia.mp4"}
+{"timestamp": "2025-05-15T23:43:52.419472", "level": "INFO", "logger": "app.api.video_studio", "message": "Usando arquivo de credenciais: /home/rafael/Desktop/projetos/yduqs_back/conteudo-autenticare-d2aaae9aeffe.json"}
+{"timestamp": "2025-05-15T23:43:52.451174", "level": "INFO", "logger": "app.api.video_studio", "message": "Cliente GCS inicializado com sucesso"}
+{"timestamp": "2025-05-15T23:47:23.233342", "level": "INFO", "logger": "app.api.video_studio", "message": "Gerando URL assinada para: videos_studio/20250515T204723_videos_studio/20250515T234721_1 Minuto de Poesia.mp4"}
+{"timestamp": "2025-05-15T23:47:23.234308", "level": "INFO", "logger": "app.api.video_studio", "message": "URL assinada gerada com sucesso"}
+{"timestamp": "2025-05-15T23:47:23.234418", "level": "INFO", "logger": "app.api.video_studio", "message": "Nome do arquivo: videos_studio/20250515T204723_videos_studio/20250515T234721_1 Minuto de Poesia.mp4"}
+{"timestamp": "2025-05-15T23:47:23.234500", "level": "INFO", "logger": "app.api.video_studio", "message": "URL p\u00fablica: https://storage.googleapis.com/conteudo-autenticare-videos/videos_studio/20250515T204723_videos_studio/20250515T234721_1 Minuto de Poesia.mp4"}
+{"timestamp": "2025-05-15T23:54:50.258736", "level": "INFO", "logger": "app.api.video_studio", "message": "Usando arquivo de credenciais: /home/rafael/Desktop/projetos/yduqs_back/conteudo-autenticare-d2aaae9aeffe.json"}
+{"timestamp": "2025-05-15T23:54:50.292001", "level": "INFO", "logger": "app.api.video_studio", "message": "Cliente GCS inicializado com sucesso"}
+{"timestamp": "2025-05-15T23:55:55.358822", "level": "INFO", "logger": "app.api.video_studio", "message": "Usando arquivo de credenciais: /home/rafael/Desktop/projetos/yduqs_back/conteudo-autenticare-d2aaae9aeffe.json"}
+{"timestamp": "2025-05-15T23:55:55.390448", "level": "INFO", "logger": "app.api.video_studio", "message": "Cliente GCS inicializado com sucesso"}
+{"timestamp": "2025-05-15T23:59:15.190933", "level": "INFO", "logger": "app.api.video_studio", "message": "Usando arquivo de credenciais: /home/rafael/Desktop/projetos/yduqs_back/conteudo-autenticare-d2aaae9aeffe.json"}
+{"timestamp": "2025-05-15T23:59:15.222142", "level": "INFO", "logger": "app.api.video_studio", "message": "Cliente GCS inicializado com sucesso"}
+{"timestamp": "2025-05-16T00:59:44.603877", "level": "INFO", "logger": "app.api.video_studio", "message": "Usando arquivo de credenciais: /home/rafael/Desktop/projetos/yduqs_back/conteudo-autenticare-d2aaae9aeffe.json"}
+{"timestamp": "2025-05-16T00:59:44.635531", "level": "INFO", "logger": "app.api.video_studio", "message": "Cliente GCS inicializado com sucesso"}
+{"timestamp": "2025-05-16T01:03:57.389538", "level": "INFO", "logger": "app.api.video_studio", "message": "Usando arquivo de credenciais: /home/rafael/Desktop/projetos/yduqs_back/conteudo-autenticare-d2aaae9aeffe.json"}
+{"timestamp": "2025-05-16T01:03:57.421035", "level": "INFO", "logger": "app.api.video_studio", "message": "Cliente GCS inicializado com sucesso"}
+{"timestamp": "2025-05-16T01:06:46.545248", "level": "INFO", "logger": "app.api.video_studio", "message": "Usando arquivo de credenciais: /home/rafael/Desktop/projetos/yduqs_back/conteudo-autenticare-d2aaae9aeffe.json"}
+{"timestamp": "2025-05-16T01:06:46.577670", "level": "INFO", "logger": "app.api.video_studio", "message": "Cliente GCS inicializado com sucesso"}
+{"timestamp": "2025-05-16T01:13:25.272743", "level": "INFO", "logger": "app.api.video_studio", "message": "Usando arquivo de credenciais: /home/rafael/Desktop/projetos/yduqs_back/conteudo-autenticare-d2aaae9aeffe.json"}
+{"timestamp": "2025-05-16T01:13:25.304529", "level": "INFO", "logger": "app.api.video_studio", "message": "Cliente GCS inicializado com sucesso"}
+{"timestamp": "2025-05-16T01:21:37.714265", "level": "INFO", "logger": "app.api.video_studio", "message": "Usando arquivo de credenciais: /home/rafael/Desktop/projetos/yduqs_back/conteudo-autenticare-d2aaae9aeffe.json"}
+{"timestamp": "2025-05-16T01:21:37.746401", "level": "INFO", "logger": "app.api.video_studio", "message": "Cliente GCS inicializado com sucesso"}
+{"timestamp": "2025-05-16T01:51:07.866587", "level": "INFO", "logger": "app.api.video_studio", "message": "Usando arquivo de credenciais: /home/rafael/Desktop/projetos/yduqs_back/conteudo-autenticare-d2aaae9aeffe.json"}
+{"timestamp": "2025-05-16T01:51:07.897681", "level": "INFO", "logger": "app.api.video_studio", "message": "Cliente GCS inicializado com sucesso"}
+{"timestamp": "2025-05-16T01:57:21.337588", "level": "INFO", "logger": "app.api.video_studio", "message": "Usando arquivo de credenciais: /home/rafael/Desktop/projetos/yduqs_back/conteudo-autenticare-d2aaae9aeffe.json"}
+{"timestamp": "2025-05-16T01:57:21.369818", "level": "INFO", "logger": "app.api.video_studio", "message": "Cliente GCS inicializado com sucesso"}
+{"timestamp": "2025-05-16T02:01:14.696007", "level": "INFO", "logger": "app.api.video_studio", "message": "Usando arquivo de credenciais: /home/rafael/Desktop/projetos/yduqs_back/conteudo-autenticare-d2aaae9aeffe.json"}
+{"timestamp": "2025-05-16T02:01:14.727121", "level": "INFO", "logger": "app.api.video_studio", "message": "Cliente GCS inicializado com sucesso"}
+{"timestamp": "2025-05-16T02:04:38.670898", "level": "INFO", "logger": "app.api.video_studio", "message": "Usando arquivo de credenciais: /home/rafael/Desktop/projetos/yduqs_back/conteudo-autenticare-d2aaae9aeffe.json"}
+{"timestamp": "2025-05-16T02:04:38.702365", "level": "INFO", "logger": "app.api.video_studio", "message": "Cliente GCS inicializado com sucesso"}
+{"timestamp": "2025-05-16T02:10:07.699119", "level": "INFO", "logger": "app.api.video_studio", "message": "Usando arquivo de credenciais: /home/rafael/Desktop/projetos/yduqs_back/conteudo-autenticare-d2aaae9aeffe.json"}
+{"timestamp": "2025-05-16T02:10:07.730137", "level": "INFO", "logger": "app.api.video_studio", "message": "Cliente GCS inicializado com sucesso"}
+{"timestamp": "2025-05-16T02:13:22.590572", "level": "INFO", "logger": "app.api.video_studio", "message": "Usando arquivo de credenciais: /home/rafael/Desktop/projetos/yduqs_back/conteudo-autenticare-d2aaae9aeffe.json"}
+{"timestamp": "2025-05-16T02:13:22.621860", "level": "INFO", "logger": "app.api.video_studio", "message": "Cliente GCS inicializado com sucesso"}
+{"timestamp": "2025-05-16T02:17:08.448925", "level": "INFO", "logger": "app.api.video_studio", "message": "Usando arquivo de credenciais: /home/rafael/Desktop/projetos/yduqs_back/conteudo-autenticare-d2aaae9aeffe.json"}
+{"timestamp": "2025-05-16T02:17:08.479978", "level": "INFO", "logger": "app.api.video_studio", "message": "Cliente GCS inicializado com sucesso"}
+{"timestamp": "2025-05-16T02:19:56.869421", "level": "INFO", "logger": "app.api.video_studio", "message": "Usando arquivo de credenciais: /home/rafael/Desktop/projetos/yduqs_back/conteudo-autenticare-d2aaae9aeffe.json"}
+{"timestamp": "2025-05-16T02:19:56.900993", "level": "INFO", "logger": "app.api.video_studio", "message": "Cliente GCS inicializado com sucesso"}
+{"timestamp": "2025-05-16T02:23:29.506225", "level": "INFO", "logger": "app.api.video_studio", "message": "Usando arquivo de credenciais: /home/rafael/Desktop/projetos/yduqs_back/conteudo-autenticare-d2aaae9aeffe.json"}
+{"timestamp": "2025-05-16T02:23:29.537535", "level": "INFO", "logger": "app.api.video_studio", "message": "Cliente GCS inicializado com sucesso"}
+{"timestamp": "2025-05-16T02:56:18.542326", "level": "INFO", "logger": "app.api.video_studio", "message": "Usando arquivo de credenciais: /home/rafael/Desktop/projetos/yduqs_back/conteudo-autenticare-d2aaae9aeffe.json"}
+{"timestamp": "2025-05-16T02:56:18.578661", "level": "INFO", "logger": "app.api.video_studio", "message": "Cliente GCS inicializado com sucesso"}
+{"timestamp": "2025-05-16T03:14:10.336518", "level": "INFO", "logger": "app.api.video_studio", "message": "Usando arquivo de credenciais: /home/rafael/Desktop/projetos/yduqs_back/conteudo-autenticare-d2aaae9aeffe.json"}
+{"timestamp": "2025-05-16T03:14:10.394322", "level": "INFO", "logger": "app.api.video_studio", "message": "Cliente GCS inicializado com sucesso"}
+{"timestamp": "2025-05-16T03:18:09.511107", "level": "INFO", "logger": "app.api.video_studio", "message": "Usando arquivo de credenciais: /home/rafael/Desktop/projetos/yduqs_back/conteudo-autenticare-d2aaae9aeffe.json"}
+{"timestamp": "2025-05-16T03:18:09.542376", "level": "INFO", "logger": "app.api.video_studio", "message": "Cliente GCS inicializado com sucesso"}
+{"timestamp": "2025-05-16T03:20:15.712946", "level": "INFO", "logger": "app.api.video_studio", "message": "Usando arquivo de credenciais: /home/rafael/Desktop/projetos/yduqs_back/conteudo-autenticare-d2aaae9aeffe.json"}
+{"timestamp": "2025-05-16T03:20:15.751461", "level": "INFO", "logger": "app.api.video_studio", "message": "Cliente GCS inicializado com sucesso"}
+{"timestamp": "2025-05-16T03:29:37.714324", "level": "INFO", "logger": "app.api.video_studio", "message": "Usando arquivo de credenciais: /home/rafael/Desktop/projetos/yduqs_back/conteudo-autenticare-d2aaae9aeffe.json"}
+{"timestamp": "2025-05-16T03:29:37.757036", "level": "INFO", "logger": "app.api.video_studio", "message": "Cliente GCS inicializado com sucesso"}
+{"timestamp": "2025-05-16T03:29:42.858625", "level": "INFO", "logger": "app.api.video_studio", "message": "Gerando URL assinada para: videos_studio/20250516T002942_videos_studio/20250516T032942_1 Minuto de Poesia.mp4"}
+{"timestamp": "2025-05-16T03:29:42.861178", "level": "INFO", "logger": "app.api.video_studio", "message": "URL assinada gerada com sucesso"}
+{"timestamp": "2025-05-16T03:29:42.861355", "level": "INFO", "logger": "app.api.video_studio", "message": "Nome do arquivo: videos_studio/20250516T002942_videos_studio/20250516T032942_1 Minuto de Poesia.mp4"}
+{"timestamp": "2025-05-16T03:29:42.861441", "level": "INFO", "logger": "app.api.video_studio", "message": "URL p\u00fablica: https://storage.googleapis.com/conteudo-autenticare-videos/videos_studio/20250516T002942_videos_studio/20250516T032942_1 Minuto de Poesia.mp4"}
+{"timestamp": "2025-05-16T03:31:38.997480", "level": "INFO", "logger": "app.api.video_studio", "message": "Gerando URL assinada para: videos_studio/20250516T003138_videos_studio/20250516T033138_1 Minuto de Poesia.mp4"}
+{"timestamp": "2025-05-16T03:31:39.000484", "level": "INFO", "logger": "app.api.video_studio", "message": "URL assinada gerada com sucesso"}
+{"timestamp": "2025-05-16T03:31:39.000615", "level": "INFO", "logger": "app.api.video_studio", "message": "Nome do arquivo: videos_studio/20250516T003138_videos_studio/20250516T033138_1 Minuto de Poesia.mp4"}
+{"timestamp": "2025-05-16T03:31:39.000711", "level": "INFO", "logger": "app.api.video_studio", "message": "URL p\u00fablica: https://storage.googleapis.com/conteudo-autenticare-videos/videos_studio/20250516T003138_videos_studio/20250516T033138_1 Minuto de Poesia.mp4"}
+{"timestamp": "2025-05-16T03:38:08.683488", "level": "INFO", "logger": "app.api.video_studio", "message": "Usando arquivo de credenciais: /home/rafael/Desktop/projetos/yduqs_back/conteudo-autenticare-d2aaae9aeffe.json"}
+{"timestamp": "2025-05-16T03:38:08.716570", "level": "INFO", "logger": "app.api.video_studio", "message": "Cliente GCS inicializado com sucesso"}
+{"timestamp": "2025-05-16T03:38:13.010947", "level": "INFO", "logger": "app.api.video_studio", "message": "Gerando URL assinada para: videos_studio/20250516T003813_videos_studio/20250516T033812_1 Minuto de Poesia.mp4"}
+{"timestamp": "2025-05-16T03:38:13.012305", "level": "INFO", "logger": "app.api.video_studio", "message": "URL assinada gerada com sucesso"}
+{"timestamp": "2025-05-16T03:38:13.012430", "level": "INFO", "logger": "app.api.video_studio", "message": "Nome do arquivo: videos_studio/20250516T003813_videos_studio/20250516T033812_1 Minuto de Poesia.mp4"}
+{"timestamp": "2025-05-16T03:38:13.012518", "level": "INFO", "logger": "app.api.video_studio", "message": "URL p\u00fablica: https://storage.googleapis.com/conteudo-autenticare-videos/videos_studio/20250516T003813_videos_studio/20250516T033812_1 Minuto de Poesia.mp4"}
+{"timestamp": "2025-05-16T03:40:04.211234", "level": "INFO", "logger": "app.api.video_studio", "message": "Gerando URL assinada para: videos_studio/20250516T004004_videos_studio/20250516T034003_1 Minuto de Poesia.mp4"}
+{"timestamp": "2025-05-16T03:40:04.212419", "level": "INFO", "logger": "app.api.video_studio", "message": "URL assinada gerada com sucesso"}
+{"timestamp": "2025-05-16T03:40:04.212529", "level": "INFO", "logger": "app.api.video_studio", "message": "Nome do arquivo: videos_studio/20250516T004004_videos_studio/20250516T034003_1 Minuto de Poesia.mp4"}
+{"timestamp": "2025-05-16T03:40:04.212628", "level": "INFO", "logger": "app.api.video_studio", "message": "URL p\u00fablica: https://storage.googleapis.com/conteudo-autenticare-videos/videos_studio/20250516T004004_videos_studio/20250516T034003_1 Minuto de Poesia.mp4"}
+{"timestamp": "2025-05-16T03:41:39.639703", "level": "INFO", "logger": "app.api.video_studio", "message": "Gerando URL assinada para: videos_studio/20250516T004139_videos_studio/20250516T034139_1 Minuto de Poesia.mp4"}
+{"timestamp": "2025-05-16T03:41:39.643928", "level": "INFO", "logger": "app.api.video_studio", "message": "URL assinada gerada com sucesso"}
+{"timestamp": "2025-05-16T03:41:39.644102", "level": "INFO", "logger": "app.api.video_studio", "message": "Nome do arquivo: videos_studio/20250516T004139_videos_studio/20250516T034139_1 Minuto de Poesia.mp4"}
+{"timestamp": "2025-05-16T03:41:39.644291", "level": "INFO", "logger": "app.api.video_studio", "message": "URL p\u00fablica: https://storage.googleapis.com/conteudo-autenticare-videos/videos_studio/20250516T004139_videos_studio/20250516T034139_1 Minuto de Poesia.mp4"}
+{"timestamp": "2025-05-16T03:42:25.345666", "level": "INFO", "logger": "app.api.video_studio", "message": "Gerando URL assinada para: videos_studio/20250516T004225_videos_studio/20250516T034225_1 Minuto de Poesia.mp4"}
+{"timestamp": "2025-05-16T03:42:25.347038", "level": "INFO", "logger": "app.api.video_studio", "message": "URL assinada gerada com sucesso"}
+{"timestamp": "2025-05-16T03:42:25.347212", "level": "INFO", "logger": "app.api.video_studio", "message": "Nome do arquivo: videos_studio/20250516T004225_videos_studio/20250516T034225_1 Minuto de Poesia.mp4"}
+{"timestamp": "2025-05-16T03:42:25.347309", "level": "INFO", "logger": "app.api.video_studio", "message": "URL p\u00fablica: https://storage.googleapis.com/conteudo-autenticare-videos/videos_studio/20250516T004225_videos_studio/20250516T034225_1 Minuto de Poesia.mp4"}
+{"timestamp": "2025-05-16T13:16:40.092210", "level": "INFO", "logger": "app.api.video_studio", "message": "Usando arquivo de credenciais: /home/rafael/Desktop/projetos/yduqs_back/conteudo-autenticare-d2aaae9aeffe.json"}
+{"timestamp": "2025-05-16T13:16:40.131450", "level": "INFO", "logger": "app.api.video_studio", "message": "Cliente GCS inicializado com sucesso"}
+{"timestamp": "2025-05-16T13:58:27.916218", "level": "INFO", "logger": "app.api.video_studio", "message": "Usando arquivo de credenciais: /home/rafael/Desktop/projetos/yduqs_back/conteudo-autenticare-d2aaae9aeffe.json"}
+{"timestamp": "2025-05-16T13:58:27.951480", "level": "INFO", "logger": "app.api.video_studio", "message": "Cliente GCS inicializado com sucesso"}
+{"timestamp": "2025-05-16T14:07:54.881955", "level": "INFO", "logger": "app.api.video_studio", "message": "Usando arquivo de credenciais: /home/rafael/Desktop/projetos/yduqs_back/conteudo-autenticare-d2aaae9aeffe.json"}
+{"timestamp": "2025-05-16T14:07:54.916580", "level": "INFO", "logger": "app.api.video_studio", "message": "Cliente GCS inicializado com sucesso"}
+{"timestamp": "2025-05-16T14:31:57.107944", "level": "INFO", "logger": "app.api.video_studio", "message": "Usando arquivo de credenciais: /home/rafael/Desktop/projetos/yduqs_back/conteudo-autenticare-d2aaae9aeffe.json"}
+{"timestamp": "2025-05-16T14:31:57.139013", "level": "INFO", "logger": "app.api.video_studio", "message": "Cliente GCS inicializado com sucesso"}
+{"timestamp": "2025-05-16T14:39:56.769342", "level": "INFO", "logger": "app.api.video_studio", "message": "Usando arquivo de credenciais: /home/rafael/Desktop/projetos/yduqs_back/conteudo-autenticare-d2aaae9aeffe.json"}
+{"timestamp": "2025-05-16T14:39:56.801206", "level": "INFO", "logger": "app.api.video_studio", "message": "Cliente GCS inicializado com sucesso"}
+{"timestamp": "2025-05-16T14:48:21.035804", "level": "INFO", "logger": "app.api.video_studio", "message": "Usando arquivo de credenciais: /home/rafael/Desktop/projetos/yduqs_back/conteudo-autenticare-d2aaae9aeffe.json"}
+{"timestamp": "2025-05-16T14:48:21.067880", "level": "INFO", "logger": "app.api.video_studio", "message": "Cliente GCS inicializado com sucesso"}
+{"timestamp": "2025-05-16T15:01:47.375050", "level": "INFO", "logger": "app.api.video_studio", "message": "Usando arquivo de credenciais: /home/rafael/Desktop/projetos/yduqs_back/conteudo-autenticare-d2aaae9aeffe.json"}
+{"timestamp": "2025-05-16T15:01:47.406652", "level": "INFO", "logger": "app.api.video_studio", "message": "Cliente GCS inicializado com sucesso"}
+{"timestamp": "2025-05-16T15:03:00.168180", "level": "INFO", "logger": "app.api.video_studio", "message": "Usando arquivo de credenciais: /home/rafael/Desktop/projetos/yduqs_back/conteudo-autenticare-d2aaae9aeffe.json"}
+{"timestamp": "2025-05-16T15:03:00.199935", "level": "INFO", "logger": "app.api.video_studio", "message": "Cliente GCS inicializado com sucesso"}
+{"timestamp": "2025-05-16T15:04:34.339521", "level": "INFO", "logger": "app.api.video_studio", "message": "Usando arquivo de credenciais: /home/rafael/Desktop/projetos/yduqs_back/conteudo-autenticare-d2aaae9aeffe.json"}
+{"timestamp": "2025-05-16T15:04:34.370820", "level": "INFO", "logger": "app.api.video_studio", "message": "Cliente GCS inicializado com sucesso"}
+{"timestamp": "2025-05-16T15:06:15.227755", "level": "INFO", "logger": "app.api.video_studio", "message": "Usando arquivo de credenciais: /home/rafael/Desktop/projetos/yduqs_back/conteudo-autenticare-d2aaae9aeffe.json"}
+{"timestamp": "2025-05-16T15:06:15.259015", "level": "INFO", "logger": "app.api.video_studio", "message": "Cliente GCS inicializado com sucesso"}
+{"timestamp": "2025-05-16T17:00:32.597725", "level": "INFO", "logger": "app.api.video_studio", "message": "Usando arquivo de credenciais: /home/rafael/Desktop/projetos/yduqs_back/conteudo-autenticare-d2aaae9aeffe.json"}
+{"timestamp": "2025-05-16T17:00:32.630071", "level": "INFO", "logger": "app.api.video_studio", "message": "Cliente GCS inicializado com sucesso"}
+{"timestamp": "2025-05-16T17:12:02.830537", "level": "INFO", "logger": "app.api.video_studio", "message": "Usando arquivo de credenciais: /home/rafael/Desktop/projetos/yduqs_back/conteudo-autenticare-d2aaae9aeffe.json"}
+{"timestamp": "2025-05-16T17:12:02.862254", "level": "INFO", "logger": "app.api.video_studio", "message": "Cliente GCS inicializado com sucesso"}
+{"timestamp": "2025-05-16T17:39:48.960887", "level": "INFO", "logger": "app.api.video_studio", "message": "Usando arquivo de credenciais: /home/rafael/Desktop/projetos/yduqs_back/conteudo-autenticare-d2aaae9aeffe.json"}
+{"timestamp": "2025-05-16T17:39:48.992969", "level": "INFO", "logger": "app.api.video_studio", "message": "Cliente GCS inicializado com sucesso"}
+{"timestamp": "2025-05-16T18:07:33.969406", "level": "INFO", "logger": "app.api.video_studio", "message": "Usando arquivo de credenciais: /home/rafael/Desktop/projetos/yduqs_back/conteudo-autenticare-d2aaae9aeffe.json"}
+{"timestamp": "2025-05-16T18:07:34.027177", "level": "INFO", "logger": "app.api.video_studio", "message": "Cliente GCS inicializado com sucesso"}
+{"timestamp": "2025-05-16T18:11:44.006463", "level": "INFO", "logger": "app.api.video_studio", "message": "Usando arquivo de credenciais: /home/rafael/Desktop/projetos/yduqs_back/conteudo-autenticare-d2aaae9aeffe.json"}
+{"timestamp": "2025-05-16T18:11:44.037766", "level": "INFO", "logger": "app.api.video_studio", "message": "Cliente GCS inicializado com sucesso"}
+{"timestamp": "2025-05-16T18:23:38.531009", "level": "INFO", "logger": "app.api.video_studio", "message": "Usando arquivo de credenciais: /home/rafael/Desktop/projetos/yduqs_back/conteudo-autenticare-d2aaae9aeffe.json"}
+{"timestamp": "2025-05-16T18:23:38.562478", "level": "INFO", "logger": "app.api.video_studio", "message": "Cliente GCS inicializado com sucesso"}
+{"timestamp": "2025-05-16T18:27:09.903710", "level": "INFO", "logger": "app.api.video_studio", "message": "Usando arquivo de credenciais: /home/rafael/Desktop/projetos/yduqs_back/conteudo-autenticare-d2aaae9aeffe.json"}
+{"timestamp": "2025-05-16T18:27:09.936476", "level": "INFO", "logger": "app.api.video_studio", "message": "Cliente GCS inicializado com sucesso"}
+{"timestamp": "2025-05-16T18:27:26.872680", "level": "INFO", "logger": "app.api.video_studio", "message": "Usando arquivo de credenciais: /home/rafael/Desktop/projetos/yduqs_back/conteudo-autenticare-d2aaae9aeffe.json"}
+{"timestamp": "2025-05-16T18:27:26.904496", "level": "INFO", "logger": "app.api.video_studio", "message": "Cliente GCS inicializado com sucesso"}
+{"timestamp": "2025-05-16T18:39:40.178781", "level": "INFO", "logger": "app.api.video_studio", "message": "Usando arquivo de credenciais: /home/rafael/Desktop/projetos/yduqs_back/conteudo-autenticare-d2aaae9aeffe.json"}
+{"timestamp": "2025-05-16T18:39:40.211681", "level": "INFO", "logger": "app.api.video_studio", "message": "Cliente GCS inicializado com sucesso"}
+{"timestamp": "2025-05-16T18:57:55.663470", "level": "INFO", "logger": "app.api.video_studio", "message": "Usando arquivo de credenciais: /home/rafael/Desktop/projetos/yduqs_back/conteudo-autenticare-d2aaae9aeffe.json"}
+{"timestamp": "2025-05-16T18:57:55.699808", "level": "INFO", "logger": "app.api.video_studio", "message": "Cliente GCS inicializado com sucesso"}
+{"timestamp": "2025-05-16T18:59:34.949596", "level": "INFO", "logger": "app.api.video_studio", "message": "Usando arquivo de credenciais: /home/rafael/Desktop/projetos/yduqs_back/conteudo-autenticare-d2aaae9aeffe.json"}
+{"timestamp": "2025-05-16T18:59:34.984085", "level": "INFO", "logger": "app.api.video_studio", "message": "Cliente GCS inicializado com sucesso"}
+{"timestamp": "2025-05-16T19:03:31.350925", "level": "INFO", "logger": "app.api.video_studio", "message": "Usando arquivo de credenciais: /home/rafael/Desktop/projetos/yduqs_back/conteudo-autenticare-d2aaae9aeffe.json"}
+{"timestamp": "2025-05-16T19:03:31.383083", "level": "INFO", "logger": "app.api.video_studio", "message": "Cliente GCS inicializado com sucesso"}
+{"timestamp": "2025-05-16T19:08:04.674247", "level": "INFO", "logger": "app.api.video_studio", "message": "Usando arquivo de credenciais: /home/rafael/Desktop/projetos/yduqs_back/conteudo-autenticare-d2aaae9aeffe.json"}
+{"timestamp": "2025-05-16T19:08:04.706867", "level": "INFO", "logger": "app.api.video_studio", "message": "Cliente GCS inicializado com sucesso"}
+{"timestamp": "2025-05-16T19:13:48.084222", "level": "INFO", "logger": "app.api.video_studio", "message": "Usando arquivo de credenciais: /home/rafael/Desktop/projetos/yduqs_back/conteudo-autenticare-d2aaae9aeffe.json"}
+{"timestamp": "2025-05-16T19:13:48.115799", "level": "INFO", "logger": "app.api.video_studio", "message": "Cliente GCS inicializado com sucesso"}
+{"timestamp": "2025-05-16T19:16:28.732737", "level": "INFO", "logger": "app.api.video_studio", "message": "Usando arquivo de credenciais: /home/rafael/Desktop/projetos/yduqs_back/conteudo-autenticare-d2aaae9aeffe.json"}
+{"timestamp": "2025-05-16T19:16:28.764923", "level": "INFO", "logger": "app.api.video_studio", "message": "Cliente GCS inicializado com sucesso"}
+{"timestamp": "2025-05-16T21:52:49.173677", "level": "INFO", "logger": "app.api.video_studio", "message": "Usando arquivo de credenciais: /home/rafael/Desktop/projetos/yduqs_back/conteudo-autenticare-d2aaae9aeffe.json"}
+{"timestamp": "2025-05-16T21:52:49.211761", "level": "INFO", "logger": "app.api.video_studio", "message": "Cliente GCS inicializado com sucesso"}
+{"timestamp": "2025-05-16T21:54:37.366908", "level": "INFO", "logger": "app.api.video_studio", "message": "Usando arquivo de credenciais: /home/rafael/Desktop/projetos/yduqs_back/conteudo-autenticare-d2aaae9aeffe.json"}
+{"timestamp": "2025-05-16T21:54:37.398224", "level": "INFO", "logger": "app.api.video_studio", "message": "Cliente GCS inicializado com sucesso"}
+{"timestamp": "2025-05-16T22:05:36.681635", "level": "INFO", "logger": "app.api.video_studio", "message": "Usando arquivo de credenciais: /home/rafael/Desktop/projetos/yduqs_back/conteudo-autenticare-d2aaae9aeffe.json"}
+{"timestamp": "2025-05-16T22:05:36.713456", "level": "INFO", "logger": "app.api.video_studio", "message": "Cliente GCS inicializado com sucesso"}
+{"timestamp": "2025-05-16T22:08:31.827034", "level": "INFO", "logger": "app.api.video_studio", "message": "Usando arquivo de credenciais: /home/rafael/Desktop/projetos/yduqs_back/conteudo-autenticare-d2aaae9aeffe.json"}
+{"timestamp": "2025-05-16T22:08:31.858486", "level": "INFO", "logger": "app.api.video_studio", "message": "Cliente GCS inicializado com sucesso"}
+{"timestamp": "2025-05-16T22:41:13.612076", "level": "INFO", "logger": "app.api.video_studio", "message": "Usando arquivo de credenciais: /home/rafael/Desktop/projetos/yduqs_back/conteudo-autenticare-d2aaae9aeffe.json"}
+{"timestamp": "2025-05-16T22:41:13.643867", "level": "INFO", "logger": "app.api.video_studio", "message": "Cliente GCS inicializado com sucesso"}
+{"timestamp": "2025-05-19T17:49:44.966856", "level": "INFO", "logger": "app.api.video_studio", "message": "Usando arquivo de credenciais: /home/rafael/Desktop/projetos/yduqs_back/conteudo-autenticare-d2aaae9aeffe.json"}
+{"timestamp": "2025-05-19T17:49:45.010337", "level": "INFO", "logger": "app.api.video_studio", "message": "Cliente GCS inicializado com sucesso"}
+{"timestamp": "2025-05-19T17:55:55.664586", "level": "INFO", "logger": "app.api.video_studio", "message": "Usando arquivo de credenciais: /home/rafael/Desktop/projetos/yduqs_back/conteudo-autenticare-d2aaae9aeffe.json"}
+{"timestamp": "2025-05-19T17:55:55.696466", "level": "INFO", "logger": "app.api.video_studio", "message": "Cliente GCS inicializado com sucesso"}
+{"timestamp": "2025-05-19T18:09:48.016983", "level": "INFO", "logger": "app.api.video_studio", "message": "Usando arquivo de credenciais: /home/rafael/Desktop/projetos/yduqs_back/conteudo-autenticare-d2aaae9aeffe.json"}
+{"timestamp": "2025-05-19T18:09:49.122818", "level": "INFO", "logger": "app.api.video_studio", "message": "Cliente GCS inicializado com sucesso"}
+{"timestamp": "2025-05-19T18:11:31.933639", "level": "INFO", "logger": "app.api.video_studio", "message": "Usando arquivo de credenciais: /home/rafael/Desktop/projetos/yduqs_back/conteudo-autenticare-d2aaae9aeffe.json"}
+{"timestamp": "2025-05-19T18:11:33.225077", "level": "INFO", "logger": "app.api.video_studio", "message": "Cliente GCS inicializado com sucesso"}
+{"timestamp": "2025-05-19T18:29:28.075869", "level": "INFO", "logger": "app.api.video_studio", "message": "Usando arquivo de credenciais: /home/rafael/Desktop/projetos/yduqs_back/conteudo-autenticare-d2aaae9aeffe.json"}
+{"timestamp": "2025-05-19T18:29:28.108482", "level": "INFO", "logger": "app.api.video_studio", "message": "Cliente GCS inicializado com sucesso"}

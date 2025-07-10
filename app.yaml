@@ -1,0 +1,12 @@
+runtime: python39
+instance_class: F4
+
+env_variables:
+  GOOGLE_CLOUD_PROJECT: "conteudo-autenticare"
+
+handlers:
+- url: /.*
+  script: auto
+  secure: always
+
+entrypoint: gunicorn -b :$PORT app.main:app 

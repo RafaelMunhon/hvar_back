@@ -1,0 +1,34 @@
+logsBucket: gs://logs-yduqs-poc
+
+steps:
+- name: 'gcr.io/cloud-builders/docker'
+  args:
+    - 'build'
+    - '-t'
+    - 'us-central1-docker.pkg.dev/$PROJECT_ID/cloud-run-source-deploy/${_SERVICE}:$SHORT_SHA'
+    - '.'
+
+- name: 'gcr.io/cloud-builders/docker'
+  args:
+    - 'push'
+    - 'us-central1-docker.pkg.dev/$PROJECT_ID/cloud-run-source-deploy/${_SERVICE}:$SHORT_SHA'
+
+- name: 'gcr.io/google.com/cloudsdktool/cloud-sdk:519.0.0'
+  entrypoint: 'bash'
+  args:
+    - '-c'
+    - |
+      gcloud run deploy ${_SERVICE} \
+        --image us-central1-docker.pkg.dev/$PROJECT_ID/cloud-run-source-deploy/${_SERVICE}:$SHORT_SHA \
+        --region ${_REGION} \
+        --platform managed \
+        --allow-unauthenticated \
+        --min-instances=0 \
+        --max-instances=3 \
+        --vpc-connector=cloudrun-vpc-connector \
+        --vpc-egress=all
+
+substitutions:
+  _SERVICE: "microservice-yduqs-api"
+  _REGION: "us-central1"
+

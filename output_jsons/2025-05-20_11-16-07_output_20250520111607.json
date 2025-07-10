@@ -1,0 +1,216 @@
+{
+    "titulo": "Operações com Eventos em Probabilidade",
+    "subtitulo": "Descubra como a união, interseção e o complemento de eventos nos ajudam a entender a probabilidade.",
+    "imagens": [
+        {
+            "urlImg": "https://img.freepik.com/fotos-gratis/vista-frontal-de-dados-coloridos-em-um-fundo-branco_176474-1483.jpg",
+            "momentoChave": "Sabe quando jogamos um dado",
+            "descricaoBuscaEnvato": "Colorful dice on a white background, probability, games of chance, random outcomes, statistics teaching tool"
+        },
+        {
+            "urlImg": "https://img.freepik.com/vetores-gratis/conjunto-de-diagramas-de-venn-realistas_23-2148608401.jpg",
+            "momentoChave": "É como se fosse o universo de todas as possibilidades",
+            "descricaoBuscaEnvato": "Venn diagram basics, set theory illustration, overlapping circles, mathematical concepts, logic and sets"
+        },
+        {
+            "urlImg": "https://img.freepik.com/vetores-gratis/diagrama-de-venn-com-uniao-de-conjuntos_1308-111783.jpg",
+            "momentoChave": "A OU B ocorrerem ou até mesmo ambos",
+            "descricaoBuscaEnvato": "Venn diagram showing union of two sets A and B, highlighted combined area, probability event union"
+        },
+        {
+            "urlImg": "https://img.freepik.com/vetores-gratis/diagrama-de-venn-com-intersecao-de-conjuntos_1308-111782.jpg",
+            "momentoChave": "o que A E B têm em comum",
+            "descricaoBuscaEnvato": "Venn diagram illustrating intersection of sets A and B, highlighted overlapping area, common elements concept"
+        },
+        {
+            "urlImg": "https://img.freepik.com/vetores-gratis/diagrama-de-venn-com-complemento-de-conjunto_1308-111786.jpg",
+            "momentoChave": "tudo o que NÃO está em A",
+            "descricaoBuscaEnvato": "Venn diagram showing complement of a set A, area outside A within universal set highlighted, set theory"
+        },
+        {
+            "urlImg": "https://img.freepik.com/fotos-gratis/arranjo-de-elementos-de-estatisticas-ainda-vida_23-2149029403.jpg",
+            "momentoChave": "operações com eventos são super importantes",
+            "descricaoBuscaEnvato": "Abstract probability concept, charts, graphs, dice, calculator, statistics tools, mathematical analysis, data"
+        }
+    ],
+    "codigo": [],
+    "formulas": [
+        {
+            "formula": "\\(A \\cup B\\)",
+            "momentoChaveFormula": "união, representada por A união B",
+            "fimMomentoChaveFormula": "Pense assim se o evento A"
+        },
+        {
+            "formula": "\\(A \\cap B\\)",
+            "momentoChaveFormula": "interseção, que escrevemos como A interseção B",
+            "fimMomentoChaveFormula": "Ela pega só o que está nos dois eventos"
+        },
+        {
+            "formula": "\\(A^C\\) ou \\(\\bar{A}\\)",
+            "momentoChaveFormula": "escrever como A C ou A barra",
+            "fimMomentoChaveFormula": "é tudo o que NÃO está em A"
+        }
+    ],
+    "cenas": [
+        {
+            "cena": 1,
+            "tempo": "0:00-0:35",
+            "script": "Olá! Que bom ter você por aqui. Vamos explorar juntos o universo da probabilidade? Imagine um espaço amostral finito, que chamaremos de S. Sabe quando jogamos um dado? As faces de 1 a 6 são o nosso S. Dentro dele, temos os eventos A e B. É como se fosse o universo de todas as possibilidades! Cada evento, como 'sair o número 3', é uma parte desse universo. Assim, podemos formar novos eventos, certo?",
+            "elementos_visuais": [
+                {
+                    "tipo": "texto",
+                    "titulo": "Probabilidade: O Começo!",
+                    "subtitulo": "Entendendo Espaço Amostral (S) e Eventos (A, B).",
+                    "breveDescricao": "Introdução ao conceito de espaço amostral finito (S) e eventos (A e B) como subconjuntos desse espaço, usando o exemplo de um dado."
+                },
+                {
+                    "tipo": "imagem",
+                    "urlImg": "https://img.freepik.com/fotos-gratis/vista-frontal-de-dados-coloridos-em-um-fundo-branco_176474-1483.jpg",
+                    "decricaoImagem": "Dados coloridos"
+                },
+                {
+                    "tipo": "imagem",
+                    "urlImg": "https://img.freepik.com/vetores-gratis/conjunto-de-diagramas-de-venn-realistas_23-2148608401.jpg",
+                    "decricaoImagem": "Diagrama Venn"
+                }
+            ],
+            "palavras_chave": [
+                "espaço amostral",
+                "S",
+                "finito",
+                "eventos A",
+                "eventos B",
+                "jogamos um dado",
+                "universo de possibilidades",
+                "novos eventos",
+                "probabilidade",
+                "subconjuntos",
+                "sair o número 3",
+                "faces de 1 a 6"
+            ]
+        },
+        {
+            "cena": 2,
+            "tempo": "0:35-1:05",
+            "script": "Vamos começar com a união! Se temos dois eventos, A e B, a união deles significa que queremos que A OU B aconteçam, ou até mesmo os dois juntos! Essa operação é representada por A união B. Pense assim: se o evento A é 'sair um número par' e o evento B é 'sair um número menor que 3', a união A união B seria 'sair 1, 2, 4 ou 6'. Juntamos tudo!",
+            "elementos_visuais": [
+                {
+                    "tipo": "texto",
+                    "titulo": "União de Eventos: A ∪ B",
+                    "subtitulo": "Quando A OU B (ou ambos) acontecem. Juntamos os elementos!",
+                    "breveDescricao": "Explicação da operação de união (A U B), onde ocorre o evento A, o evento B ou ambos. Exemplo com dados: 'número par' OU 'menor que 3'."
+                },
+                {
+                    "tipo": "imagem",
+                    "urlImg": "https://img.freepik.com/vetores-gratis/diagrama-de-venn-com-uniao-de-conjuntos_1308-111783.jpg",
+                    "decricaoImagem": "União conjuntos"
+                }
+            ],
+            "palavras_chave": [
+                "união",
+                "A OU B",
+                "ambos juntos",
+                "A união B",
+                "evento A",
+                "evento B",
+                "sair número par",
+                "menor que 3",
+                "Juntamos tudo",
+                "dois eventos",
+                "operação é representada"
+            ]
+        },
+        {
+            "cena": 3,
+            "tempo": "1:05-1:35",
+            "script": "Agora, e a interseção? Quando falamos de interseção entre A e B, queremos saber o que eles têm em comum, ou seja, o que acontece em A E B ao mesmo tempo. Escrevemos isso como A interseção B. Ela pega só o que está nos dois eventos. No nosso exemplo, se A é 'número par' e B é 'menor que 3', a interseção A interseção B é apenas o número 2. É o elemento que pertence aos dois!",
+            "elementos_visuais": [
+                {
+                    "tipo": "texto",
+                    "titulo": "Interseção de Eventos: A ∩ B",
+                    "subtitulo": "O que A E B têm em comum. Apenas elementos de ambos!",
+                    "breveDescricao": "Conceito de interseção (A ∩ B), representando elementos comuns aos eventos A e B. Exemplo: 'número par' E 'menor que 3' resulta em '2'."
+                },
+                {
+                    "tipo": "imagem",
+                    "urlImg": "https://img.freepik.com/vetores-gratis/diagrama-de-venn-com-intersecao-de-conjuntos_1308-111782.jpg",
+                    "decricaoImagem": "Interseção conjuntos"
+                }
+            ],
+            "palavras_chave": [
+                "interseção",
+                "A E B",
+                "têm em comum",
+                "ao mesmo tempo",
+                "A interseção B",
+                "dois eventos",
+                "elemento que pertence",
+                "apenas número 2",
+                "nosso exemplo",
+                "pega só o que está"
+            ]
+        },
+        {
+            "cena": 4,
+            "tempo": "1:35-2:05",
+            "script": "E para fechar as operações básicas, temos o complemento de um evento A. O complemento é tudo aquilo que NÃO está em A, mas que ainda faz parte do nosso espaço amostral S. Podemos escrever como A C ou A barra. Se o evento A é 'sair número par' (2, 4, 6), o complemento A C ou A barra seria 'sair número ímpar' (1, 3, 5). Ou seja, é o oposto dentro do nosso universo S!",
+            "elementos_visuais": [
+                {
+                    "tipo": "texto",
+                    "titulo": "Complemento de Evento: Aᶜ ou Ā",
+                    "subtitulo": "Tudo o que NÃO está em A, mas pertence a S. O oposto!",
+                    "breveDescricao": "Definição de complemento de um evento (A^C ou Ā), que inclui todos os resultados em S que não estão em A. Exemplo: complemento de 'número par' é 'número ímpar'."
+                },
+                {
+                    "tipo": "imagem",
+                    "urlImg": "https://img.freepik.com/vetores-gratis/diagrama-de-venn-com-complemento-de-conjunto_1308-111786.jpg",
+                    "decricaoImagem": "Complemento conjunto"
+                }
+            ],
+            "palavras_chave": [
+                "complemento",
+                "evento A",
+                "NÃO está em A",
+                "espaço amostral S",
+                "A C",
+                "A barra",
+                "sair número ímpar",
+                "oposto",
+                "universo S",
+                "operações básicas",
+                "ainda faz parte"
+            ]
+        },
+        {
+            "cena": 5,
+            "tempo": "2:05-2:30",
+            "script": "Revisando rapidinho: aprendemos que com eventos A e B, podemos ter a união (A ou B, ou ambos), a interseção (A e B ao mesmo tempo) e o complemento de A (o que não é A). Essas operações com eventos são super importantes para calcular probabilidades e entender melhor como as coisas acontecem. Espero que tenha ficado claro! Continue praticando e até a próxima!",
+            "elementos_visuais": [
+                {
+                    "tipo": "texto",
+                    "titulo": "Resumo da Aula",
+                    "subtitulo": "União, Interseção e Complemento: ferramentas essenciais da probabilidade.",
+                    "breveDescricao": "Recapitulação das três operações com eventos (união, interseção, complemento) e sua importância para o cálculo de probabilidades."
+                },
+                {
+                    "tipo": "imagem",
+                    "urlImg": "https://img.freepik.com/fotos-gratis/arranjo-de-elementos-de-estatisticas-ainda-vida_23-2149029403.jpg",
+                    "decricaoImagem": "Conceitos Probabilidade"
+                }
+            ],
+            "palavras_chave": [
+                "Revisando rapidinho",
+                "união",
+                "interseção",
+                "complemento de A",
+                "A ou B",
+                "A e B",
+                "não é A",
+                "operações com eventos",
+                "calcular probabilidades",
+                "entender melhor",
+                "ficado claro"
+            ]
+        }
+    ]
+}

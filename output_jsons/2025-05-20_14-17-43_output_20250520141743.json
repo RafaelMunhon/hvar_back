@@ -1,0 +1,256 @@
+{
+    "titulo": "Estruturas Organizacionais em Projetos",
+    "subtitulo": "Desvendando como as empresas se organizam para o sucesso dos projetos.",
+    "imagens": [
+        {
+            "urlImg": "https://conteudo-scientia-prd.s3.amazonaws.com/00908_10_ab484cad89.jpg",
+            "momentoChave": "empresa ou instituição se organiza de forma que melhor propicie",
+            "descricaoBuscaEnvato": "Diverse business team in a modern office discussing project plans with charts and graphs, collaborative atmosphere."
+        },
+        {
+            "urlImg": "https://i.imgur.com/Ys0b0oX.png",
+            "momentoChave": "Já a estrutura organizacional formal se estrutura de forma hierárquica",
+            "descricaoBuscaEnvato": "Split screen showing informal network of people versus a formal hierarchical organizational chart, concept of structure."
+        },
+        {
+            "urlImg": "https://i.imgur.com/qWpSRjN.png",
+            "momentoChave": "pode ser linear ou hierárquica e funcional",
+            "descricaoBuscaEnvato": "Diagram illustrating chain of command in an organization, arrows showing authority flow from top to bottom."
+        },
+        {
+            "urlImg": "https://i.imgur.com/L3Fj7p4.png",
+            "momentoChave": "Amplitude larga quando há um número grande de subordinados",
+            "descricaoBuscaEnvato": "Manager overseeing a large group of employees versus a manager with few subordinates, illustrating span of control."
+        },
+        {
+            "urlImg": "https://i.imgur.com/J1hP8kF.png",
+            "momentoChave": "descentralizada acontecendo em todos os níveis hierárquicos",
+            "descricaoBuscaEnvato": "Visual representation of centralized decision making at the top versus decentralized decision making spread out."
+        },
+        {
+            "urlImg": "https://i.imgur.com/VvfZqjZ.png",
+            "momentoChave": "O organograma é uma ferramenta gráfica utilizada para representar",
+            "descricaoBuscaEnvato": "Detailed organizational chart graphic with various departments and roles clearly laid out, business structure."
+        },
+        {
+            "urlImg": "https://i.imgur.com/fT8gHkS.png",
+            "momentoChave": "possam contribuir para um fluxo de comunicação eficiente",
+            "descricaoBuscaEnvato": "Team members effectively communicating and collaborating in a project setting, smooth information flow."
+        }
+    ],
+    "codigo": [],
+    "formulas": [],
+    "cenas": [
+        {
+            "cena": 1,
+            "tempo": "0:00-0:30",
+            "script": "Olá! Que bom ter você por aqui. Hoje, vamos bater um papo super importante sobre como as empresas se organizam por dentro, sabe? Vamos explorar o conceito fundamental da estrutura organizacional em projetos. Uma empresa ou instituição se organiza de forma que melhor propicie o alcance de suas metas. Essa organização define como ela vai funcionar para atingir sua missão, visão, valores e estratégias. Isso pode acontecer de um jeito mais formal ou mais solto, o informal.",
+            "elementos_visuais": [
+                {
+                    "tipo": "texto",
+                    "titulo": "Introdução à Estrutura Organizacional",
+                    "subtitulo": "Entendendo como as empresas se estruturam para alcançar seus objetivos."
+                },
+                {
+                    "tipo": "imagem",
+                    "urlImg": "https://conteudo-scientia-prd.s3.amazonaws.com/00908_10_ab484cad89.jpg",
+                    "decricaoImagem": "Planejamento estratégico"
+                }
+            ],
+            "palavras_chave": [
+                "estrutura organizacional",
+                "projetos",
+                "empresa ou instituição se organiza de forma que melhor propicie",
+                "alcance de suas metas",
+                "missão",
+                "visão",
+                "valores",
+                "estratégias",
+                "organização formal",
+                "organização informal",
+                "conceito fundamental"
+            ]
+        },
+        {
+            "cena": 2,
+            "tempo": "0:30-1:00",
+            "script": "Então, o que seria essa tal de estrutura organizacional informal? Pense naquela dinâmica que surge naturalmente entre os colegas de trabalho, baseada na convivência do dia a dia e na experiência prática com as tarefas. É algo que não está no papel, mas acontece! Já a estrutura organizacional formal se estrutura de forma hierárquica, bem definida. Ela pode ser organizada por função, por projetos específicos, por unidades de negócio, entre outras formas.",
+            "elementos_visuais": [
+                {
+                    "tipo": "texto",
+                    "titulo": "Estruturas: Informal vs. Formal",
+                    "subtitulo": "Compreendendo as diferenças entre a organização espontânea e a hierárquica."
+                },
+                {
+                    "tipo": "imagem",
+                    "urlImg": "https://i.imgur.com/Ys0b0oX.png",
+                    "decricaoImagem": "Formal informal"
+                }
+            ],
+            "palavras_chave": [
+                "estrutura organizacional informal",
+                "convivência",
+                "experiência nas tarefas",
+                "estrutura organizacional formal se estrutura de forma hierárquica",
+                "por função",
+                "por projetos",
+                "unidades de negócio",
+                "bem definida",
+                "dinâmica natural",
+                "colegas de trabalho"
+            ]
+        },
+        {
+            "cena": 3,
+            "tempo": "1:00-1:45",
+            "script": "Para montar essa estrutura toda, a empresa considera alguns componentes importantes. O primeiro é a Cadeia de comando. Ela define quem tem autoridade sobre quem, e essa autoridade pode ser linear ou hierárquica e funcional ou de assessoria, como um apoio especializado. Outro componente chave é a Amplitude administrativa. Isso quer dizer quantos subordinados um gerente consegue controlar. Se for uma amplitude larga, quando há um número grande de subordinados, a descentralização pode ser uma boa, motivando a equipe, mas dificultando um pouco o controle. Já na amplitude estreita, com poucos subordinados, a centralização facilita o controle, mas pode desmotivar por faltar delegação.",
+            "elementos_visuais": [
+                {
+                    "tipo": "texto",
+                    "titulo": "Componentes da Estrutura: Comando e Amplitude",
+                    "subtitulo": "Definindo autoridade e o número de subordinados por gestor."
+                },
+                {
+                    "tipo": "imagem",
+                    "urlImg": "https://i.imgur.com/qWpSRjN.png",
+                    "decricaoImagem": "Cadeia comando"
+                },
+                {
+                    "tipo": "imagem",
+                    "urlImg": "https://i.imgur.com/L3Fj7p4.png",
+                    "decricaoImagem": "Amplitude administrativa"
+                }
+            ],
+            "palavras_chave": [
+                "Cadeia de comando",
+                "autoridade",
+                "linear ou hierárquica",
+                "funcional ou de assessoria",
+                "Amplitude administrativa",
+                "número de subordinados",
+                "Amplitude larga quando há um número grande de subordinados",
+                "descentralização",
+                "amplitude estreita",
+                "centralização",
+                "delegação",
+                "controle"
+            ]
+        },
+        {
+            "cena": 4,
+            "tempo": "1:45-2:30",
+            "script": "Continuando com os componentes, temos a Tomada de decisão. Aqui se define se as decisões importantes acontecem lá no topo, nos níveis mais altos – o que chamamos de centralizada – ou se elas podem ocorrer em todos os níveis hierárquicos, ou seja, de forma descentralizada acontecendo em todos os níveis hierárquicos. Depois, vem o Tamanho da especialização. Esse componente trata do quanto as tarefas são divididas e padronizadas. Quanto mais especializada, mais específica é a função de cada um.",
+            "elementos_visuais": [
+                {
+                    "tipo": "texto",
+                    "titulo": "Componentes: Decisão e Especialização",
+                    "subtitulo": "Como as decisões são tomadas e as tarefas são divididas na empresa."
+                },
+                {
+                    "tipo": "imagem",
+                    "urlImg": "https://i.imgur.com/J1hP8kF.png",
+                    "decricaoImagem": "Tomada decisão"
+                }
+            ],
+            "palavras_chave": [
+                "Tomada de decisão",
+                "centralizada",
+                "níveis mais altos",
+                "descentralizada acontecendo em todos os níveis hierárquicos",
+                "Tamanho da especialização",
+                "divisão das tarefas",
+                "padronização das tarefas",
+                "função específica",
+                "decisões importantes"
+            ]
+        },
+        {
+            "cena": 5,
+            "tempo": "2:30-3:15",
+            "script": "Chegando aos últimos componentes, temos a Formalização, que nada mais é do que o conjunto de regras e procedimentos que a empresa adota. E, por fim, a Departamentalização, que é como a empresa agrupa as atividades por especialidades, como marketing, financeiro, recursos humanos, etc. Agora, você pode estar se perguntando: qual a diferença entre Estrutura Organizacional e Organograma? Vamos ver isso! A estrutura organizacional é esse jeitão todo de como a organização se divide para gerir suas atividades, sempre com foco nas metas e objetivos estratégicos.",
+            "elementos_visuais": [
+                {
+                    "tipo": "texto",
+                    "titulo": "Componentes Finais e Introdução ao Organograma",
+                    "subtitulo": "Regras, agrupamento de atividades e a distinção inicial de organograma."
+                },
+                {
+                    "tipo": "imagem",
+                    "urlImg": "https://i.imgur.com/VvfZqjZ.png",
+                    "decricaoImagem": "Organograma exemplo"
+                }
+            ],
+            "palavras_chave": [
+                "Formalização",
+                "regras e procedimentos",
+                "Departamentalização",
+                "agrupa as atividades",
+                "especialidades",
+                "Estrutura Organizacional",
+                "Organograma",
+                "gerir suas atividades",
+                "metas",
+                "objetivos estratégicos",
+                "O organograma é uma ferramenta gráfica utilizada para representar"
+            ]
+        },
+        {
+            "cena": 6,
+            "tempo": "3:15-4:00",
+            "script": "Então, a estrutura organizacional busca aumentar a produtividade, melhorar os resultados, agilizar a solução de problemas e melhorar o fluxo da comunicação, tanto interna quanto externa, além de representar a hierarquia. Já o organograma, o que ele é? O organograma é uma ferramenta gráfica utilizada para representar a estrutura organizacional. Ele serve para orientar o desenho dos processos, a definição de cargos, funções, papéis, responsabilidades e até planos de carreira. Mas, não basta só definir tudo isso, é preciso que seja divulgado na organização, para que todos saibam seus papéis e responsabilidades e, assim, possam contribuir para um fluxo de comunicação eficiente e eficaz.",
+            "elementos_visuais": [
+                {
+                    "tipo": "texto",
+                    "titulo": "Estrutura Organizacional vs. Organograma",
+                    "subtitulo": "Detalhando as definições e a importância da comunicação clara."
+                },
+                {
+                    "tipo": "imagem",
+                    "urlImg": "https://i.imgur.com/fT8gHkS.png",
+                    "decricaoImagem": "Comunicação eficaz"
+                }
+            ],
+            "palavras_chave": [
+                "aumentar a produtividade",
+                "melhorar os resultados",
+                "fluxo da comunicação",
+                "hierarquia",
+                "organograma é uma ferramenta gráfica utilizada para representar",
+                "desenho dos processos",
+                "definição de cargos",
+                "papéis",
+                "responsabilidades",
+                "planos de carreira",
+                "divulgado na organização",
+                "possam contribuir para um fluxo de comunicação eficiente"
+            ]
+        },
+        {
+            "cena": 7,
+            "tempo": "4:00-4:45",
+            "script": "É interessante notar que a estrutura de uma organização se torna única, considerando suas variáveis. Existem muitos fatores a serem pensados na escolha de uma estrutura, como o alinhamento com os objetivos, a capacidade de delegar, definir responsabilidades, adaptar projetos, a eficiência e até os locais físicos e clareza na comunicação. Segundo o Guia PMBOK, não existe uma estrutura única que sirva para toda e qualquer organização. É preciso achar um equilíbrio. Então, recapitulando: vimos o que é estrutura organizacional, seus tipos formal e informal, seus componentes como cadeia de comando e tomada de decisão, e a diferença para o organograma. Tudo isso impacta diretamente o gerenciamento de projetos. Espero que tenha gostado e até a próxima!",
+            "elementos_visuais": [
+                {
+                    "tipo": "texto",
+                    "titulo": "A Unicidade da Estrutura e Resumo da Aula",
+                    "subtitulo": "Cada organização é única. Revisão dos principais conceitos abordados."
+                }
+            ],
+            "palavras_chave": [
+                "estrutura de uma organização se torna única considerando suas variáveis",
+                "alinhamento com os objetivos",
+                "capacidade de delegar",
+                "definir responsabilidades",
+                "Guia PMBOK",
+                "estrutura única",
+                "gerenciamento de projetos",
+                "estrutura organizacional",
+                "formal e informal",
+                "componentes",
+                "Cadeia de comando",
+                "Tomada de decisão",
+                "Organograma"
+            ]
+        }
+    ]
+}

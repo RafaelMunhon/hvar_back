@@ -1,0 +1,177 @@
+{
+    "titulo": "Operações com Eventos em Espaços Amostrais",
+    "subtitulo": "Explorando a união, interseção e complementação de eventos.",
+    "imagens": [],
+    "codigo": [],
+    "formulas": [
+        {
+            "formula": "A \\cup B",
+            "momentoChaveFormula": "Consideremos o espaço amostral \\(S\\) finito. Sejam A e B dois eventos de \\(S\\). Assim, usando operações com esses eventos, podemos formar novos eventos, tais como:",
+            "fimMomentoChaveFormula": "o complemento do evento \\(A\\)."
+        },
+        {
+            "formula": "A \\cap B",
+            "momentoChaveFormula": "Consideremos o espaço amostral \\(S\\) finito. Sejam A e B dois eventos de \\(S\\). Assim, usando operações com esses eventos, podemos formar novos eventos, tais como:",
+            "fimMomentoChaveFormula": "o complemento do evento \\(A\\)."
+        },
+        {
+            "formula": "A^C",
+            "momentoChaveFormula": "Consideremos o espaço amostral \\(S\\) finito. Sejam A e B dois eventos de \\(S\\). Assim, usando operações com esses eventos, podemos formar novos eventos, tais como:",
+            "fimMomentoChaveFormula": "o complemento do evento \\(A\\)."
+        },
+        {
+            "formula": "\\bar{A}",
+            "momentoChaveFormula": "Consideremos o espaço amostral \\(S\\) finito. Sejam A e B dois eventos de \\(S\\). Assim, usando operações com esses eventos, podemos formar novos eventos, tais como:",
+            "fimMomentoChaveFormula": "o complemento do evento \\(A\\)."
+        }
+    ],
+    "cenas": [
+        {
+            "cena": 1,
+            "tempo": "0:00-0:15",
+            "script": "Olá! Vamos conversar sobre como combinar eventos em um espaço amostral. Imagine que temos um conjunto de todos os resultados possíveis de um experimento, chamado espaço amostral, que vamos chamar de S. Agora, se tivermos dois eventos, A e B, que são subconjuntos de S, podemos combiná-los de algumas maneiras bem interessantes.",
+            "elementos_visuais": [
+                {
+                    "tipo": "texto",
+                    "titulo": "Espaço Amostral e Eventos",
+                    "subtitulo": "Conceitos básicos para combinar eventos.",
+                    "breveDescricao": "Introdução aos conceitos de espaço amostral (S) e eventos (A e B) como subconjuntos de S. Exploração de como esses eventos podem ser combinados para formar novos eventos.",
+                    "topico_1": "Espaço Amostral (S)",
+                    "topico_2": "Eventos A e B",
+                    "topico_3": "Combinação de eventos",
+                    "estilo": "titulo_centralizado"
+                }
+            ],
+            "palavras_chave": [
+                "espaço amostral",
+                "resultados possíveis",
+                "chamado espaço amostral",
+                "subconjuntos de S",
+                "combiná-los de algumas maneiras"
+            ]
+        },
+        {
+            "cena": 2,
+            "tempo": "0:15-0:30",
+            "script": "Primeiro, temos a união, representada por A ∪ B. Isso significa que estamos considerando todos os resultados que estão em A, em B, ou em ambos. É como juntar tudo em um só lugar. Imagine que A é o evento de tirar um número par em um dado, e B é o evento de tirar um número maior que 3. A união A ∪ B seria tirar 2, 4, 6 (de A) ou 4, 5, 6 (de B).",
+            "elementos_visuais": [
+                {
+                    "tipo": "texto",
+                    "titulo": "União de Eventos (A ∪ B)",
+                    "subtitulo": "Resultados em A, B ou ambos.",
+                    "breveDescricao": "Explicação da união de eventos (A ∪ B), que inclui todos os resultados presentes em A, em B, ou em ambos. Analogia com juntar todos os resultados em um único conjunto. Exemplo prático com o lançamento de um dado.",
+                    "topico_1": "A ∪ B",
+                    "topico_2": "Resultados em A ou B",
+                    "topico_3": "Exemplo com dado",
+                    "estilo": "topico_lista"
+                },
+                {
+                    "tipo": "texto",
+                    "titulo": "Exemplo União",
+                    "subtitulo": "A ∪ B seria tirar 2, 4, 6 (de A) ou 4, 5, 6 (de B).",
+                    "breveDescricao": "Apresentação de um exemplo prático da união de eventos. O evento A representa tirar um número par em um dado, enquanto o evento B representa tirar um número maior que 3. A união A ∪ B é ilustrada com os resultados possíveis.",
+                    "topico_1": "Evento A: Número par",
+                    "topico_2": "Evento B: Número maior que 3",
+                    "estilo": "topico_lista"
+                }
+            ],
+            "palavras_chave": [
+                "união",
+                "representada por A ∪ B",
+                "resultados que estão em A",
+                "em B",
+                "ou em ambos"
+            ]
+        },
+        {
+            "cena": 3,
+            "tempo": "0:30-0:45",
+            "script": "Depois, temos a interseção, que é A ∩ B. Aqui, estamos interessados apenas nos resultados que estão tanto em A quanto em B. Usando o mesmo exemplo do dado, A ∩ B seria apenas tirar 4 ou 6, porque são os únicos números que são pares e maiores que 3 ao mesmo tempo.",
+            "elementos_visuais": [
+                {
+                    "tipo": "texto",
+                    "titulo": "Interseção de Eventos (A ∩ B)",
+                    "subtitulo": "Resultados em A e B simultaneamente.",
+                    "breveDescricao": "Explicação da interseção de eventos (A ∩ B), que inclui apenas os resultados presentes tanto em A quanto em B. Continuação do exemplo prático com o lançamento de um dado para ilustrar a interseção.",
+                    "topico_1": "A ∩ B",
+                    "topico_2": "Resultados em A e B",
+                    "topico_3": "Exemplo com dado",
+                    "estilo": "topico_lista"
+                },
+                {
+                    "tipo": "texto",
+                    "titulo": "Exemplo Interseção",
+                    "subtitulo": "A ∩ B seria apenas tirar 4 ou 6",
+                    "breveDescricao": "Apresentação de um exemplo prático da interseção de eventos. O evento A representa tirar um número par em um dado, enquanto o evento B representa tirar um número maior que 3. A interseção A ∩ B é ilustrada com os resultados possíveis.",
+                    "topico_1": "Evento A: Número par",
+                    "topico_2": "Evento B: Número maior que 3",
+                    "estilo": "topico_lista"
+                }
+            ],
+            "palavras_chave": [
+                "interseção",
+                "que é A ∩ B",
+                "interessados apenas nos resultados",
+                "tanto em A quanto em B",
+                "pares e maiores que 3"
+            ]
+        },
+        {
+            "cena": 4,
+            "tempo": "0:45-1:00",
+            "script": "Por fim, temos o complemento de um evento, que pode ser representado por Aᶜ ou Ā. O complemento de A é tudo o que não está em A, mas está no espaço amostral S. Então, se A é tirar um número par no dado, Aᶜ seria tirar 1, 3 ou 5.",
+            "elementos_visuais": [
+                {
+                    "tipo": "texto",
+                    "titulo": "Complemento de um Evento (Aᶜ ou Ā)",
+                    "subtitulo": "Tudo que não está em A, mas está em S.",
+                    "breveDescricao": "Explicação do complemento de um evento (Aᶜ ou Ā), que inclui todos os resultados que não estão em A, mas pertencem ao espaço amostral S. Continuação do exemplo prático com o lançamento de um dado para ilustrar o complemento de um evento.",
+                    "topico_1": "Aᶜ ou Ā",
+                    "topico_2": "Não está em A",
+                    "topico_3": "Espaço amostral S",
+                    "estilo": "topico_lista"
+                },
+                {
+                    "tipo": "texto",
+                    "titulo": "Exemplo Complemento",
+                    "subtitulo": "Aᶜ seria tirar 1, 3 ou 5.",
+                    "breveDescricao": "Apresentação de um exemplo prático do complemento de um evento. O evento A representa tirar um número par em um dado. O complemento Aᶜ é ilustrado com os resultados possíveis que não estão em A.",
+                    "topico_1": "Evento A: Número par",
+                    "topico_2": "Complemento Aᶜ",
+                    "estilo": "topico_lista"
+                }
+            ],
+            "palavras_chave": [
+                "complemento de um evento",
+                "representado por Aᶜ ou Ā",
+                "não está em A",
+                "espaço amostral S",
+                "tirar 1, 3 ou 5"
+            ]
+        },
+        {
+            "cena": 5,
+            "tempo": "1:00-1:15",
+            "script": "Em resumo, vimos como podemos combinar eventos usando união, interseção e complemento. Essas operações nos ajudam a entender e calcular probabilidades de eventos mais complexos. Espero que tenha ficado claro! Até a próxima!",
+            "elementos_visuais": [
+                {
+                    "tipo": "texto",
+                    "titulo": "Resumo e Despedida",
+                    "subtitulo": "União, interseção e complemento de eventos.",
+                    "breveDescricao": "Resumo das operações de união, interseção e complemento de eventos. Enfatiza a importância dessas operações para entender e calcular probabilidades de eventos complexos. Despedida e encerramento da aula.",
+                    "topico_1": "União",
+                    "topico_2": "Interseção",
+                    "topico_3": "Complemento",
+                    "estilo": "topico_lista"
+                }
+            ],
+            "palavras_chave": [
+                "combinar eventos",
+                "união",
+                "interseção",
+                "complemento",
+                "eventos mais complexos"
+            ]
+        }
+    ]
+}

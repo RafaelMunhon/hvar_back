@@ -1,0 +1,150 @@
+{
+    "titulo": "Eventos em Espaços Amostrais",
+    "subtitulo": "Explorando uniões, interseções e complementos de eventos.",
+    "imagens": [],
+    "codigo": [],
+    "formulas": [
+        {
+            "formula": "A \\cup B",
+            "momentoChaveFormula": "I. \\(A \\cup B\\)",
+            "fimMomentoChaveFormula": "representa a união dos eventos A e B, contendo todos os resultados que pertencem a A ou a B, ou a ambos."
+        },
+        {
+            "formula": "A \\cap B",
+            "momentoChaveFormula": "II. \\(A \\cap B\\)",
+            "fimMomentoChaveFormula": "representa a interseção dos eventos A e B, contendo todos os resultados que pertencem simultaneamente a A e a B."
+        },
+        {
+            "formula": "A^C",
+            "momentoChaveFormula": "III. \\(A^C\\) ou \\(\\bar{A}\\)",
+            "fimMomentoChaveFormula": "representa o complemento do evento A, contendo todos os resultados do espaço amostral S que não pertencem a A."
+        }
+    ],
+    "cenas": [
+        {
+            "cena": 1,
+            "tempo": "0:00-0:15",
+            "script": "Olá! Vamos falar sobre eventos em espaços amostrais. Imagine que temos um espaço amostral, que chamaremos de S, e ele é finito. Agora, vamos pegar dois eventos desse espaço, que vamos chamar de A e B. Com esses eventos, podemos criar novos eventos usando algumas operações.",
+            "elementos_visuais": [
+                {
+                    "tipo": "texto",
+                    "titulo": "Eventos em Espaços Amostrais",
+                    "subtitulo": "Entendendo as operações básicas.",
+                    "breveDescricao": "Introdução ao conceito de eventos em espaços amostrais finitos, apresentando a ideia de combinar eventos para formar novos eventos.",
+                    "topico_1": "Espaço amostral finito",
+                    "topico_2": "Eventos A e B",
+                    "topico_3": "Operações com eventos",
+                    "estilo": "titulo"
+                }
+            ],
+            "palavras_chave": [
+                "espaço amostral",
+                "espaço amostral finito",
+                "eventos",
+                "eventos A e B",
+                "novos eventos",
+                "operações"
+            ]
+        },
+        {
+            "cena": 2,
+            "tempo": "0:15-0:30",
+            "script": "A primeira operação é a união, representada por A ∪ B. Essa união inclui todos os resultados que estão em A, em B, ou em ambos. Pense nela como juntar tudo que está em A e tudo que está em B em um único conjunto.",
+            "elementos_visuais": [
+                {
+                    "tipo": "texto",
+                    "titulo": "União de Eventos (A ∪ B)",
+                    "subtitulo": "Resultados em A, B ou ambos.",
+                    "breveDescricao": "Explicação da união de eventos, mostrando que ela engloba todos os resultados presentes em qualquer um dos eventos combinados.",
+                    "topico_1": "União",
+                    "topico_2": "A ∪ B",
+                    "topico_3": "Resultados em A ou B",
+                    "estilo": "topico"
+                }
+            ],
+            "palavras_chave": [
+                "união",
+                "A ∪ B",
+                "resultados em A",
+                "resultados em B",
+                "resultados em ambos",
+                "juntar tudo"
+            ]
+        },
+        {
+            "cena": 3,
+            "tempo": "0:30-0:45",
+            "script": "A segunda operação é a interseção, representada por A ∩ B. Aqui, consideramos apenas os resultados que estão tanto em A quanto em B. É como encontrar os elementos que os dois eventos têm em comum.",
+            "elementos_visuais": [
+                {
+                    "tipo": "texto",
+                    "titulo": "Interseção de Eventos (A ∩ B)",
+                    "subtitulo": "Resultados em A e B simultaneamente.",
+                    "breveDescricao": "Apresentação da interseção de eventos, destacando que ela contém apenas os resultados que pertencem a ambos os eventos.",
+                    "topico_1": "Interseção",
+                    "topico_2": "A ∩ B",
+                    "topico_3": "Resultados em A e B",
+                    "estilo": "topico"
+                }
+            ],
+            "palavras_chave": [
+                "interseção",
+                "A ∩ B",
+                "resultados em A",
+                "resultados em B",
+                "elementos em comum",
+                "tanto em A quanto em B"
+            ]
+        },
+        {
+            "cena": 4,
+            "tempo": "0:45-1:00",
+            "script": "Por fim, temos o complemento de um evento, que pode ser representado por Aᶜ ou Ā. O complemento de A inclui todos os resultados do espaço amostral S que não estão em A. É tudo o que sobra quando tiramos A de S.",
+            "elementos_visuais": [
+                {
+                    "tipo": "texto",
+                    "titulo": "Complemento de um Evento (Aᶜ ou Ā)",
+                    "subtitulo": "Resultados em S que não estão em A.",
+                    "breveDescricao": "Explicação do complemento de um evento, mostrando que ele abrange todos os resultados do espaço amostral que não pertencem ao evento original.",
+                    "topico_1": "Complemento",
+                    "topico_2": "Aᶜ ou Ā",
+                    "topico_3": "Resultados fora de A",
+                    "estilo": "topico"
+                }
+            ],
+            "palavras_chave": [
+                "complemento",
+                "Aᶜ",
+                "Ā",
+                "resultados em S",
+                "não estão em A",
+                "tiramos A de S"
+            ]
+        },
+        {
+            "cena": 5,
+            "tempo": "1:00-1:15",
+            "script": "Então, recapitulando, vimos a união, que junta os resultados de dois eventos; a interseção, que encontra os resultados em comum; e o complemento, que mostra o que está fora de um evento no espaço amostral. Espero que tenha ficado claro! Até a próxima!",
+            "elementos_visuais": [
+                {
+                    "tipo": "texto",
+                    "titulo": "Resumo e Despedida",
+                    "subtitulo": "Revisão das operações e encerramento.",
+                    "breveDescricao": "Recapitulação das operações de união, interseção e complemento, reforçando a compreensão dos conceitos apresentados.",
+                    "topico_1": "União",
+                    "topico_2": "Interseção",
+                    "topico_3": "Complemento",
+                    "estilo": "titulo"
+                }
+            ],
+            "palavras_chave": [
+                "união",
+                "interseção",
+                "complemento",
+                "resultados em comum",
+                "espaço amostral",
+                "recapitulando"
+            ]
+        }
+    ]
+}

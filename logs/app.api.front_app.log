@@ -1,0 +1,12 @@
+{"timestamp": "2025-05-15T22:58:54.529227", "level": "INFO", "logger": "app.api.front_app", "message": "Recebendo solicita\u00e7\u00e3o para /api/get_data"}
+{"timestamp": "2025-05-15T22:58:54.530445", "level": "INFO", "logger": "app.api.front_app", "message": "Par\u00e2metros de filtro recebidos: ID=None, Nome=None, T\u00edtulo NC=None"}
+{"timestamp": "2025-05-15T23:16:39.244492", "level": "INFO", "logger": "app.api.front_app", "message": "Recebendo solicita\u00e7\u00e3o para /api/get_data"}
+{"timestamp": "2025-05-15T23:16:39.245280", "level": "INFO", "logger": "app.api.front_app", "message": "Par\u00e2metros de filtro recebidos: ID=None, Nome=None, T\u00edtulo NC=None"}
+{"timestamp": "2025-05-16T13:16:57.625000", "level": "INFO", "logger": "app.api.front_app", "message": "Recebendo solicita\u00e7\u00e3o para /api/get_data"}
+{"timestamp": "2025-05-16T13:16:57.625873", "level": "INFO", "logger": "app.api.front_app", "message": "Par\u00e2metros de filtro recebidos: ID=None, Nome=None, T\u00edtulo NC=None"}
+{"timestamp": "2025-05-16T18:07:49.396030", "level": "INFO", "logger": "app.api.front_app", "message": "Recebendo solicita\u00e7\u00e3o para /api/get_data"}
+{"timestamp": "2025-05-16T18:07:49.396773", "level": "INFO", "logger": "app.api.front_app", "message": "Par\u00e2metros de filtro recebidos: ID=None, Nome=None, T\u00edtulo NC=None"}
+{"timestamp": "2025-05-16T21:54:47.839991", "level": "INFO", "logger": "app.api.front_app", "message": "Recebendo solicita\u00e7\u00e3o para /api/get_data"}
+{"timestamp": "2025-05-16T21:54:47.840972", "level": "INFO", "logger": "app.api.front_app", "message": "Par\u00e2metros de filtro recebidos: ID=None, Nome=None, T\u00edtulo NC=None"}
+{"timestamp": "2025-05-19T17:49:51.765519", "level": "INFO", "logger": "app.api.front_app", "message": "Recebendo solicita\u00e7\u00e3o para /api/get_data"}
+{"timestamp": "2025-05-19T17:49:51.766711", "level": "INFO", "logger": "app.api.front_app", "message": "Par\u00e2metros de filtro recebidos: ID=None, Nome=None, T\u00edtulo NC=None"}

@@ -1,0 +1,143 @@
+{"timestamp": "2025-05-15T21:18:57.903278", "level": "INFO", "logger": "app.api.contextualizacao", "message": "{\"timestamp\": \"2025-05-15T21:18:57.903088\", \"message\": \"Buscando todos os v\\u00eddeos dispon\\u00edveis\"}"}
+{"timestamp": "2025-05-15T21:19:01.237237", "level": "INFO", "logger": "app.api.contextualizacao", "message": "{\"timestamp\": \"2025-05-15T21:19:01.237106\", \"message\": \"Encontradas 7 \\u00e1reas de conhecimento\"}"}
+{"timestamp": "2025-05-15T21:19:01.237379", "level": "INFO", "logger": "app.api.contextualizacao", "message": "{\"timestamp\": \"2025-05-15T21:19:01.237333\", \"message\": \"Encontradas 2 contextualiza\\u00e7\\u00f5es\"}"}
+{"timestamp": "2025-05-15T21:23:20.679754", "level": "INFO", "logger": "app.api.contextualizacao", "message": "Buscando todos os v\u00eddeos dispon\u00edveis"}
+{"timestamp": "2025-05-15T21:23:23.759110", "level": "INFO", "logger": "app.api.contextualizacao", "message": "Encontradas 7 \u00e1reas de conhecimento"}
+{"timestamp": "2025-05-15T21:23:23.759266", "level": "INFO", "logger": "app.api.contextualizacao", "message": "Encontradas 2 contextualiza\u00e7\u00f5es"}
+{"timestamp": "2025-05-15T21:25:58.326629", "level": "INFO", "logger": "app.api.contextualizacao", "message": "Buscando todos os v\u00eddeos dispon\u00edveis"}
+{"timestamp": "2025-05-15T21:26:01.571595", "level": "INFO", "logger": "app.api.contextualizacao", "message": "Encontradas 7 \u00e1reas de conhecimento"}
+{"timestamp": "2025-05-15T21:26:01.571759", "level": "INFO", "logger": "app.api.contextualizacao", "message": "Encontradas 2 contextualiza\u00e7\u00f5es"}
+{"timestamp": "2025-05-15T21:46:27.918307", "level": "INFO", "logger": "app.api.contextualizacao", "message": "Buscando todos os v\u00eddeos dispon\u00edveis"}
+{"timestamp": "2025-05-15T21:46:31.436810", "level": "INFO", "logger": "app.api.contextualizacao", "message": "Encontradas 7 \u00e1reas de conhecimento"}
+{"timestamp": "2025-05-15T21:46:31.437012", "level": "INFO", "logger": "app.api.contextualizacao", "message": "Encontradas 2 contextualiza\u00e7\u00f5es"}
+{"timestamp": "2025-05-15T21:50:46.759422", "level": "INFO", "logger": "app.api.contextualizacao", "message": "Buscando todos os v\u00eddeos dispon\u00edveis"}
+{"timestamp": "2025-05-15T21:50:50.250304", "level": "INFO", "logger": "app.api.contextualizacao", "message": "Encontradas 7 \u00e1reas de conhecimento"}
+{"timestamp": "2025-05-15T21:50:50.250501", "level": "INFO", "logger": "app.api.contextualizacao", "message": "Encontradas 2 contextualiza\u00e7\u00f5es"}
+{"timestamp": "2025-05-15T21:57:16.845958", "level": "INFO", "logger": "app.api.contextualizacao", "message": "Buscando todos os v\u00eddeos dispon\u00edveis"}
+{"timestamp": "2025-05-15T21:57:19.983204", "level": "INFO", "logger": "app.api.contextualizacao", "message": "Encontradas 7 \u00e1reas de conhecimento"}
+{"timestamp": "2025-05-15T21:57:19.983393", "level": "INFO", "logger": "app.api.contextualizacao", "message": "Encontradas 2 contextualiza\u00e7\u00f5es"}
+{"timestamp": "2025-05-15T22:37:35.125334", "level": "INFO", "logger": "app.api.contextualizacao", "message": "Buscando todos os v\u00eddeos dispon\u00edveis"}
+{"timestamp": "2025-05-15T22:37:38.614787", "level": "INFO", "logger": "app.api.contextualizacao", "message": "Encontradas 7 \u00e1reas de conhecimento"}
+{"timestamp": "2025-05-15T22:37:38.615022", "level": "INFO", "logger": "app.api.contextualizacao", "message": "Encontradas 2 contextualiza\u00e7\u00f5es"}
+{"timestamp": "2025-05-15T22:39:22.243132", "level": "INFO", "logger": "app.api.contextualizacao", "message": "Buscando todos os v\u00eddeos dispon\u00edveis"}
+{"timestamp": "2025-05-15T22:39:25.439222", "level": "INFO", "logger": "app.api.contextualizacao", "message": "Encontradas 7 \u00e1reas de conhecimento"}
+{"timestamp": "2025-05-15T22:39:25.439385", "level": "INFO", "logger": "app.api.contextualizacao", "message": "Encontradas 2 contextualiza\u00e7\u00f5es"}
+{"timestamp": "2025-05-15T22:42:10.112882", "level": "INFO", "logger": "app.api.contextualizacao", "message": "Buscando todos os v\u00eddeos dispon\u00edveis"}
+{"timestamp": "2025-05-15T22:42:13.238937", "level": "INFO", "logger": "app.api.contextualizacao", "message": "Encontradas 7 \u00e1reas de conhecimento"}
+{"timestamp": "2025-05-15T22:42:13.239098", "level": "INFO", "logger": "app.api.contextualizacao", "message": "Encontradas 2 contextualiza\u00e7\u00f5es"}
+{"timestamp": "2025-05-15T22:43:45.936327", "level": "INFO", "logger": "app.api.contextualizacao", "message": "Buscando todos os v\u00eddeos dispon\u00edveis"}
+{"timestamp": "2025-05-15T22:43:49.063481", "level": "INFO", "logger": "app.api.contextualizacao", "message": "Encontradas 7 \u00e1reas de conhecimento"}
+{"timestamp": "2025-05-15T22:43:49.063659", "level": "INFO", "logger": "app.api.contextualizacao", "message": "Encontradas 2 contextualiza\u00e7\u00f5es"}
+{"timestamp": "2025-05-15T22:46:59.031837", "level": "INFO", "logger": "app.api.contextualizacao", "message": "Buscando todos os v\u00eddeos dispon\u00edveis"}
+{"timestamp": "2025-05-15T22:47:02.134498", "level": "INFO", "logger": "app.api.contextualizacao", "message": "Encontradas 7 \u00e1reas de conhecimento"}
+{"timestamp": "2025-05-15T22:47:02.134672", "level": "INFO", "logger": "app.api.contextualizacao", "message": "Encontradas 2 contextualiza\u00e7\u00f5es"}
+{"timestamp": "2025-05-15T22:48:34.164105", "level": "INFO", "logger": "app.api.contextualizacao", "message": "Buscando todos os v\u00eddeos dispon\u00edveis"}
+{"timestamp": "2025-05-15T22:48:37.391203", "level": "INFO", "logger": "app.api.contextualizacao", "message": "Encontradas 7 \u00e1reas de conhecimento"}
+{"timestamp": "2025-05-15T22:48:37.391391", "level": "INFO", "logger": "app.api.contextualizacao", "message": "Encontradas 2 contextualiza\u00e7\u00f5es"}
+{"timestamp": "2025-05-15T22:54:09.269326", "level": "INFO", "logger": "app.api.contextualizacao", "message": "Buscando todos os v\u00eddeos dispon\u00edveis"}
+{"timestamp": "2025-05-15T22:54:12.329372", "level": "INFO", "logger": "app.api.contextualizacao", "message": "Encontradas 7 \u00e1reas de conhecimento"}
+{"timestamp": "2025-05-15T22:54:12.329533", "level": "INFO", "logger": "app.api.contextualizacao", "message": "Encontradas 2 contextualiza\u00e7\u00f5es"}
+{"timestamp": "2025-05-15T22:58:54.618083", "level": "INFO", "logger": "app.api.contextualizacao", "message": "Buscando todos os v\u00eddeos dispon\u00edveis"}
+{"timestamp": "2025-05-15T22:58:58.442744", "level": "INFO", "logger": "app.api.contextualizacao", "message": "Encontradas 7 \u00e1reas de conhecimento"}
+{"timestamp": "2025-05-15T22:58:58.442894", "level": "INFO", "logger": "app.api.contextualizacao", "message": "Encontradas 2 contextualiza\u00e7\u00f5es"}
+{"timestamp": "2025-05-15T22:59:00.399035", "level": "INFO", "logger": "app.api.contextualizacao", "message": "Buscando todos os v\u00eddeos dispon\u00edveis"}
+{"timestamp": "2025-05-15T22:59:03.598138", "level": "INFO", "logger": "app.api.contextualizacao", "message": "Encontradas 7 \u00e1reas de conhecimento"}
+{"timestamp": "2025-05-15T22:59:03.598643", "level": "INFO", "logger": "app.api.contextualizacao", "message": "Encontradas 2 contextualiza\u00e7\u00f5es"}
+{"timestamp": "2025-05-15T23:04:13.043635", "level": "INFO", "logger": "app.api.contextualizacao", "message": "Buscando todos os v\u00eddeos dispon\u00edveis"}
+{"timestamp": "2025-05-15T23:04:16.296635", "level": "INFO", "logger": "app.api.contextualizacao", "message": "Encontradas 7 \u00e1reas de conhecimento"}
+{"timestamp": "2025-05-15T23:04:16.296935", "level": "INFO", "logger": "app.api.contextualizacao", "message": "Encontradas 2 contextualiza\u00e7\u00f5es"}
+{"timestamp": "2025-05-15T23:06:27.873938", "level": "INFO", "logger": "app.api.contextualizacao", "message": "Buscando todos os v\u00eddeos dispon\u00edveis"}
+{"timestamp": "2025-05-15T23:06:31.076277", "level": "INFO", "logger": "app.api.contextualizacao", "message": "Encontradas 7 \u00e1reas de conhecimento"}
+{"timestamp": "2025-05-15T23:06:31.076518", "level": "INFO", "logger": "app.api.contextualizacao", "message": "Encontradas 2 contextualiza\u00e7\u00f5es"}
+{"timestamp": "2025-05-15T23:09:29.485112", "level": "INFO", "logger": "app.api.contextualizacao", "message": "Buscando todos os v\u00eddeos dispon\u00edveis"}
+{"timestamp": "2025-05-15T23:09:32.632389", "level": "INFO", "logger": "app.api.contextualizacao", "message": "Encontradas 7 \u00e1reas de conhecimento"}
+{"timestamp": "2025-05-15T23:09:32.632760", "level": "INFO", "logger": "app.api.contextualizacao", "message": "Encontradas 2 contextualiza\u00e7\u00f5es"}
+{"timestamp": "2025-05-15T23:12:48.882109", "level": "INFO", "logger": "app.api.contextualizacao", "message": "Buscando todos os v\u00eddeos dispon\u00edveis"}
+{"timestamp": "2025-05-15T23:12:52.213618", "level": "INFO", "logger": "app.api.contextualizacao", "message": "Encontradas 7 \u00e1reas de conhecimento"}
+{"timestamp": "2025-05-15T23:12:52.214174", "level": "INFO", "logger": "app.api.contextualizacao", "message": "Encontradas 2 contextualiza\u00e7\u00f5es"}
+{"timestamp": "2025-05-15T23:15:02.599888", "level": "INFO", "logger": "app.api.contextualizacao", "message": "Buscando todos os v\u00eddeos dispon\u00edveis"}
+{"timestamp": "2025-05-15T23:15:05.707532", "level": "INFO", "logger": "app.api.contextualizacao", "message": "Encontradas 7 \u00e1reas de conhecimento"}
+{"timestamp": "2025-05-15T23:15:05.707733", "level": "INFO", "logger": "app.api.contextualizacao", "message": "Encontradas 2 contextualiza\u00e7\u00f5es"}
+{"timestamp": "2025-05-16T13:16:57.660052", "level": "INFO", "logger": "app.api.contextualizacao", "message": "Buscando todos os v\u00eddeos dispon\u00edveis"}
+{"timestamp": "2025-05-16T13:17:01.028044", "level": "INFO", "logger": "app.api.contextualizacao", "message": "Encontradas 7 \u00e1reas de conhecimento"}
+{"timestamp": "2025-05-16T13:17:01.028202", "level": "INFO", "logger": "app.api.contextualizacao", "message": "Encontradas 2 contextualiza\u00e7\u00f5es"}
+{"timestamp": "2025-05-16T13:17:10.103743", "level": "INFO", "logger": "app.api.contextualizacao", "message": "Buscando todos os v\u00eddeos dispon\u00edveis"}
+{"timestamp": "2025-05-16T13:17:13.228507", "level": "INFO", "logger": "app.api.contextualizacao", "message": "Encontradas 7 \u00e1reas de conhecimento"}
+{"timestamp": "2025-05-16T13:17:13.228691", "level": "INFO", "logger": "app.api.contextualizacao", "message": "Encontradas 2 contextualiza\u00e7\u00f5es"}
+{"timestamp": "2025-05-16T18:07:49.462588", "level": "INFO", "logger": "app.api.contextualizacao", "message": "Buscando todos os v\u00eddeos dispon\u00edveis"}
+{"timestamp": "2025-05-16T18:07:52.977308", "level": "INFO", "logger": "app.api.contextualizacao", "message": "Encontradas 7 \u00e1reas de conhecimento"}
+{"timestamp": "2025-05-16T18:07:52.977511", "level": "INFO", "logger": "app.api.contextualizacao", "message": "Encontradas 4 contextualiza\u00e7\u00f5es"}
+{"timestamp": "2025-05-16T18:07:56.500664", "level": "INFO", "logger": "app.api.contextualizacao", "message": "Buscando todos os v\u00eddeos dispon\u00edveis"}
+{"timestamp": "2025-05-16T18:07:59.719938", "level": "INFO", "logger": "app.api.contextualizacao", "message": "Encontradas 7 \u00e1reas de conhecimento"}
+{"timestamp": "2025-05-16T18:07:59.720310", "level": "INFO", "logger": "app.api.contextualizacao", "message": "Encontradas 4 contextualiza\u00e7\u00f5es"}
+{"timestamp": "2025-05-16T18:12:08.494730", "level": "INFO", "logger": "app.api.contextualizacao", "message": "Buscando todos os v\u00eddeos dispon\u00edveis"}
+{"timestamp": "2025-05-16T18:12:11.853312", "level": "INFO", "logger": "app.api.contextualizacao", "message": "Encontradas 7 \u00e1reas de conhecimento"}
+{"timestamp": "2025-05-16T18:12:11.853497", "level": "INFO", "logger": "app.api.contextualizacao", "message": "Encontradas 4 contextualiza\u00e7\u00f5es"}
+{"timestamp": "2025-05-16T18:27:32.093617", "level": "INFO", "logger": "app.api.contextualizacao", "message": "Buscando todos os v\u00eddeos dispon\u00edveis"}
+{"timestamp": "2025-05-16T18:27:35.307614", "level": "INFO", "logger": "app.api.contextualizacao", "message": "Encontradas 7 \u00e1reas de conhecimento"}
+{"timestamp": "2025-05-16T18:27:35.307791", "level": "INFO", "logger": "app.api.contextualizacao", "message": "Encontradas 4 contextualiza\u00e7\u00f5es"}
+{"timestamp": "2025-05-16T18:39:52.276964", "level": "INFO", "logger": "app.api.contextualizacao", "message": "Buscando todos os v\u00eddeos dispon\u00edveis"}
+{"timestamp": "2025-05-16T18:39:55.541419", "level": "INFO", "logger": "app.api.contextualizacao", "message": "Encontradas 7 \u00e1reas de conhecimento"}
+{"timestamp": "2025-05-16T18:39:55.541610", "level": "INFO", "logger": "app.api.contextualizacao", "message": "Encontradas 4 contextualiza\u00e7\u00f5es"}
+{"timestamp": "2025-05-16T18:58:02.028500", "level": "INFO", "logger": "app.api.contextualizacao", "message": "Buscando todos os v\u00eddeos dispon\u00edveis"}
+{"timestamp": "2025-05-16T18:58:05.425995", "level": "INFO", "logger": "app.api.contextualizacao", "message": "Encontradas 7 \u00e1reas de conhecimento"}
+{"timestamp": "2025-05-16T18:58:05.426160", "level": "INFO", "logger": "app.api.contextualizacao", "message": "Encontradas 4 contextualiza\u00e7\u00f5es"}
+{"timestamp": "2025-05-16T18:59:39.180460", "level": "INFO", "logger": "app.api.contextualizacao", "message": "Buscando todos os v\u00eddeos dispon\u00edveis"}
+{"timestamp": "2025-05-16T18:59:42.576707", "level": "INFO", "logger": "app.api.contextualizacao", "message": "Encontradas 7 \u00e1reas de conhecimento"}
+{"timestamp": "2025-05-16T18:59:42.576882", "level": "INFO", "logger": "app.api.contextualizacao", "message": "Encontradas 4 contextualiza\u00e7\u00f5es"}
+{"timestamp": "2025-05-16T19:03:35.370245", "level": "INFO", "logger": "app.api.contextualizacao", "message": "Buscando todos os v\u00eddeos dispon\u00edveis"}
+{"timestamp": "2025-05-16T19:03:39.222467", "level": "INFO", "logger": "app.api.contextualizacao", "message": "Encontradas 7 \u00e1reas de conhecimento"}
+{"timestamp": "2025-05-16T19:03:39.222711", "level": "INFO", "logger": "app.api.contextualizacao", "message": "Encontradas 4 contextualiza\u00e7\u00f5es"}
+{"timestamp": "2025-05-16T19:08:08.216807", "level": "INFO", "logger": "app.api.contextualizacao", "message": "Buscando todos os v\u00eddeos dispon\u00edveis"}
+{"timestamp": "2025-05-16T19:08:11.774058", "level": "INFO", "logger": "app.api.contextualizacao", "message": "Encontradas 7 \u00e1reas de conhecimento"}
+{"timestamp": "2025-05-16T19:08:11.774227", "level": "INFO", "logger": "app.api.contextualizacao", "message": "Encontradas 4 contextualiza\u00e7\u00f5es"}
+{"timestamp": "2025-05-16T19:13:58.044034", "level": "INFO", "logger": "app.api.contextualizacao", "message": "Buscando todos os v\u00eddeos dispon\u00edveis"}
+{"timestamp": "2025-05-16T19:14:02.219158", "level": "INFO", "logger": "app.api.contextualizacao", "message": "Encontradas 7 \u00e1reas de conhecimento"}
+{"timestamp": "2025-05-16T19:14:02.219428", "level": "INFO", "logger": "app.api.contextualizacao", "message": "Encontradas 4 contextualiza\u00e7\u00f5es"}
+{"timestamp": "2025-05-16T19:16:31.103198", "level": "INFO", "logger": "app.api.contextualizacao", "message": "Buscando todos os v\u00eddeos dispon\u00edveis"}
+{"timestamp": "2025-05-16T19:16:34.462934", "level": "INFO", "logger": "app.api.contextualizacao", "message": "Encontradas 7 \u00e1reas de conhecimento"}
+{"timestamp": "2025-05-16T19:16:34.463175", "level": "INFO", "logger": "app.api.contextualizacao", "message": "Encontradas 4 contextualiza\u00e7\u00f5es"}
+{"timestamp": "2025-05-16T21:54:47.876951", "level": "INFO", "logger": "app.api.contextualizacao", "message": "Buscando todos os v\u00eddeos dispon\u00edveis"}
+{"timestamp": "2025-05-16T21:54:51.200143", "level": "INFO", "logger": "app.api.contextualizacao", "message": "Encontradas 7 \u00e1reas de conhecimento"}
+{"timestamp": "2025-05-16T21:54:51.200498", "level": "INFO", "logger": "app.api.contextualizacao", "message": "Encontradas 4 contextualiza\u00e7\u00f5es"}
+{"timestamp": "2025-05-16T21:54:53.932460", "level": "ERROR", "logger": "app.api.contextualizacao", "message": "Erro ao iniciar processamento: 403 Permission denied on resource project None. [reason: \"CONSUMER_INVALID\"\ndomain: \"googleapis.com\"\nmetadata {\n  key: \"consumer\"\n  value: \"projects/None\"\n}\nmetadata {\n  key: \"containerInfo\"\n  value: \"None\"\n}\nmetadata {\n  key: \"service\"\n  value: \"cloudtasks.googleapis.com\"\n}\n, locale: \"en-US\"\nmessage: \"Permission denied on resource project None.\"\n, links {\n  description: \"Google developers console\"\n  url: \"https://console.developers.google.com\"\n}\n]", "exception": {"type": "Exception", "message": "403 Permission denied on resource project None. [reason: \"CONSUMER_INVALID\"\ndomain: \"googleapis.com\"\nmetadata {\n  key: \"consumer\"\n  value: \"projects/None\"\n}\nmetadata {\n  key: \"containerInfo\"\n  value: \"None\"\n}\nmetadata {\n  key: \"service\"\n  value: \"cloudtasks.googleapis.com\"\n}\n, locale: \"en-US\"\nmessage: \"Permission denied on resource project None.\"\n, links {\n  description: \"Google developers console\"\n  url: \"https://console.developers.google.com\"\n}\n]", "traceback": "Traceback (most recent call last):\n  File \"/home/rafael/Desktop/projetos/yduqs_back/app/api/contextualizacao.py\", line 160, in create_contextualizacao\n    raise Exception(task_result['error'])\nException: 403 Permission denied on resource project None. [reason: \"CONSUMER_INVALID\"\ndomain: \"googleapis.com\"\nmetadata {\n  key: \"consumer\"\n  value: \"projects/None\"\n}\nmetadata {\n  key: \"containerInfo\"\n  value: \"None\"\n}\nmetadata {\n  key: \"service\"\n  value: \"cloudtasks.googleapis.com\"\n}\n, locale: \"en-US\"\nmessage: \"Permission denied on resource project None.\"\n, links {\n  description: \"Google developers console\"\n  url: \"https://console.developers.google.com\"\n}\n]"}}
+{"timestamp": "2025-05-16T22:08:56.660008", "level": "INFO", "logger": "app.api.contextualizacao", "message": "Ambiente local detectado. Iniciando processamento direto..."}
+{"timestamp": "2025-05-16T22:41:43.491291", "level": "INFO", "logger": "app.api.contextualizacao", "message": "Recebida requisi\u00e7\u00e3o para contextualiza\u00e7\u00e3o com dados: {'id': '824b0dc6-7adc-472b-9944-515507ea7e3b', 'name': '03570.zip', 'theme': 'Transtornos de ansiedade e transtornos de sintomas som\u00e1ticos', 'knowledge_area': 'Gest\u00e3o', 'context_type': 'contextualizacao'}"}
+{"timestamp": "2025-05-16T22:41:43.491751", "level": "INFO", "logger": "app.api.contextualizacao", "message": "Ambiente atual: local"}
+{"timestamp": "2025-05-16T22:41:43.491847", "level": "INFO", "logger": "app.api.contextualizacao", "message": "Vari\u00e1veis de ambiente:"}
+{"timestamp": "2025-05-16T22:41:43.491983", "level": "INFO", "logger": "app.api.contextualizacao", "message": "- GOOGLE_CLOUD_PROJECT: None"}
+{"timestamp": "2025-05-16T22:41:43.492095", "level": "INFO", "logger": "app.api.contextualizacao", "message": "- CLOUD_TASKS_QUEUE: None"}
+{"timestamp": "2025-05-16T22:41:43.492197", "level": "INFO", "logger": "app.api.contextualizacao", "message": "- CLOUD_TASKS_LOCATION: None"}
+{"timestamp": "2025-05-16T22:41:43.492285", "level": "INFO", "logger": "app.api.contextualizacao", "message": "- SERVICE_URL: None"}
+{"timestamp": "2025-05-16T22:41:43.492362", "level": "INFO", "logger": "app.api.contextualizacao", "message": "- CLOUD_TASKS_SERVICE_ACCOUNT: None"}
+{"timestamp": "2025-05-16T22:41:43.492474", "level": "INFO", "logger": "app.api.contextualizacao", "message": "Ambiente local detectado. Iniciando processamento direto..."}
+{"timestamp": "2025-05-19T17:49:51.767027", "level": "INFO", "logger": "app.api.contextualizacao", "message": "Buscando todos os v\u00eddeos dispon\u00edveis"}
+{"timestamp": "2025-05-19T17:49:58.131601", "level": "INFO", "logger": "app.api.contextualizacao", "message": "Encontradas 7 \u00e1reas de conhecimento"}
+{"timestamp": "2025-05-19T17:49:58.131815", "level": "INFO", "logger": "app.api.contextualizacao", "message": "Encontradas 16 contextualiza\u00e7\u00f5es"}
+{"timestamp": "2025-05-19T17:50:02.011446", "level": "INFO", "logger": "app.api.contextualizacao", "message": "Recebida requisi\u00e7\u00e3o para contextualiza\u00e7\u00e3o com dados: {'id': 'c97568a7-71b3-4307-8468-b931a56c4c65', 'name': '00520.zip', 'theme': 'An\u00e1lise de dados quantitativos', 'knowledge_area': 'TI', 'context_type': 'contextualizacao'}"}
+{"timestamp": "2025-05-19T17:50:02.011617", "level": "INFO", "logger": "app.api.contextualizacao", "message": "Ambiente atual: local"}
+{"timestamp": "2025-05-19T17:50:02.011703", "level": "INFO", "logger": "app.api.contextualizacao", "message": "Vari\u00e1veis de ambiente:"}
+{"timestamp": "2025-05-19T17:50:02.011791", "level": "INFO", "logger": "app.api.contextualizacao", "message": "- GOOGLE_CLOUD_PROJECT: None"}
+{"timestamp": "2025-05-19T17:50:02.011874", "level": "INFO", "logger": "app.api.contextualizacao", "message": "- CLOUD_TASKS_QUEUE: None"}
+{"timestamp": "2025-05-19T17:50:02.011984", "level": "INFO", "logger": "app.api.contextualizacao", "message": "- CLOUD_TASKS_LOCATION: None"}
+{"timestamp": "2025-05-19T17:50:02.012072", "level": "INFO", "logger": "app.api.contextualizacao", "message": "- SERVICE_URL: None"}
+{"timestamp": "2025-05-19T17:50:02.012155", "level": "INFO", "logger": "app.api.contextualizacao", "message": "- CLOUD_TASKS_SERVICE_ACCOUNT: None"}
+{"timestamp": "2025-05-19T17:50:02.012232", "level": "INFO", "logger": "app.api.contextualizacao", "message": "Ambiente local detectado. Iniciando processamento direto..."}
+{"timestamp": "2025-05-19T17:55:58.563056", "level": "INFO", "logger": "app.api.contextualizacao", "message": "Recebida requisi\u00e7\u00e3o para contextualiza\u00e7\u00e3o com dados: {'id': 'c97568a7-71b3-4307-8468-b931a56c4c65', 'name': '00520.zip', 'theme': 'An\u00e1lise de dados quantitativos', 'knowledge_area': 'TI', 'context_type': 'contextualizacao'}"}
+{"timestamp": "2025-05-19T17:55:58.563455", "level": "INFO", "logger": "app.api.contextualizacao", "message": "Ambiente atual: local"}
+{"timestamp": "2025-05-19T17:55:58.563703", "level": "INFO", "logger": "app.api.contextualizacao", "message": "Vari\u00e1veis de ambiente:"}
+{"timestamp": "2025-05-19T17:55:58.563954", "level": "INFO", "logger": "app.api.contextualizacao", "message": "- GOOGLE_CLOUD_PROJECT: None"}
+{"timestamp": "2025-05-19T17:55:58.564157", "level": "INFO", "logger": "app.api.contextualizacao", "message": "- CLOUD_TASKS_QUEUE: None"}
+{"timestamp": "2025-05-19T17:55:58.564357", "level": "INFO", "logger": "app.api.contextualizacao", "message": "- CLOUD_TASKS_LOCATION: None"}
+{"timestamp": "2025-05-19T17:55:58.564575", "level": "INFO", "logger": "app.api.contextualizacao", "message": "- SERVICE_URL: None"}
+{"timestamp": "2025-05-19T17:55:58.564764", "level": "INFO", "logger": "app.api.contextualizacao", "message": "- CLOUD_TASKS_SERVICE_ACCOUNT: None"}
+{"timestamp": "2025-05-19T17:55:58.564985", "level": "INFO", "logger": "app.api.contextualizacao", "message": "Ambiente local detectado. Iniciando processamento direto..."}
+{"timestamp": "2025-05-19T18:11:51.357032", "level": "INFO", "logger": "app.api.contextualizacao", "message": "Recebida requisi\u00e7\u00e3o para contextualiza\u00e7\u00e3o com dados: {'id': 'c97568a7-71b3-4307-8468-b931a56c4c65', 'name': '00520.zip', 'theme': 'An\u00e1lise de dados quantitativos', 'knowledge_area': 'TI', 'context_type': 'contextualizacao'}"}
+{"timestamp": "2025-05-19T18:11:52.656767", "level": "INFO", "logger": "app.api.contextualizacao", "message": "Ambiente atual: local"}
+{"timestamp": "2025-05-19T18:11:53.777407", "level": "INFO", "logger": "app.api.contextualizacao", "message": "Vari\u00e1veis de ambiente:"}
+{"timestamp": "2025-05-19T18:11:55.332421", "level": "INFO", "logger": "app.api.contextualizacao", "message": "- GOOGLE_CLOUD_PROJECT: None"}
+{"timestamp": "2025-05-19T18:11:56.458268", "level": "INFO", "logger": "app.api.contextualizacao", "message": "- CLOUD_TASKS_QUEUE: None"}
+{"timestamp": "2025-05-19T18:11:57.988156", "level": "INFO", "logger": "app.api.contextualizacao", "message": "- CLOUD_TASKS_LOCATION: None"}
+{"timestamp": "2025-05-19T18:11:59.116247", "level": "INFO", "logger": "app.api.contextualizacao", "message": "- SERVICE_URL: None"}
+{"timestamp": "2025-05-19T18:12:00.798027", "level": "INFO", "logger": "app.api.contextualizacao", "message": "- CLOUD_TASKS_SERVICE_ACCOUNT: None"}
+{"timestamp": "2025-05-19T18:12:01.944152", "level": "INFO", "logger": "app.api.contextualizacao", "message": "Ambiente local detectado. Iniciando processamento direto..."}

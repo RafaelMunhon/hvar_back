@@ -1,0 +1,234 @@
+{"timestamp": "2025-05-15T23:48:40.708807", "level": "INFO", "logger": "app.videoPexel.generate_video_pexel", "message": "Iniciando gera\u00e7\u00e3o do v\u00eddeo"}
+{"timestamp": "2025-05-15T23:48:40.709445", "level": "INFO", "logger": "app.videoPexel.generate_video_pexel", "message": "Formato: desktop"}
+{"timestamp": "2025-05-15T23:48:40.710010", "level": "INFO", "logger": "app.videoPexel.generate_video_pexel", "message": "Tema: Futebol na favela"}
+{"timestamp": "2025-05-15T23:48:40.710371", "level": "INFO", "logger": "app.videoPexel.generate_video_pexel", "message": "N\u00famero de cenas: 6"}
+{"timestamp": "2025-05-15T23:48:40.710664", "level": "INFO", "logger": "app.videoPexel.generate_video_pexel", "message": "Tipo de m\u00fasica (n\u00famero): 2"}
+{"timestamp": "2025-05-15T23:48:40.710883", "level": "INFO", "logger": "app.videoPexel.generate_video_pexel", "message": "Buscar no site: envato"}
+{"timestamp": "2025-05-15T23:48:40.711132", "level": "INFO", "logger": "app.videoPexel.generate_video_pexel", "message": "Estilo musical convertido: electronic"}
+{"timestamp": "2025-05-15T23:56:03.684475", "level": "INFO", "logger": "app.videoPexel.generate_video_pexel", "message": "Iniciando gera\u00e7\u00e3o do v\u00eddeo"}
+{"timestamp": "2025-05-15T23:56:03.684586", "level": "INFO", "logger": "app.videoPexel.generate_video_pexel", "message": "Formato: desktop"}
+{"timestamp": "2025-05-15T23:56:03.684662", "level": "INFO", "logger": "app.videoPexel.generate_video_pexel", "message": "Tema: Futebol na favela"}
+{"timestamp": "2025-05-15T23:56:03.684741", "level": "INFO", "logger": "app.videoPexel.generate_video_pexel", "message": "N\u00famero de cenas: 6"}
+{"timestamp": "2025-05-15T23:56:03.684844", "level": "INFO", "logger": "app.videoPexel.generate_video_pexel", "message": "Tipo de m\u00fasica (n\u00famero): 2"}
+{"timestamp": "2025-05-15T23:56:03.684918", "level": "INFO", "logger": "app.videoPexel.generate_video_pexel", "message": "Buscar no site: envato"}
+{"timestamp": "2025-05-15T23:56:03.684997", "level": "INFO", "logger": "app.videoPexel.generate_video_pexel", "message": "Estilo musical convertido: electronic"}
+{"timestamp": "2025-05-15T23:59:18.540641", "level": "INFO", "logger": "app.videoPexel.generate_video_pexel", "message": "Iniciando gera\u00e7\u00e3o do v\u00eddeo"}
+{"timestamp": "2025-05-15T23:59:18.540754", "level": "INFO", "logger": "app.videoPexel.generate_video_pexel", "message": "Formato: desktop"}
+{"timestamp": "2025-05-15T23:59:18.540855", "level": "INFO", "logger": "app.videoPexel.generate_video_pexel", "message": "Tema: Futebol na favela"}
+{"timestamp": "2025-05-15T23:59:18.540950", "level": "INFO", "logger": "app.videoPexel.generate_video_pexel", "message": "N\u00famero de cenas: 6"}
+{"timestamp": "2025-05-15T23:59:18.541033", "level": "INFO", "logger": "app.videoPexel.generate_video_pexel", "message": "Tipo de m\u00fasica (n\u00famero): 2"}
+{"timestamp": "2025-05-15T23:59:18.541113", "level": "INFO", "logger": "app.videoPexel.generate_video_pexel", "message": "Buscar no site: envato"}
+{"timestamp": "2025-05-15T23:59:18.541191", "level": "INFO", "logger": "app.videoPexel.generate_video_pexel", "message": "Estilo musical convertido: electronic"}
+{"timestamp": "2025-05-16T00:59:52.347293", "level": "INFO", "logger": "app.videoPexel.generate_video_pexel", "message": "Iniciando gera\u00e7\u00e3o do v\u00eddeo"}
+{"timestamp": "2025-05-16T00:59:52.347791", "level": "INFO", "logger": "app.videoPexel.generate_video_pexel", "message": "Formato: desktop"}
+{"timestamp": "2025-05-16T00:59:52.347899", "level": "INFO", "logger": "app.videoPexel.generate_video_pexel", "message": "Tema: Futebol na favela"}
+{"timestamp": "2025-05-16T00:59:52.347994", "level": "INFO", "logger": "app.videoPexel.generate_video_pexel", "message": "N\u00famero de cenas: 6"}
+{"timestamp": "2025-05-16T00:59:52.348160", "level": "INFO", "logger": "app.videoPexel.generate_video_pexel", "message": "Tipo de m\u00fasica (n\u00famero): 2"}
+{"timestamp": "2025-05-16T00:59:52.348463", "level": "INFO", "logger": "app.videoPexel.generate_video_pexel", "message": "Buscar no site: envato"}
+{"timestamp": "2025-05-16T00:59:52.348578", "level": "INFO", "logger": "app.videoPexel.generate_video_pexel", "message": "Estilo musical convertido: electronic"}
+{"timestamp": "2025-05-16T01:04:00.440906", "level": "INFO", "logger": "app.videoPexel.generate_video_pexel", "message": "Iniciando gera\u00e7\u00e3o do v\u00eddeo"}
+{"timestamp": "2025-05-16T01:04:00.441299", "level": "INFO", "logger": "app.videoPexel.generate_video_pexel", "message": "Formato: desktop"}
+{"timestamp": "2025-05-16T01:04:00.441410", "level": "INFO", "logger": "app.videoPexel.generate_video_pexel", "message": "Tema: Futebol na favela"}
+{"timestamp": "2025-05-16T01:04:00.441530", "level": "INFO", "logger": "app.videoPexel.generate_video_pexel", "message": "N\u00famero de cenas: 6"}
+{"timestamp": "2025-05-16T01:04:00.441655", "level": "INFO", "logger": "app.videoPexel.generate_video_pexel", "message": "Tipo de m\u00fasica (n\u00famero): 2"}
+{"timestamp": "2025-05-16T01:04:00.441752", "level": "INFO", "logger": "app.videoPexel.generate_video_pexel", "message": "Buscar no site: envato"}
+{"timestamp": "2025-05-16T01:04:00.441852", "level": "INFO", "logger": "app.videoPexel.generate_video_pexel", "message": "Estilo musical convertido: electronic"}
+{"timestamp": "2025-05-16T01:06:49.419047", "level": "INFO", "logger": "app.videoPexel.generate_video_pexel", "message": "Iniciando gera\u00e7\u00e3o do v\u00eddeo"}
+{"timestamp": "2025-05-16T01:06:49.419354", "level": "INFO", "logger": "app.videoPexel.generate_video_pexel", "message": "Formato: desktop"}
+{"timestamp": "2025-05-16T01:06:49.419468", "level": "INFO", "logger": "app.videoPexel.generate_video_pexel", "message": "Tema: Futebol na favela"}
+{"timestamp": "2025-05-16T01:06:49.419566", "level": "INFO", "logger": "app.videoPexel.generate_video_pexel", "message": "N\u00famero de cenas: 6"}
+{"timestamp": "2025-05-16T01:06:49.419666", "level": "INFO", "logger": "app.videoPexel.generate_video_pexel", "message": "Tipo de m\u00fasica (n\u00famero): 2"}
+{"timestamp": "2025-05-16T01:06:49.419782", "level": "INFO", "logger": "app.videoPexel.generate_video_pexel", "message": "Buscar no site: envato"}
+{"timestamp": "2025-05-16T01:06:49.420150", "level": "INFO", "logger": "app.videoPexel.generate_video_pexel", "message": "Estilo musical convertido: electronic"}
+{"timestamp": "2025-05-16T01:13:29.072530", "level": "INFO", "logger": "app.videoPexel.generate_video_pexel", "message": "Iniciando gera\u00e7\u00e3o do v\u00eddeo"}
+{"timestamp": "2025-05-16T01:13:29.073077", "level": "INFO", "logger": "app.videoPexel.generate_video_pexel", "message": "Formato: desktop"}
+{"timestamp": "2025-05-16T01:13:29.073177", "level": "INFO", "logger": "app.videoPexel.generate_video_pexel", "message": "Tema: Futebol na favela"}
+{"timestamp": "2025-05-16T01:13:29.073264", "level": "INFO", "logger": "app.videoPexel.generate_video_pexel", "message": "N\u00famero de cenas: 6"}
+{"timestamp": "2025-05-16T01:13:29.073353", "level": "INFO", "logger": "app.videoPexel.generate_video_pexel", "message": "Tipo de m\u00fasica (n\u00famero): 2"}
+{"timestamp": "2025-05-16T01:13:29.073455", "level": "INFO", "logger": "app.videoPexel.generate_video_pexel", "message": "Buscar no site: envato"}
+{"timestamp": "2025-05-16T01:13:29.073556", "level": "INFO", "logger": "app.videoPexel.generate_video_pexel", "message": "Estilo musical convertido: electronic"}
+{"timestamp": "2025-05-16T01:21:40.487692", "level": "INFO", "logger": "app.videoPexel.generate_video_pexel", "message": "Iniciando gera\u00e7\u00e3o do v\u00eddeo"}
+{"timestamp": "2025-05-16T01:21:40.487815", "level": "INFO", "logger": "app.videoPexel.generate_video_pexel", "message": "Formato: desktop"}
+{"timestamp": "2025-05-16T01:21:40.487901", "level": "INFO", "logger": "app.videoPexel.generate_video_pexel", "message": "Tema: Futebol na favela"}
+{"timestamp": "2025-05-16T01:21:40.487977", "level": "INFO", "logger": "app.videoPexel.generate_video_pexel", "message": "N\u00famero de cenas: 6"}
+{"timestamp": "2025-05-16T01:21:40.488061", "level": "INFO", "logger": "app.videoPexel.generate_video_pexel", "message": "Tipo de m\u00fasica (n\u00famero): 2"}
+{"timestamp": "2025-05-16T01:21:40.488177", "level": "INFO", "logger": "app.videoPexel.generate_video_pexel", "message": "Buscar no site: envato"}
+{"timestamp": "2025-05-16T01:21:40.488262", "level": "INFO", "logger": "app.videoPexel.generate_video_pexel", "message": "Estilo musical convertido: electronic"}
+{"timestamp": "2025-05-16T01:51:11.084091", "level": "INFO", "logger": "app.videoPexel.generate_video_pexel", "message": "Iniciando gera\u00e7\u00e3o do v\u00eddeo"}
+{"timestamp": "2025-05-16T01:51:11.084591", "level": "INFO", "logger": "app.videoPexel.generate_video_pexel", "message": "Formato: desktop"}
+{"timestamp": "2025-05-16T01:51:11.084924", "level": "INFO", "logger": "app.videoPexel.generate_video_pexel", "message": "Tema: Futebol na favela"}
+{"timestamp": "2025-05-16T01:51:11.085158", "level": "INFO", "logger": "app.videoPexel.generate_video_pexel", "message": "N\u00famero de cenas: 6"}
+{"timestamp": "2025-05-16T01:51:11.085391", "level": "INFO", "logger": "app.videoPexel.generate_video_pexel", "message": "Tipo de m\u00fasica (n\u00famero): 2"}
+{"timestamp": "2025-05-16T01:51:11.085474", "level": "INFO", "logger": "app.videoPexel.generate_video_pexel", "message": "Buscar no site: envato"}
+{"timestamp": "2025-05-16T01:51:11.085552", "level": "INFO", "logger": "app.videoPexel.generate_video_pexel", "message": "Estilo musical convertido: electronic"}
+{"timestamp": "2025-05-16T01:57:30.879720", "level": "INFO", "logger": "app.videoPexel.generate_video_pexel", "message": "Iniciando gera\u00e7\u00e3o do v\u00eddeo"}
+{"timestamp": "2025-05-16T01:57:30.879895", "level": "INFO", "logger": "app.videoPexel.generate_video_pexel", "message": "Formato: desktop"}
+{"timestamp": "2025-05-16T01:57:30.879996", "level": "INFO", "logger": "app.videoPexel.generate_video_pexel", "message": "Tema: Futebol na favela"}
+{"timestamp": "2025-05-16T01:57:30.880339", "level": "INFO", "logger": "app.videoPexel.generate_video_pexel", "message": "N\u00famero de cenas: 6"}
+{"timestamp": "2025-05-16T01:57:30.880860", "level": "INFO", "logger": "app.videoPexel.generate_video_pexel", "message": "Tipo de m\u00fasica (n\u00famero): 2"}
+{"timestamp": "2025-05-16T01:57:30.881353", "level": "INFO", "logger": "app.videoPexel.generate_video_pexel", "message": "Buscar no site: envato"}
+{"timestamp": "2025-05-16T01:57:30.881603", "level": "INFO", "logger": "app.videoPexel.generate_video_pexel", "message": "Estilo musical convertido: electronic"}
+{"timestamp": "2025-05-16T02:01:19.131500", "level": "INFO", "logger": "app.videoPexel.generate_video_pexel", "message": "Iniciando gera\u00e7\u00e3o do v\u00eddeo"}
+{"timestamp": "2025-05-16T02:01:19.131641", "level": "INFO", "logger": "app.videoPexel.generate_video_pexel", "message": "Formato: desktop"}
+{"timestamp": "2025-05-16T02:01:19.131734", "level": "INFO", "logger": "app.videoPexel.generate_video_pexel", "message": "Tema: Futebol na favela"}
+{"timestamp": "2025-05-16T02:01:19.132078", "level": "INFO", "logger": "app.videoPexel.generate_video_pexel", "message": "N\u00famero de cenas: 6"}
+{"timestamp": "2025-05-16T02:01:19.132197", "level": "INFO", "logger": "app.videoPexel.generate_video_pexel", "message": "Tipo de m\u00fasica (n\u00famero): 2"}
+{"timestamp": "2025-05-16T02:01:19.132875", "level": "INFO", "logger": "app.videoPexel.generate_video_pexel", "message": "Buscar no site: envato"}
+{"timestamp": "2025-05-16T02:01:19.132990", "level": "INFO", "logger": "app.videoPexel.generate_video_pexel", "message": "Estilo musical convertido: electronic"}
+{"timestamp": "2025-05-16T02:04:41.130126", "level": "INFO", "logger": "app.videoPexel.generate_video_pexel", "message": "Iniciando gera\u00e7\u00e3o do v\u00eddeo"}
+{"timestamp": "2025-05-16T02:04:41.130254", "level": "INFO", "logger": "app.videoPexel.generate_video_pexel", "message": "Formato: desktop"}
+{"timestamp": "2025-05-16T02:04:41.130340", "level": "INFO", "logger": "app.videoPexel.generate_video_pexel", "message": "Tema: Futebol na favela"}
+{"timestamp": "2025-05-16T02:04:41.130439", "level": "INFO", "logger": "app.videoPexel.generate_video_pexel", "message": "N\u00famero de cenas: 6"}
+{"timestamp": "2025-05-16T02:04:41.130554", "level": "INFO", "logger": "app.videoPexel.generate_video_pexel", "message": "Tipo de m\u00fasica (n\u00famero): 2"}
+{"timestamp": "2025-05-16T02:04:41.130637", "level": "INFO", "logger": "app.videoPexel.generate_video_pexel", "message": "Buscar no site: envato"}
+{"timestamp": "2025-05-16T02:04:41.130718", "level": "INFO", "logger": "app.videoPexel.generate_video_pexel", "message": "Estilo musical convertido: electronic"}
+{"timestamp": "2025-05-16T02:10:13.157958", "level": "INFO", "logger": "app.videoPexel.generate_video_pexel", "message": "Iniciando gera\u00e7\u00e3o do v\u00eddeo"}
+{"timestamp": "2025-05-16T02:10:13.158290", "level": "INFO", "logger": "app.videoPexel.generate_video_pexel", "message": "Formato: desktop"}
+{"timestamp": "2025-05-16T02:10:13.158520", "level": "INFO", "logger": "app.videoPexel.generate_video_pexel", "message": "Tema: Futebol na favela"}
+{"timestamp": "2025-05-16T02:10:13.158730", "level": "INFO", "logger": "app.videoPexel.generate_video_pexel", "message": "N\u00famero de cenas: 6"}
+{"timestamp": "2025-05-16T02:10:13.158936", "level": "INFO", "logger": "app.videoPexel.generate_video_pexel", "message": "Tipo de m\u00fasica (n\u00famero): 2"}
+{"timestamp": "2025-05-16T02:10:13.159160", "level": "INFO", "logger": "app.videoPexel.generate_video_pexel", "message": "Buscar no site: envato"}
+{"timestamp": "2025-05-16T02:10:13.159535", "level": "INFO", "logger": "app.videoPexel.generate_video_pexel", "message": "Estilo musical convertido: electronic"}
+{"timestamp": "2025-05-16T02:13:29.242456", "level": "INFO", "logger": "app.videoPexel.generate_video_pexel", "message": "Iniciando gera\u00e7\u00e3o do v\u00eddeo"}
+{"timestamp": "2025-05-16T02:13:29.242782", "level": "INFO", "logger": "app.videoPexel.generate_video_pexel", "message": "Formato: desktop"}
+{"timestamp": "2025-05-16T02:13:29.242903", "level": "INFO", "logger": "app.videoPexel.generate_video_pexel", "message": "Tema: Futebol na favela"}
+{"timestamp": "2025-05-16T02:13:29.242983", "level": "INFO", "logger": "app.videoPexel.generate_video_pexel", "message": "N\u00famero de cenas: 6"}
+{"timestamp": "2025-05-16T02:13:29.243060", "level": "INFO", "logger": "app.videoPexel.generate_video_pexel", "message": "Tipo de m\u00fasica (n\u00famero): 2"}
+{"timestamp": "2025-05-16T02:13:29.243138", "level": "INFO", "logger": "app.videoPexel.generate_video_pexel", "message": "Buscar no site: envato"}
+{"timestamp": "2025-05-16T02:13:29.243245", "level": "INFO", "logger": "app.videoPexel.generate_video_pexel", "message": "Estilo musical convertido: electronic"}
+{"timestamp": "2025-05-16T02:17:10.981799", "level": "INFO", "logger": "app.videoPexel.generate_video_pexel", "message": "Iniciando gera\u00e7\u00e3o do v\u00eddeo"}
+{"timestamp": "2025-05-16T02:17:10.981974", "level": "INFO", "logger": "app.videoPexel.generate_video_pexel", "message": "Formato: desktop"}
+{"timestamp": "2025-05-16T02:17:10.982055", "level": "INFO", "logger": "app.videoPexel.generate_video_pexel", "message": "Tema: Futebol na favela"}
+{"timestamp": "2025-05-16T02:17:10.982525", "level": "INFO", "logger": "app.videoPexel.generate_video_pexel", "message": "N\u00famero de cenas: 6"}
+{"timestamp": "2025-05-16T02:17:10.982650", "level": "INFO", "logger": "app.videoPexel.generate_video_pexel", "message": "Tipo de m\u00fasica (n\u00famero): 2"}
+{"timestamp": "2025-05-16T02:17:10.982844", "level": "INFO", "logger": "app.videoPexel.generate_video_pexel", "message": "Buscar no site: envato"}
+{"timestamp": "2025-05-16T02:17:10.982950", "level": "INFO", "logger": "app.videoPexel.generate_video_pexel", "message": "Estilo musical convertido: electronic"}
+{"timestamp": "2025-05-16T02:20:01.713706", "level": "INFO", "logger": "app.videoPexel.generate_video_pexel", "message": "Iniciando gera\u00e7\u00e3o do v\u00eddeo"}
+{"timestamp": "2025-05-16T02:20:01.713842", "level": "INFO", "logger": "app.videoPexel.generate_video_pexel", "message": "Formato: desktop"}
+{"timestamp": "2025-05-16T02:20:01.713935", "level": "INFO", "logger": "app.videoPexel.generate_video_pexel", "message": "Tema: Futebol na favela"}
+{"timestamp": "2025-05-16T02:20:01.714015", "level": "INFO", "logger": "app.videoPexel.generate_video_pexel", "message": "N\u00famero de cenas: 6"}
+{"timestamp": "2025-05-16T02:20:01.714111", "level": "INFO", "logger": "app.videoPexel.generate_video_pexel", "message": "Tipo de m\u00fasica (n\u00famero): 2"}
+{"timestamp": "2025-05-16T02:20:01.714213", "level": "INFO", "logger": "app.videoPexel.generate_video_pexel", "message": "Buscar no site: envato"}
+{"timestamp": "2025-05-16T02:20:01.714300", "level": "INFO", "logger": "app.videoPexel.generate_video_pexel", "message": "Estilo musical convertido: electronic"}
+{"timestamp": "2025-05-16T02:23:33.582988", "level": "INFO", "logger": "app.videoPexel.generate_video_pexel", "message": "Iniciando gera\u00e7\u00e3o do v\u00eddeo"}
+{"timestamp": "2025-05-16T02:23:33.583128", "level": "INFO", "logger": "app.videoPexel.generate_video_pexel", "message": "Formato: desktop"}
+{"timestamp": "2025-05-16T02:23:33.583213", "level": "INFO", "logger": "app.videoPexel.generate_video_pexel", "message": "Tema: Futebol na favela"}
+{"timestamp": "2025-05-16T02:23:33.583289", "level": "INFO", "logger": "app.videoPexel.generate_video_pexel", "message": "N\u00famero de cenas: 6"}
+{"timestamp": "2025-05-16T02:23:33.583362", "level": "INFO", "logger": "app.videoPexel.generate_video_pexel", "message": "Tipo de m\u00fasica (n\u00famero): 2"}
+{"timestamp": "2025-05-16T02:23:33.583435", "level": "INFO", "logger": "app.videoPexel.generate_video_pexel", "message": "Buscar no site: envato"}
+{"timestamp": "2025-05-16T02:23:33.583528", "level": "INFO", "logger": "app.videoPexel.generate_video_pexel", "message": "Estilo musical convertido: electronic"}
+{"timestamp": "2025-05-16T02:56:27.866799", "level": "INFO", "logger": "app.videoPexel.generate_video_pexel", "message": "Iniciando gera\u00e7\u00e3o do v\u00eddeo"}
+{"timestamp": "2025-05-16T02:56:27.867176", "level": "INFO", "logger": "app.videoPexel.generate_video_pexel", "message": "Formato: desktop"}
+{"timestamp": "2025-05-16T02:56:27.867267", "level": "INFO", "logger": "app.videoPexel.generate_video_pexel", "message": "Tema: Futebol na favela"}
+{"timestamp": "2025-05-16T02:56:27.867350", "level": "INFO", "logger": "app.videoPexel.generate_video_pexel", "message": "N\u00famero de cenas: 6"}
+{"timestamp": "2025-05-16T02:56:27.867470", "level": "INFO", "logger": "app.videoPexel.generate_video_pexel", "message": "Tipo de m\u00fasica (n\u00famero): 2"}
+{"timestamp": "2025-05-16T02:56:27.867611", "level": "INFO", "logger": "app.videoPexel.generate_video_pexel", "message": "Buscar no site: envato"}
+{"timestamp": "2025-05-16T02:56:27.867716", "level": "INFO", "logger": "app.videoPexel.generate_video_pexel", "message": "Estilo musical convertido: electronic"}
+{"timestamp": "2025-05-16T03:14:23.418193", "level": "INFO", "logger": "app.videoPexel.generate_video_pexel", "message": "Iniciando gera\u00e7\u00e3o do v\u00eddeo"}
+{"timestamp": "2025-05-16T03:14:23.420003", "level": "INFO", "logger": "app.videoPexel.generate_video_pexel", "message": "Formato: desktop"}
+{"timestamp": "2025-05-16T03:14:23.420127", "level": "INFO", "logger": "app.videoPexel.generate_video_pexel", "message": "Tema: Futebol na favela"}
+{"timestamp": "2025-05-16T03:14:23.420289", "level": "INFO", "logger": "app.videoPexel.generate_video_pexel", "message": "N\u00famero de cenas: 6"}
+{"timestamp": "2025-05-16T03:14:23.420374", "level": "INFO", "logger": "app.videoPexel.generate_video_pexel", "message": "Tipo de m\u00fasica (n\u00famero): 2"}
+{"timestamp": "2025-05-16T03:14:23.420455", "level": "INFO", "logger": "app.videoPexel.generate_video_pexel", "message": "Buscar no site: envato"}
+{"timestamp": "2025-05-16T03:14:23.420570", "level": "INFO", "logger": "app.videoPexel.generate_video_pexel", "message": "Estilo musical convertido: electronic"}
+{"timestamp": "2025-05-16T03:18:12.806327", "level": "INFO", "logger": "app.videoPexel.generate_video_pexel", "message": "Iniciando gera\u00e7\u00e3o do v\u00eddeo"}
+{"timestamp": "2025-05-16T03:18:12.806514", "level": "INFO", "logger": "app.videoPexel.generate_video_pexel", "message": "Formato: desktop"}
+{"timestamp": "2025-05-16T03:18:12.806784", "level": "INFO", "logger": "app.videoPexel.generate_video_pexel", "message": "Tema: Futebol na favela"}
+{"timestamp": "2025-05-16T03:18:12.807069", "level": "INFO", "logger": "app.videoPexel.generate_video_pexel", "message": "N\u00famero de cenas: 6"}
+{"timestamp": "2025-05-16T03:18:12.807465", "level": "INFO", "logger": "app.videoPexel.generate_video_pexel", "message": "Tipo de m\u00fasica (n\u00famero): 2"}
+{"timestamp": "2025-05-16T03:18:12.807690", "level": "INFO", "logger": "app.videoPexel.generate_video_pexel", "message": "Buscar no site: envato"}
+{"timestamp": "2025-05-16T03:18:12.807919", "level": "INFO", "logger": "app.videoPexel.generate_video_pexel", "message": "Estilo musical convertido: electronic"}
+{"timestamp": "2025-05-16T03:20:17.948021", "level": "INFO", "logger": "app.videoPexel.generate_video_pexel", "message": "Iniciando gera\u00e7\u00e3o do v\u00eddeo"}
+{"timestamp": "2025-05-16T03:20:17.948413", "level": "INFO", "logger": "app.videoPexel.generate_video_pexel", "message": "Formato: desktop"}
+{"timestamp": "2025-05-16T03:20:17.948490", "level": "INFO", "logger": "app.videoPexel.generate_video_pexel", "message": "Tema: Futebol na favela"}
+{"timestamp": "2025-05-16T03:20:17.948561", "level": "INFO", "logger": "app.videoPexel.generate_video_pexel", "message": "N\u00famero de cenas: 6"}
+{"timestamp": "2025-05-16T03:20:17.948668", "level": "INFO", "logger": "app.videoPexel.generate_video_pexel", "message": "Tipo de m\u00fasica (n\u00famero): 2"}
+{"timestamp": "2025-05-16T03:20:17.948751", "level": "INFO", "logger": "app.videoPexel.generate_video_pexel", "message": "Buscar no site: envato"}
+{"timestamp": "2025-05-16T03:20:17.948834", "level": "INFO", "logger": "app.videoPexel.generate_video_pexel", "message": "Estilo musical convertido: electronic"}
+{"timestamp": "2025-05-16T13:58:53.036317", "level": "INFO", "logger": "app.videoPexel.generate_video_pexel", "message": "Iniciando gera\u00e7\u00e3o do v\u00eddeo"}
+{"timestamp": "2025-05-16T13:58:53.038315", "level": "INFO", "logger": "app.videoPexel.generate_video_pexel", "message": "Formato: desktop"}
+{"timestamp": "2025-05-16T13:58:53.038937", "level": "INFO", "logger": "app.videoPexel.generate_video_pexel", "message": "Tema: Amazonas"}
+{"timestamp": "2025-05-16T13:58:53.039523", "level": "INFO", "logger": "app.videoPexel.generate_video_pexel", "message": "N\u00famero de cenas: 6"}
+{"timestamp": "2025-05-16T13:58:53.040081", "level": "INFO", "logger": "app.videoPexel.generate_video_pexel", "message": "Tipo de m\u00fasica (n\u00famero): 2"}
+{"timestamp": "2025-05-16T13:58:53.040644", "level": "INFO", "logger": "app.videoPexel.generate_video_pexel", "message": "Buscar no site: envato"}
+{"timestamp": "2025-05-16T13:58:53.042095", "level": "INFO", "logger": "app.videoPexel.generate_video_pexel", "message": "Estilo musical convertido: electronic"}
+{"timestamp": "2025-05-16T14:08:14.737206", "level": "INFO", "logger": "app.videoPexel.generate_video_pexel", "message": "Iniciando gera\u00e7\u00e3o do v\u00eddeo"}
+{"timestamp": "2025-05-16T14:08:14.737842", "level": "INFO", "logger": "app.videoPexel.generate_video_pexel", "message": "Formato: desktop"}
+{"timestamp": "2025-05-16T14:08:14.738201", "level": "INFO", "logger": "app.videoPexel.generate_video_pexel", "message": "Tema: Amazonas"}
+{"timestamp": "2025-05-16T14:08:14.738326", "level": "INFO", "logger": "app.videoPexel.generate_video_pexel", "message": "N\u00famero de cenas: 6"}
+{"timestamp": "2025-05-16T14:08:14.738437", "level": "INFO", "logger": "app.videoPexel.generate_video_pexel", "message": "Tipo de m\u00fasica (n\u00famero): 2"}
+{"timestamp": "2025-05-16T14:08:14.738555", "level": "INFO", "logger": "app.videoPexel.generate_video_pexel", "message": "Buscar no site: envato"}
+{"timestamp": "2025-05-16T14:08:14.738688", "level": "INFO", "logger": "app.videoPexel.generate_video_pexel", "message": "Estilo musical convertido: electronic"}
+{"timestamp": "2025-05-16T14:12:18.130491", "level": "ERROR", "logger": "app.videoPexel.generate_video_pexel", "message": "Erro ao gerar v\u00eddeo: object NoneType can't be used in 'await' expression", "exception": {"type": "TypeError", "message": "object NoneType can't be used in 'await' expression", "traceback": "Traceback (most recent call last):\n  File \"/home/rafael/Desktop/projetos/yduqs_back/app/videoPexel/generate_video_pexel.py\", line 80, in generate_video\n    bucket_url = await process_videos(\nTypeError: object NoneType can't be used in 'await' expression"}}
+{"timestamp": "2025-05-16T14:32:00.032070", "level": "INFO", "logger": "app.videoPexel.generate_video_pexel", "message": "Iniciando gera\u00e7\u00e3o do v\u00eddeo"}
+{"timestamp": "2025-05-16T14:32:00.032252", "level": "INFO", "logger": "app.videoPexel.generate_video_pexel", "message": "Formato: desktop"}
+{"timestamp": "2025-05-16T14:32:00.032351", "level": "INFO", "logger": "app.videoPexel.generate_video_pexel", "message": "Tema: Amazonas"}
+{"timestamp": "2025-05-16T14:32:00.032433", "level": "INFO", "logger": "app.videoPexel.generate_video_pexel", "message": "N\u00famero de cenas: 6"}
+{"timestamp": "2025-05-16T14:32:00.032513", "level": "INFO", "logger": "app.videoPexel.generate_video_pexel", "message": "Tipo de m\u00fasica (n\u00famero): 2"}
+{"timestamp": "2025-05-16T14:32:00.032607", "level": "INFO", "logger": "app.videoPexel.generate_video_pexel", "message": "Buscar no site: envato"}
+{"timestamp": "2025-05-16T14:32:00.032710", "level": "INFO", "logger": "app.videoPexel.generate_video_pexel", "message": "Estilo musical convertido: electronic"}
+{"timestamp": "2025-05-16T14:35:26.419392", "level": "ERROR", "logger": "app.videoPexel.generate_video_pexel", "message": "Erro ao gerar v\u00eddeo: object NoneType can't be used in 'await' expression", "exception": {"type": "TypeError", "message": "object NoneType can't be used in 'await' expression", "traceback": "Traceback (most recent call last):\n  File \"/home/rafael/Desktop/projetos/yduqs_back/app/videoPexel/generate_video_pexel.py\", line 80, in generate_video\n    bucket_url = await process_videos(\nTypeError: object NoneType can't be used in 'await' expression"}}
+{"timestamp": "2025-05-16T14:40:00.924087", "level": "INFO", "logger": "app.videoPexel.generate_video_pexel", "message": "Iniciando gera\u00e7\u00e3o do v\u00eddeo"}
+{"timestamp": "2025-05-16T14:40:00.924265", "level": "INFO", "logger": "app.videoPexel.generate_video_pexel", "message": "Formato: desktop"}
+{"timestamp": "2025-05-16T14:40:00.924400", "level": "INFO", "logger": "app.videoPexel.generate_video_pexel", "message": "Tema: Amazonas"}
+{"timestamp": "2025-05-16T14:40:00.924494", "level": "INFO", "logger": "app.videoPexel.generate_video_pexel", "message": "N\u00famero de cenas: 6"}
+{"timestamp": "2025-05-16T14:40:00.924583", "level": "INFO", "logger": "app.videoPexel.generate_video_pexel", "message": "Tipo de m\u00fasica (n\u00famero): 2"}
+{"timestamp": "2025-05-16T14:40:00.924669", "level": "INFO", "logger": "app.videoPexel.generate_video_pexel", "message": "Buscar no site: envato"}
+{"timestamp": "2025-05-16T14:40:00.924759", "level": "INFO", "logger": "app.videoPexel.generate_video_pexel", "message": "Estilo musical convertido: electronic"}
+{"timestamp": "2025-05-16T14:43:05.300842", "level": "ERROR", "logger": "app.videoPexel.generate_video_pexel", "message": "Erro ao gerar v\u00eddeo: object NoneType can't be used in 'await' expression", "exception": {"type": "TypeError", "message": "object NoneType can't be used in 'await' expression", "traceback": "Traceback (most recent call last):\n  File \"/home/rafael/Desktop/projetos/yduqs_back/app/videoPexel/generate_video_pexel.py\", line 80, in generate_video\n    bucket_url = await process_videos(\nTypeError: object NoneType can't be used in 'await' expression"}}
+{"timestamp": "2025-05-16T14:48:24.363564", "level": "INFO", "logger": "app.videoPexel.generate_video_pexel", "message": "Iniciando gera\u00e7\u00e3o do v\u00eddeo"}
+{"timestamp": "2025-05-16T14:48:24.363748", "level": "INFO", "logger": "app.videoPexel.generate_video_pexel", "message": "Formato: desktop"}
+{"timestamp": "2025-05-16T14:48:24.363844", "level": "INFO", "logger": "app.videoPexel.generate_video_pexel", "message": "Tema: Amazonas"}
+{"timestamp": "2025-05-16T14:48:24.363933", "level": "INFO", "logger": "app.videoPexel.generate_video_pexel", "message": "N\u00famero de cenas: 6"}
+{"timestamp": "2025-05-16T14:48:24.364022", "level": "INFO", "logger": "app.videoPexel.generate_video_pexel", "message": "Tipo de m\u00fasica (n\u00famero): 2"}
+{"timestamp": "2025-05-16T14:48:24.364131", "level": "INFO", "logger": "app.videoPexel.generate_video_pexel", "message": "Buscar no site: envato"}
+{"timestamp": "2025-05-16T14:48:24.364229", "level": "INFO", "logger": "app.videoPexel.generate_video_pexel", "message": "Estilo musical convertido: electronic"}
+{"timestamp": "2025-05-16T15:01:53.113218", "level": "INFO", "logger": "app.videoPexel.generate_video_pexel", "message": "Iniciando gera\u00e7\u00e3o do v\u00eddeo"}
+{"timestamp": "2025-05-16T15:01:53.113367", "level": "INFO", "logger": "app.videoPexel.generate_video_pexel", "message": "Formato: desktop"}
+{"timestamp": "2025-05-16T15:01:53.113461", "level": "INFO", "logger": "app.videoPexel.generate_video_pexel", "message": "Tema: Amazonas"}
+{"timestamp": "2025-05-16T15:01:53.113547", "level": "INFO", "logger": "app.videoPexel.generate_video_pexel", "message": "N\u00famero de cenas: 6"}
+{"timestamp": "2025-05-16T15:01:53.113660", "level": "INFO", "logger": "app.videoPexel.generate_video_pexel", "message": "Tipo de m\u00fasica (n\u00famero): 2"}
+{"timestamp": "2025-05-16T15:01:53.113752", "level": "INFO", "logger": "app.videoPexel.generate_video_pexel", "message": "Buscar no site: envato"}
+{"timestamp": "2025-05-16T15:01:53.113843", "level": "INFO", "logger": "app.videoPexel.generate_video_pexel", "message": "Estilo musical convertido: electronic"}
+{"timestamp": "2025-05-16T15:03:05.490526", "level": "INFO", "logger": "app.videoPexel.generate_video_pexel", "message": "Iniciando gera\u00e7\u00e3o do v\u00eddeo"}
+{"timestamp": "2025-05-16T15:03:05.490797", "level": "INFO", "logger": "app.videoPexel.generate_video_pexel", "message": "Formato: desktop"}
+{"timestamp": "2025-05-16T15:03:05.490896", "level": "INFO", "logger": "app.videoPexel.generate_video_pexel", "message": "Tema: Amazonas"}
+{"timestamp": "2025-05-16T15:03:05.491013", "level": "INFO", "logger": "app.videoPexel.generate_video_pexel", "message": "N\u00famero de cenas: 6"}
+{"timestamp": "2025-05-16T15:03:05.491109", "level": "INFO", "logger": "app.videoPexel.generate_video_pexel", "message": "Tipo de m\u00fasica (n\u00famero): 2"}
+{"timestamp": "2025-05-16T15:03:05.491197", "level": "INFO", "logger": "app.videoPexel.generate_video_pexel", "message": "Buscar no site: envato"}
+{"timestamp": "2025-05-16T15:03:05.491289", "level": "INFO", "logger": "app.videoPexel.generate_video_pexel", "message": "Estilo musical convertido: electronic"}
+{"timestamp": "2025-05-16T15:04:42.107545", "level": "INFO", "logger": "app.videoPexel.generate_video_pexel", "message": "Iniciando gera\u00e7\u00e3o do v\u00eddeo"}
+{"timestamp": "2025-05-16T15:04:42.107859", "level": "INFO", "logger": "app.videoPexel.generate_video_pexel", "message": "Formato: desktop"}
+{"timestamp": "2025-05-16T15:04:42.108138", "level": "INFO", "logger": "app.videoPexel.generate_video_pexel", "message": "Tema: Amazonas"}
+{"timestamp": "2025-05-16T15:04:42.108355", "level": "INFO", "logger": "app.videoPexel.generate_video_pexel", "message": "N\u00famero de cenas: 6"}
+{"timestamp": "2025-05-16T15:04:42.108593", "level": "INFO", "logger": "app.videoPexel.generate_video_pexel", "message": "Tipo de m\u00fasica (n\u00famero): 2"}
+{"timestamp": "2025-05-16T15:04:42.108802", "level": "INFO", "logger": "app.videoPexel.generate_video_pexel", "message": "Buscar no site: envato"}
+{"timestamp": "2025-05-16T15:04:42.109042", "level": "INFO", "logger": "app.videoPexel.generate_video_pexel", "message": "Estilo musical convertido: electronic"}
+{"timestamp": "2025-05-16T16:06:55.294611", "level": "INFO", "logger": "app.videoPexel.generate_video_pexel", "message": "Iniciando gera\u00e7\u00e3o do v\u00eddeo"}
+{"timestamp": "2025-05-16T16:06:55.294734", "level": "INFO", "logger": "app.videoPexel.generate_video_pexel", "message": "Formato: desktop"}
+{"timestamp": "2025-05-16T16:06:55.294811", "level": "INFO", "logger": "app.videoPexel.generate_video_pexel", "message": "Tema: Amazonas"}
+{"timestamp": "2025-05-16T16:06:55.294884", "level": "INFO", "logger": "app.videoPexel.generate_video_pexel", "message": "N\u00famero de cenas: 6"}
+{"timestamp": "2025-05-16T16:06:55.294957", "level": "INFO", "logger": "app.videoPexel.generate_video_pexel", "message": "Tipo de m\u00fasica (n\u00famero): 2"}
+{"timestamp": "2025-05-16T16:06:55.295030", "level": "INFO", "logger": "app.videoPexel.generate_video_pexel", "message": "Buscar no site: envato"}
+{"timestamp": "2025-05-16T16:06:55.295139", "level": "INFO", "logger": "app.videoPexel.generate_video_pexel", "message": "Estilo musical convertido: electronic"}
+{"timestamp": "2025-05-16T17:00:41.001990", "level": "INFO", "logger": "app.videoPexel.generate_video_pexel", "message": "Iniciando gera\u00e7\u00e3o do v\u00eddeo"}
+{"timestamp": "2025-05-16T17:00:41.002918", "level": "INFO", "logger": "app.videoPexel.generate_video_pexel", "message": "Formato: desktop"}
+{"timestamp": "2025-05-16T17:00:41.003231", "level": "INFO", "logger": "app.videoPexel.generate_video_pexel", "message": "Tema: Amazonas"}
+{"timestamp": "2025-05-16T17:00:41.003435", "level": "INFO", "logger": "app.videoPexel.generate_video_pexel", "message": "N\u00famero de cenas: 6"}
+{"timestamp": "2025-05-16T17:00:41.005726", "level": "INFO", "logger": "app.videoPexel.generate_video_pexel", "message": "Tipo de m\u00fasica (n\u00famero): 2"}
+{"timestamp": "2025-05-16T17:00:41.006118", "level": "INFO", "logger": "app.videoPexel.generate_video_pexel", "message": "Buscar no site: envato"}
+{"timestamp": "2025-05-16T17:00:41.006383", "level": "INFO", "logger": "app.videoPexel.generate_video_pexel", "message": "Estilo musical convertido: electronic"}
+{"timestamp": "2025-05-16T17:22:12.334908", "level": "INFO", "logger": "app.videoPexel.generate_video_pexel", "message": "Iniciando gera\u00e7\u00e3o do v\u00eddeo"}
+{"timestamp": "2025-05-16T17:22:12.335268", "level": "INFO", "logger": "app.videoPexel.generate_video_pexel", "message": "Formato: desktop"}
+{"timestamp": "2025-05-16T17:22:12.335743", "level": "INFO", "logger": "app.videoPexel.generate_video_pexel", "message": "Tema: Amazonas"}
+{"timestamp": "2025-05-16T17:22:12.336010", "level": "INFO", "logger": "app.videoPexel.generate_video_pexel", "message": "N\u00famero de cenas: 6"}
+{"timestamp": "2025-05-16T17:22:12.336225", "level": "INFO", "logger": "app.videoPexel.generate_video_pexel", "message": "Tipo de m\u00fasica (n\u00famero): 2"}
+{"timestamp": "2025-05-16T17:22:12.336500", "level": "INFO", "logger": "app.videoPexel.generate_video_pexel", "message": "Buscar no site: envato"}
+{"timestamp": "2025-05-16T17:22:12.336717", "level": "INFO", "logger": "app.videoPexel.generate_video_pexel", "message": "Estilo musical convertido: electronic"}
+{"timestamp": "2025-05-16T17:39:52.695723", "level": "INFO", "logger": "app.videoPexel.generate_video_pexel", "message": "Iniciando gera\u00e7\u00e3o do v\u00eddeo"}
+{"timestamp": "2025-05-16T17:39:52.698166", "level": "INFO", "logger": "app.videoPexel.generate_video_pexel", "message": "Formato: desktop"}
+{"timestamp": "2025-05-16T17:39:52.698428", "level": "INFO", "logger": "app.videoPexel.generate_video_pexel", "message": "Tema: Amazonas"}
+{"timestamp": "2025-05-16T17:39:52.698684", "level": "INFO", "logger": "app.videoPexel.generate_video_pexel", "message": "N\u00famero de cenas: 6"}
+{"timestamp": "2025-05-16T17:39:52.698903", "level": "INFO", "logger": "app.videoPexel.generate_video_pexel", "message": "Tipo de m\u00fasica (n\u00famero): 2"}
+{"timestamp": "2025-05-16T17:39:52.699147", "level": "INFO", "logger": "app.videoPexel.generate_video_pexel", "message": "Buscar no site: envato"}
+{"timestamp": "2025-05-16T17:39:52.699371", "level": "INFO", "logger": "app.videoPexel.generate_video_pexel", "message": "Estilo musical convertido: electronic"}

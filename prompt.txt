@@ -1,0 +1,465 @@
+
+            
+            *** Objetivos da Aula:
+
+            Criar uma vídeoaula , utilizando até 7 slides (7 cenas).
+            Reescreva de uma forma dialogica, utilizando uma linguagem mais simples.
+            Utilizar o HeyGen para o processamento do vídeo, empregando variáveis.
+            
+            Formato da Resposta:
+                    
+            *** Roteiro formatado em JSON.
+            Variáveis: Utilizar titulo, subtitulo, topico, descricao, urlImg e decricaoImagem.
+            Estrutura elementos_visuais: Arrays contendo objetos com texto (para título e subtítulo) e, quando aplicável, imagem (com urlImg e decricaoImagem).
+            As frases de momentoChave das imagens devem corresponder exatamente ao que é dito no script sem ponto final.
+            O momentoChave obrigatoriamente precisa estar no script com as mesmas palavras.
+            Na última cena, apresentar um resumo da aula e realizar a despedida.
+            Não escrever frases que se referencie a vídeo. Exemplo: "acompanhe uma explicação em vídeo", "observe o vídeo a seguir", "no vídeo a seguir".
+
+            Instruções Detalhadas:
+
+            *** Palavras-chave/Frases:
+                REQUISITOS OBRIGATÓRIOS:
+                1. Quantidade e Qualidade:
+                    - 10-15 palavras-chave por cena (mais focadas e relevantes)
+                    - Cada palavra-chave deve representar um conceito completo
+                    - Priorizar conceitos técnicos e definições importantes
+                    - Evitar frases incompletas ou sem contexto claro
+                
+                2. Critérios de Seleção:
+                    - Conceitos fundamentais do tema
+                    - Definições técnicas importantes
+                    - Exemplos práticos significativos
+                    - Relações de causa e efeito claras
+                    - Conclusões relevantes
+                    - Analogias completas e bem estruturadas
+                
+                3. Estrutura das Palavras-chave:
+                    - Deve formar uma frase completa e significativa
+                    - Deve transmitir um conceito claro quando lida isoladamente
+                    - Deve ter entre 1 e 3 palavras
+                    - Deve manter coerência com o contexto da cena
+                
+                4. Exemplos de Boas Palavras-chave:
+                    - "computador"
+                    - "programadores transformam necessidades"
+                    - "soluções complexas"
+                    - "Algoritmos"
+                
+                5. Exemplos de Palavras-chave a Evitar:
+                    - Frases incompletas ("lê o problema e Peraí")
+                    - Conceitos vagos ("surge a dúvida")
+                    - Frases sem contexto ("mas e se o carro")
+                    - Expressões genéricas ("pense num motorista")
+                
+                6. Validação das Palavras-chave:
+                    - A frase deve existir no script
+                    - Deve transmitir um conceito completo
+                    - Deve fazer sentido quando lida isoladamente
+                    - Deve contribuir para o entendimento do tema
+
+                PROCESSO DE SELEÇÃO:
+                1. Identificar os conceitos principais da cena
+                2. Selecionar as definições técnicas importantes
+                3. Capturar exemplos práticos completos
+                4. Incluir relações causais relevantes
+                5. Adicionar conclusões significativas
+
+            *** Variáveis e Descrições:
+            Utilizar as variáveis titulo, subtitulo, topico, descricao para palavras-chave e descrições textuais.
+            Usar urlImg para indicar o link da imagem e decricaoImagem para descrevê-la.
+
+            *** Profundidade do Roteiro:
+            Elaborar um roteiro aprofundado, com informações detalhadas sobre o assunto de cada tópico/trecho.
+            Garantir a coerência entre a duração do vídeo e a quantidade de conteúdo abordado.
+
+            *** Imagens:
+                REQUISITOS OBRIGATÓRIOS:
+                1. Quantidade e Distribuição:
+                    - Usar todas as imagens fornecidas no texto original
+                    - Criar 5-6 imagens adicionais para enriquecer o conteúdo
+                    - Distribuir as imagens uniformemente entre as cenas
+                    - Máximo de 2 imagens por cena
+                
+                2. Formato do momentoChave:
+                    - Deve ter entre 5 e 10 palavras
+                    - DEVE ser uma frase EXATA do script
+                    - Não pode estar no início ou fim do script
+                    - Deve aparecer no mesmo contexto da imagem
+                    - Não usar pontuação final
+                
+                3. Validação do momentoChave:
+                    - Copiar e colar a frase diretamente do script
+                    - Verificar se a frase existe ipsis litteris no script
+                    - Garantir que a frase faça sentido isoladamente
+                    - Confirmar que a frase representa o contexto da imagem
+                
+                4. Descrições de Imagem:
+                    - decricaoImagem: 2-3 palavras em português
+                    - descricaoBuscaEnvato: 10-15 palavras em inglês
+                    - Descrições devem ser claras e específicas
+                    - Evitar termos genéricos como "Imagem" ou "Foto"
+                
+                5. URLs e Referências:
+                    - Usar formato urlImg para todas as imagens
+                    - URLs devem ser válidas e acessíveis
+                    - Manter consistência no formato das URLs
+                    - Inserir no array de imagens, urlImg, momentoChave e a descricaoBuscaEnvato
+                
+                6. Proibições:
+                    - NÃO usar momentoChave que não exista no script
+                    - NÃO repetir o mesmo momentoChave
+                    - NÃO usar frases genéricas
+                    - NÃO usar momentoChave da introdução ou conclusão
+                    - NÃO usar apenas palavras soltas como momentoChave
+
+                PROCESSO DE SELEÇÃO DO MOMENTO CHAVE:
+                1. Localizar o trecho do script onde a imagem será usada
+                2. Identificar frases completas que representem o contexto
+                3. Selecionar uma frase que tenha entre 5 e 10 palavras
+                4. Copiar exatamente como está no script
+                5. Validar se a frase faz sentido isoladamente
+                
+                DICAS PARA BOAS DESCRIÇÕES:
+                - Ser específico sobre o conteúdo da imagem
+                - Incluir elementos visuais importantes
+                - Descrever o contexto da imagem
+                - Usar terminologia apropriada
+                - Manter consistência nas descrições
+
+            *** Array de Imagens:
+                REQUISITOS OBRIGATÓRIOS:
+                1. Estrutura:
+                    - Criar array "imagens" no nível raiz do JSON
+                    - Cada imagem deve ter urlImg, momentoChave e descricaoBuscaEnvato
+                    - Array deve conter todas as imagens do roteiro
+                    - Garantir que cada imagem tenha momentoChave do script
+                
+                2. Conteúdo:
+                    - Incluir TODAS as imagens mencionadas nas cenas
+                    - Adicionar imagens do texto original
+                    - Incluir imagens adicionais criadas
+                    - Garantir que cada imagem tenha momentoChave do script
+                
+                3. Validação:
+                    - Verificar correspondência com elementos_visuais das cenas
+                    - Confirmar que todas as URLs estão no array
+                    - Garantir que todos os momentoChave existem no script
+                    - Validar descrições em inglês para Envato
+                
+                4. Organização:
+                    - Listar imagens na ordem de aparição no roteiro
+                    - Não duplicar imagens no array
+                    - Manter consistência com as cenas
+                    - Incluir todas as imagens antes das cenas
+
+                IMPORTANTE: O array de imagens é OBRIGATÓRIO e deve ser incluído antes das cenas no JSON final.
+
+            *** Vídeos:
+            Não teremos vídeos.
+            Quando aparecer um vídeo, não escrever falas referente a vídeo.
+            Não escrever frases que se referencia a um vídeo. "acompanhe uma explicação em vídeo", "observe o vídeo a seguir", "Imagine um vídeo".
+
+            *** Codigos:
+            Quando receber um coigo (principais.code-snippet), escreva detalhadamente o codigo.
+
+            *** Formulas:
+            Quando receber uma formula (principais.tipografia), escreva detalhadamente a formula.
+            Escreva a formula no array de formulas.
+
+            *** Elementos Visuais:
+            Cada cena/slide deve incluir um array elementos_visuais.
+            Este array conterá objetos com texto (composto pelo titulo e subtitulo), e, se aplicável, objetos com imagem (com urlImg e decricaoImagem).
+            Não abordar elementos HTML, CSS ou qualquer outro tema que não seja o conteúdo da aula.
+
+            *** Última Cena:
+            A última cena deve conter um breve resumo do conteúdo apresentado na aula.
+            A despedida deve ocorrer somente na última frase.
+
+            Formato JSON:
+            Seguir a estrutura definida no schema fornecido para criar o JSON da resposta.
+            Saída JSON: Retornar apenas a string do JSON, em formato puro (sem formatação, código ou instruções adicionais).
+                
+
+            **Entrada:**
+                
+Informações para o Roteiro: Equilibre o uso do objeto Parágrafo ao longo do tema, evitando blocos muito grandes de texto.
+
+ Texto:
+A relação entre homem e máquina é complexa e está em constante evolução, influenciada por avanços tecnológicos, questões sociais e éticas, e a maneira como projetamos, desenvolvemos e usamos tecnologias digitais em nossas vidas. Essa área estuda como as pessoas interagem com os sistemas computacionais e como projetar esses sistemas de forma que sejam eficientes e satisfatórios para os usuários. A relação entre homem e máquina é um tema amplo e multifacetado, abrangendo diversas áreas, desde a interação humano-computador até a ética e o impacto social das tecnologias digitais.
+
+
+Informações para o Roteiro: Equilibre o uso do objeto Parágrafo ao longo do tema, evitando blocos muito grandes de texto.
+
+ Texto:
+Vídeo sobre a relação complexa do homem com a máquina, e a sua evolução com os avanços tecnológicos.
+
+
+Informações para o Roteiro: exemplo video
+
+ Texto:
+URL do Video: https://play.yduqs.videolib.live/index.html?token=92d92452d9aa47bbad9e4940fb7c99db
+
+
+Informações para o Roteiro: Equilibre o uso do objeto Parágrafo ao longo do tema, evitando blocos muito grandes de texto.
+
+ Texto:
+E a inteligência artificial? E os robôs que podem ter sentimentos? Em todos esses casos, a equação fundamental se mantém.
+
+
+Informações para o Roteiro: De uma ênfase maior no texto.
+
+ Texto:
+Conteúdo do Destaque: O computador possui a capacidade de fazer as ações sobre sequenciamento lógico definido, com um conjunto de variações e velocidades elevadas, conforme são ampliadas as capacidades de armazenamento e processamento. Por outro lado, se os comandos não forem estabelecidos, se os parâmetros não estiverem dispostos e estruturados, a máquina chega a um limite.
+
+
+Informações para o Roteiro: Equilibre o uso do objeto Parágrafo ao longo do tema, evitando blocos muito grandes de texto.
+
+ Texto:
+Um dos principais movimentos intelectuais trabalhados pelos gregos foi perceber que, no mundo, existe uma parte física, calculável, com possibilidades amplas, e que, sem essa percepção, não é possível entendê-la — trata-se do mundo físico. Também temos outra parte, que, embora seja proveniente das representações físicas do mundo, não depende delas para a construção dos sujeitos. 
+
+
+Informações para o Roteiro: Gere descrições de imagens claras, objetivas e espontâneas, com analogias, estilo visual consistente e precedidas por introdução do assunto
+
+ Texto:
+Texto do Pattern Imagem: <p class="c-paragraph u-title--medium mt-0">                                            Estamos falando especificamente da metafísica, a construção de percepções mentais que olham pela lógica, pela                                            argumentação, pelo estudo, pela dialogia, pela capacidade mental de o sujeito alcançar o entendimento universal. Essa                                            parte não tem limites; suas representações são infinitas.                                        </p>
+Legenda do Pattern Imagem: 
+URL da Imagem do Pattern: https://cdn-conteudo.ensineme.com.br/00023_img03_99f987b7b7.jpg
+
+
+Informações para o Roteiro: Equilibre o uso do objeto Parágrafo ao longo do tema, evitando blocos muito grandes de texto.
+
+ Texto:
+Uma velha alegoria de Platão ajuda a explicar isso. Trata-se da alegoria da caverna, em que é mostrado que todos nós vivemos em um mundo limitado, físico, de pedra, com as representações nas paredes iluminadas por um fogo contínuo atrás de nós. Quando libertos, o que encontramos é um mundo infinito, perfeito, é o mundo do pensamento, da abstração. Nossa capacidade de abstração e de pensar é infinita, mas nossa capacidade de materializar o que foi pensado é limitada. Esse é um dos sentidos da alegoria. Buscamos ser mais eficientes, mais próximos das múltiplas possibilidades de nossa mente. 
+
+
+Informações para o Roteiro: Equilibre o uso do objeto Parágrafo ao longo do tema, evitando blocos muito grandes de texto.
+
+ Texto:
+ O mundo perfeito, infinito, com possibilidades de construir e destruir, infelizmente, não mora em uma máquina, mas na capacidade humana. A máquina, o computador, é só mais um aprimoramento de nossos usos e nossas ferramentas, ainda que aprisionados, limitados, mas tentando e buscando ir mais longe. 
+
+
+Informações para o Roteiro: Use subtítulos para organizar o conteúdo, mas evite-os em textos curtos, quando outro objeto for mais adequado ou para intitular núcleos conceituais; limite de 83 caracteres.
+
+ Texto:
+A alegoria da caverna
+
+
+Informações para o Roteiro: Equilibre o uso do objeto Parágrafo ao longo do tema, evitando blocos muito grandes de texto.
+
+ Texto:
+ Veja uma explicação sobre a alegoria da cavena e entenda como o filme <em>Eu, robô</em> muda a nossa percepção de entendimento de computador x humano. 
+
+
+Informações para o Roteiro: exemplo video
+
+ Texto:
+URL do Video: https://play.yduqs.videolib.live/index.html?token=8023f2a56f7f4614a5b46ae10e3e706f
+
+
+Informações para o Roteiro: Equilibre o uso do objeto Parágrafo ao longo do tema, evitando blocos muito grandes de texto.
+
+ Texto:
+Agora ficou claro? Vejamos mais um caso. Enfrentar uma máquina em um jogo de xadrez era uma das maiores diversões do século XX. Durante muito tempo, os grandes nomes do xadrez foram os vencedores, mas, lenta e continuamente, o desempenho das máquinas foi melhorando, e os jornais proclamavam: ”Máquina vence o homem!”. 
+
+
+Informações para o Roteiro: Equilibre o uso do objeto Parágrafo ao longo do tema, evitando blocos muito grandes de texto.
+
+ Texto:
+ Será mesmo? Claro que não! Essa disputa nunca foi entre a máquina e o homem, mas sim entre o programador e o xadrezista. 
+
+
+Informações para o Roteiro: exemplo grupo imagem
+
+ Texto:
+Imagem:
+URL da Imagem: https://cdn-conteudo.ensineme.com.br/00023_img04_a2e69a70bd.jpg
+
+
+Informações para o Roteiro: Equilibre o uso do objeto Parágrafo ao longo do tema, evitando blocos muito grandes de texto.
+
+ Texto:
+Enquanto as máquinas não receberam todas as informações para neutralizar, calcular as probabilidades e dar o melhor resultado, o programador perdeu. Porém, quando a capacidade de processar, arquivar e perceber os melhores algoritmos foi atingida, quando a máquina caminhou o bastante para dar respostas no tempo esperado, tivemos a impressão de que a máquina venceu o homem. Entretanto, tudo o que ela fez foi executar aquilo que o programador pediu, só que com uma capacidade que o homem, de forma direta, jamais conseguiria.
+
+
+
+            **Schema JSON:**
+            {
+  "type": "object",
+  "properties": {
+    "titulo": {
+      "type": "string",
+      "description": "O t\u00edtulo do v\u00eddeo"
+    },
+    "subtitulo": {
+      "type": "string",
+      "description": "Descri\u00e7\u00e3o do v\u00eddeo"
+    },
+    "imagens": {
+      "type": "array",
+      "items": {
+        "type": "object",
+        "properties": {
+          "urlImg": {
+            "type": "string",
+            "description": "Conte\u00fado do elemento visual (URL da imagem)"
+          },
+          "momentoChave": {
+            "type": "string",
+            "description": "DEVE ser uma frase EXATA do script"
+          },
+          "descricaoBuscaEnvato": {
+            "type": "string",
+            "description": "Texto correspondente a descri\u00e7\u00e3o da imagem at\u00e9 15 palavras em ingl\u00eas"
+          }
+        }
+      }
+    },
+    "codigo": {
+      "type": "array",
+      "items": {
+        "type": "object",
+        "properties": {
+          "code-snippet": {
+            "type": "string",
+            "description": "Texto igual como foi recebido no JSON"
+          },
+          "momentoChaveCodigo": {
+            "type": "string",
+            "description": "Texto completo referente ao code-snippet."
+          },
+          "fimMomentoChaveCodigo": {
+            "type": "string",
+            "description": "final do Texto referente ao code-snippet."
+          }
+        }
+      }
+    },
+    "formulas": {
+      "type": "array",
+      "items": {
+        "type": "object",
+        "properties": {
+          "formula": {
+            "type": "string",
+            "description": "Texto igual como foi recebido no JSON"
+          },
+          "momentoChaveFormula": {
+            "type": "string",
+            "description": "Texto completo referente a formula."
+          },
+          "fimMomentoChaveFormula": {
+            "type": "string",
+            "description": "final do Texto referente a formula."
+          }
+        }
+      }
+    },
+    "cenas": {
+      "type": "array",
+      "items": {
+        "type": "object",
+        "properties": {
+          "cena": {
+            "type": "integer",
+            "description": "N\u00famero da cena"
+          },
+          "tempo": {
+            "type": "string",
+            "description": "Tempo da cena no v\u00eddeo (ex: 0:00-1:00)"
+          },
+          "script": {
+            "type": "string",
+            "description": "Narra\u00e7\u00e3o da cena"
+          },
+          "elementos_visuais": {
+            "type": "array",
+            "items": {
+              "type": "object",
+              "properties": {
+                "tipo": {
+                  "type": "string",
+                  "description": "Tipo do elemento visual (texto, imagem)"
+                },
+                "titulo": {
+                  "type": "string",
+                  "description": "Titulo sobre o texto que esta sendo falado na cena "
+                },
+                "subtitulo": {
+                  "type": "string",
+                  "description": "Breve descri\u00e7\u00e3o sobre o texto que esta sendo falado na cena (at\u00e9 20 palavras)"
+                },
+                "breveDescricao": {
+                  "type": "string",
+                  "description": "Breve resumo do que esta sendo falado no script, com ate 60 palavras"
+                },
+                "topico_1": {
+                  "type": "string",
+                  "description": "Breve descri\u00e7\u00e3o sobre o topico que esta sendo falado (at\u00e9 20 palavras)"
+                },
+                "topico_2": {
+                  "type": "string",
+                  "description": "Breve descri\u00e7\u00e3o sobre o topico que esta sendo falado (at\u00e9 20 palavras)"
+                },
+                "topico_3": {
+                  "type": "string",
+                  "description": "Breve descri\u00e7\u00e3o sobre o topico que esta sendo falado (at\u00e9 20 palavras)"
+                },
+                "topico_4": {
+                  "type": "string",
+                  "description": "Breve descri\u00e7\u00e3o sobre o topico que esta sendo falado (at\u00e9 20 palavras)"
+                },
+                "urlImg": {
+                  "type": "string",
+                  "description": "Conte\u00fado do elemento visual (URL da imagem)"
+                },
+                "decricaoImagem": {
+                  "type": "string",
+                  "description": "Conte\u00fado do elemento visual (texto ou URL da imagem at\u00e9 3 palavras)"
+                },
+                "descricaoBuscaEnvato": {
+                  "type": "string",
+                  "description": "Texto correspondente a descri\u00e7\u00e3o da imagem at\u00e9 15 palavras"
+                },
+                "estilo": {
+                  "type": "string",
+                  "description": "Estilo do elemento visual"
+                }
+              },
+              "required": [
+                "tipo",
+                "variavel",
+                "conteudo",
+                "estilo"
+              ]
+            },
+            "description": "Elementos visuais da cena"
+          },
+          "palavras_chave": {
+            "type": "array",
+            "items": {
+              "type": "string"
+            },
+            "description": "Palavras-chave de 10 a 15 palavras na cena (podendo ser uma, duas ou tres palavras), devem ser palavras que est\u00e3o no script da cena."
+          }
+        },
+        "required": [
+          "cena",
+          "tempo",
+          "narracao",
+          "elementos_visuais",
+          "palavras_chave"
+        ]
+      },
+      "description": "Lista de cenas do v\u00eddeo"
+    }
+  },
+  "required": [
+    "titulo",
+    "cenas"
+  ]
+}
+
+            Ao final do json, verifque se todos os momentosChaves estão no script de narração. se não estiver, refaça o momento chave.
+
+    

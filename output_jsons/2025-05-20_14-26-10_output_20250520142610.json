@@ -1,0 +1,241 @@
+{
+    "titulo": "Desvendando a Estrutura Organizacional em Projetos",
+    "subtitulo": "Entenda como a organização de uma empresa impacta o sucesso dos seus projetos.",
+    "imagens": [
+        {
+            "urlImg": "https://conteudo-scientia-prd.s3.amazonaws.com/00908_10_ab484cad89.jpg",
+            "momentoChave": "empresa se organiza de forma que melhor propicie",
+            "descricaoBuscaEnvato": "Diverse business team collaborating in modern office, meeting, discussion, teamwork, strategy planning"
+        },
+        {
+            "urlImg": "https://images.pexels.com/photos/3184398/pexels-photo-3184398.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+            "momentoChave": "estrutura organizacional formal se estrutura de forma hierárquica",
+            "descricaoBuscaEnvato": "Abstract depiction contrasting organized hierarchy chart with a more fluid, interconnected informal network."
+        },
+        {
+            "urlImg": "https://images.pexels.com/photos/7688160/pexels-photo-7688160.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+            "momentoChave": "amplitude administrativa Já ouviu falar disso",
+            "descricaoBuscaEnvato": "Illustration of manager overseeing a team, representing span of control and administrative breadth in leadership."
+        },
+        {
+            "urlImg": "https://images.pexels.com/photos/3184465/pexels-photo-3184465.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+            "momentoChave": "poucos subordinados permite centralizar o que dá mais controle",
+            "descricaoBuscaEnvato": "Business executive at a desk making a decision, symbolizing centralized decision-making process and organizational control."
+        },
+        {
+            "urlImg": "https://images.pexels.com/photos/5668858/pexels-photo-5668858.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+            "momentoChave": "organograma é uma ferramenta gráfica um desenho que representa",
+            "descricaoBuscaEnvato": "Clear and simple organizational chart on a digital screen, visually showing company hierarchy and connections."
+        },
+        {
+            "urlImg": "https://images.pexels.com/photos/1181345/pexels-photo-1181345.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+            "momentoChave": "estrutura de uma organização se torna única considerando suas variáveis",
+            "descricaoBuscaEnvato": "Puzzle pieces fitting together illustrating a company structure, unique variables, adapting to business environment factors."
+        },
+        {
+            "urlImg": "https://images.pexels.com/photos/3760067/pexels-photo-3760067.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+            "momentoChave": "organograma é o desenho dessa estrutura",
+            "descricaoBuscaEnvato": "Infographic mind map summarizing key concepts of organizational structure, effective learning and education visual theme."
+        }
+    ],
+    "codigo": [],
+    "formulas": [],
+    "cenas": [
+        {
+            "cena": 1,
+            "tempo": "0:00-0:30",
+            "script": "Olá! Já parou para pensar como as empresas se arrumam por dentro para tudo funcionar direitinho? Isso tem nome: estrutura organizacional. E ela é super importante, especialmente quando falamos de projetos. Basicamente, uma empresa se organiza de forma que melhor propicie o alcance de suas metas. Pense nisso como o esqueleto da empresa, definindo quem faz o quê e como as coisas se conectam. Essa organização ajuda a empresa a atingir o que definiu como missão, visão e valores. Vamos entender juntos como isso funciona?",
+            "elementos_visuais": [
+                {
+                    "titulo": "O Que É Estrutura Organizacional?",
+                    "subtitulo": "Como as empresas se organizam para o sucesso.",
+                    "breveDescricao": "Introdução à estrutura organizacional, sua importância em projetos e como ajuda empresas a atingir metas, missão, visão e valores. É o 'esqueleto' que define papéis e conexões.",
+                    "urlImg": "https://conteudo-scientia-prd.s3.amazonaws.com/00908_10_ab484cad89.jpg",
+                    "decricaoImagem": "Equipe colaborando"
+                }
+            ],
+            "palavras_chave": [
+                "estrutura organizacional",
+                "projetos",
+                "empresa se organiza",
+                "alcance de metas",
+                "esqueleto da empresa",
+                "missão",
+                "visão",
+                "valores",
+                "organização interna",
+                "funcionamento",
+                "conexões internas",
+                "definição de papéis"
+            ]
+        },
+        {
+            "cena": 2,
+            "tempo": "0:30-1:00",
+            "script": "Existem dois jeitos principais de uma empresa se organizar. A primeira é a estrutura informal, aquela que surge naturalmente, sabe? Pelas amizades e pela forma como as pessoas trabalham juntas no dia a dia. Já a estrutura formal é mais planejada, com uma hierarquia clara. Ela pode ser organizada por função, onde cada departamento tem sua especialidade, por projetos, com equipes montadas para tarefas específicas, ou até por unidade de negócios, como se fossem miniempresas dentro de uma maior. A estrutura organizacional formal se estrutura de forma hierárquica.",
+            "elementos_visuais": [
+                {
+                    "titulo": "Estrutura Formal vs. Informal",
+                    "subtitulo": "Os dois jeitos de uma empresa se organizar.",
+                    "breveDescricao": "Exploração dos tipos de organização: informal (natural, convivência) e formal (planejada, hierárquica). A formal pode ser por função, projetos ou unidades de negócio.",
+                    "urlImg": "https://images.pexels.com/photos/3184398/pexels-photo-3184398.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+                    "decricaoImagem": "Estruturas formais"
+                }
+            ],
+            "palavras_chave": [
+                "estrutura informal",
+                "estrutura formal",
+                "hierarquia clara",
+                "por função",
+                "por projetos",
+                "unidade negócios",
+                "surge naturalmente",
+                "pessoas trabalham",
+                "dia a dia",
+                "forma planejada",
+                "departamento especialidade",
+                "equipes específicas"
+            ]
+        },
+        {
+            "cena": 3,
+            "tempo": "1:00-1:35",
+            "script": "Para montar essa estrutura formal, alguns componentes são chave. O primeiro é a cadeia de comando. Ela define quem manda em quem, ou seja, a autoridade. Essa autoridade pode ser linear, tipo chefe e subordinado direto, ou funcional, quando um especialista orienta tecnicamente. Depois, temos a amplitude administrativa. Já ouviu falar disso? Isso quer dizer quantos subordinados um gerente consegue acompanhar. Se for muita gente, a amplitude é larga e é preciso descentralizar, dando mais autonomia. Isso motiva, mas o controle fica um pouco mais difícil.",
+            "elementos_visuais": [
+                {
+                    "titulo": "Componentes da Estrutura: Comando e Amplitude",
+                    "subtitulo": "Quem manda e quantos são gerenciados.",
+                    "breveDescricao": "Detalhamento dos componentes da estrutura formal: cadeia de comando (autoridade linear/funcional) e amplitude administrativa (número de subordinados, impacto na centralização/descentralização e motivação).",
+                    "urlImg": "https://images.pexels.com/photos/7688160/pexels-photo-7688160.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+                    "decricaoImagem": "Liderança equipe"
+                }
+            ],
+            "palavras_chave": [
+                "componentes chave",
+                "cadeia de comando",
+                "autoridade",
+                "autoridade linear",
+                "autoridade funcional",
+                "amplitude administrativa",
+                "número subordinados",
+                "gerente acompanha",
+                "amplitude larga",
+                "descentralizar",
+                "mais autonomia",
+                "controle difícil"
+            ]
+        },
+        {
+            "cena": 4,
+            "tempo": "1:35-2:10",
+            "script": "Continuando com os componentes, temos a tomada de decisão. Isso define onde as decisões importantes acontecem: se é lá no topo, de forma centralizada, ou se é espalhada por vários níveis, de forma descentralizada. Outro ponto é o tamanho da especialização. Aqui, a gente pensa em quão divididas e padronizadas são as tarefas. Quanto mais especialista alguém é, mais focada e, às vezes, repetitiva pode ser sua função. Uma amplitude estreita, com poucos subordinados permite centralizar o que dá mais controle.",
+            "elementos_visuais": [
+                {
+                    "titulo": "Componentes: Decisão e Especialização",
+                    "subtitulo": "Onde se decide e como as tarefas são divididas.",
+                    "breveDescricao": "Continuação dos componentes: tomada de decisão (centralizada ou descentralizada) e tamanho da especialização (divisão e padronização de tarefas, impacto da amplitude estreita no controle).",
+                    "urlImg": "https://images.pexels.com/photos/3184465/pexels-photo-3184465.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+                    "decricaoImagem": "Decisão estratégica"
+                }
+            ],
+            "palavras_chave": [
+                "tomada de decisão",
+                "decisões importantes",
+                "forma centralizada",
+                "forma descentralizada",
+                "vários níveis",
+                "tamanho especialização",
+                "tarefas divididas",
+                "tarefas padronizadas",
+                "amplitude estreita",
+                "mais controle",
+                "função focada",
+                "poucos subordinados"
+            ]
+        },
+        {
+            "cena": 5,
+            "tempo": "2:10-2:45",
+            "script": "Temos também a formalização, que são as regras e os procedimentos que a empresa decide seguir. É como o manual de instruções da organização. E a departamentalização, que é como as atividades são agrupadas, geralmente por especialidade, tipo departamento financeiro, de marketing, etc. Agora, não confunda estrutura organizacional com organograma! A estrutura organizacional é como a empresa se divide para gerir suas atividades. Já o organograma é uma ferramenta gráfica um desenho que representa essa estrutura. Ele ajuda a visualizar a hierarquia.",
+            "elementos_visuais": [
+                {
+                    "titulo": "Componentes Finais e o Organograma",
+                    "subtitulo": "Regras, agrupamentos e a representação visual.",
+                    "breveDescricao": "Apresentação da formalização (regras/procedimentos) e departamentalização (agrupamento por especialidade). Diferenciação entre estrutura organizacional (divisão para gerir atividades) e organograma (representação gráfica da estrutura).",
+                    "urlImg": "https://images.pexels.com/photos/5668858/pexels-photo-5668858.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+                    "decricaoImagem": "Organograma exemplo"
+                }
+            ],
+            "palavras_chave": [
+                "formalização",
+                "regras",
+                "procedimentos",
+                "manual instruções",
+                "departamentalização",
+                "atividades agrupadas",
+                "por especialidade",
+                "estrutura organizacional",
+                "organograma",
+                "ferramenta gráfica",
+                "representa estrutura",
+                "visualizar hierarquia"
+            ]
+        },
+        {
+            "cena": 6,
+            "tempo": "2:45-3:20",
+            "script": "Mas olha, não adianta só definir tudo isso no papel. É crucial que essa estrutura seja conhecida por todos na empresa. Assim, cada um sabe seu papel e suas responsabilidades, o que melhora muito a comunicação. A estrutura de uma organização se torna única considerando suas variáveis. Pense em fatores como o alinhamento com os objetivos, a capacidade de delegar tarefas, a clareza nas responsabilidades, e até os locais físicos da empresa. Tudo isso influencia! Segundo o Guia PMBOK, não existe uma estrutura única que sirva para qualquer organização.",
+            "elementos_visuais": [
+                {
+                    "titulo": "A Singularidade da Estrutura e Sua Comunicação",
+                    "subtitulo": "Cada empresa é um caso, e todos precisam saber.",
+                    "breveDescricao": "Importância de comunicar a estrutura a todos. Cada organização tem uma estrutura única, influenciada por variáveis como objetivos, delegação e comunicação. O Guia PMBOK frisa que não há modelo universal.",
+                    "urlImg": "https://images.pexels.com/photos/1181345/pexels-photo-1181345.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+                    "decricaoImagem": "Peças estrutura"
+                }
+            ],
+            "palavras_chave": [
+                "propagado na empresa",
+                "papel responsabilidades",
+                "melhora comunicação",
+                "estrutura única",
+                "considerando variáveis",
+                "alinhamento objetivos",
+                "delegar tarefas",
+                "Guia PMBOK",
+                "fatores ambientais",
+                "influencia processos",
+                "locais físicos",
+                "comunicações claras"
+            ]
+        },
+        {
+            "cena": 7,
+            "tempo": "3:20-3:50",
+            "script": "Então, para resumir: hoje entendemos que a estrutura organizacional é o jeito como a empresa se organiza para alcançar seus objetivos, impactando diretamente os projetos. Vimos que ela pode ser informal ou formal, e a formal tem componentes importantes como cadeia de comando, amplitude administrativa, e como as decisões são tomadas. Aprendemos também que o organograma é o desenho dessa estrutura. Lembre-se, cada empresa tem uma estrutura que se adapta melhor às suas necessidades. Espero que tenha ficado claro! Até a próxima.",
+            "elementos_visuais": [
+                {
+                    "titulo": "Revisão Final: Estrutura Organizacional em Projetos",
+                    "subtitulo": "Recapitulando o que aprendemos sobre organização.",
+                    "breveDescricao": "Resumo da aula: estrutura organizacional como base para atingir objetivos e seu impacto em projetos. Revisão dos tipos (informal/formal), componentes (cadeia de comando, etc.), e o organograma como sua representação gráfica.",
+                    "urlImg": "https://images.pexels.com/photos/3760067/pexels-photo-3760067.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+                    "decricaoImagem": "Resumo visual"
+                }
+            ],
+            "palavras_chave": [
+                "resumo aula",
+                "empresa organiza",
+                "alcançar objetivos",
+                "impactando projetos",
+                "estrutura informal",
+                "estrutura formal",
+                "componentes importantes",
+                "cadeia comando",
+                "amplitude administrativa",
+                "organograma desenho",
+                "adapta necessidades",
+                "próxima"
+            ]
+        }
+    ]
+}

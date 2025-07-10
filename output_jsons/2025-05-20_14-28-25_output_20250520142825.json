@@ -1,0 +1,258 @@
+{
+    "titulo": "Estrutura Organizacional em Projetos",
+    "subtitulo": "Entenda a estrutura organizacional e sua importância no gerenciamento de projetos.",
+    "imagens": [
+        {
+            "urlImg": "https://conteudo-scientia-prd.s3.amazonaws.com/00908_10_ab484cad89.jpg",
+            "momentoChave": "influências no Gerenciamento de Projetos",
+            "descricaoBuscaEnvato": "Organizational structures and their influence on project management, project hierarchy"
+        },
+        {
+            "urlImg": "https://img.freepik.com/vetores-premium/rede-de-estrutura-organizacional-da-empresa_23-2148867835.jpg?w=1380",
+            "momentoChave": "estrutura organizacional informal é aquela que se estabelece",
+            "descricaoBuscaEnvato": "Informal organizational structure formed by employee relationships and experiences."
+        },
+        {
+            "urlImg": "https://img.freepik.com/vetores-premium/organograma-de-estrutura-organizacional-hierarquica-plana_471687-1579.jpg?w=1380",
+            "momentoChave": "A estrutura organizacional possui componentes que auxiliam",
+            "descricaoBuscaEnvato": "Organizational structure components: chain of command, span of control, decision-making."
+        },
+        {
+            "urlImg": "https://img.freepik.com/vetores-premium/fluxograma-de-estrutura-organizacional-da-empresa_541198-1042.jpg?w=1380",
+            "momentoChave": "Amplitude larga, quando há um número grande",
+            "descricaoBuscaEnvato": "Wide span of control requiring decentralization and employee motivation"
+        },
+        {
+            "urlImg": "https://img.freepik.com/vetores-premium/homem-de-negocios-e-mulher-apertando-as-maos-para-selar-um-acordo_74855-6311.jpg?w=1380",
+            "momentoChave": "para um fluxo de comunicação eficiente e eficaz",
+            "descricaoBuscaEnvato": "Efficient communication flow, roles and responsibilities in organization"
+        },
+        {
+            "urlImg": "https://www.totvs.com/wp-content/uploads/2019/01/estrutura-organizacional-o-que-e.jpg",
+            "momentoChave": "que podem influenciar os processos de gerenciamento de projeto",
+            "descricaoBuscaEnvato": "organizational structure influences project management processes and efficiency"
+        }
+    ],
+    "codigo": [],
+    "formulas": [],
+    "cenas": [
+        {
+            "cena": 1,
+            "tempo": "0:00-0:15",
+            "script": "Olá! Neste vídeo, vamos explorar o conceito fundamental da estrutura organizacional em projetos. Prepare-se para entender como as empresas se organizam para alcançar seus objetivos!",
+            "elementos_visuais": [
+                {
+                    "tipo": "texto",
+                    "titulo": "Estrutura Organizacional",
+                    "subtitulo": "Conceito fundamental em projetos",
+                    "breveDescricao": "Apresentação do tema do vídeo: estrutura organizacional em projetos e sua importância para o alcance dos objetivos da empresa.",
+                    "topico_1": "Conceito fundamental",
+                    "topico_2": "Organização em projetos",
+                    "topico_3": "Objetivos da empresa"
+                }
+            ],
+            "palavras_chave": [
+                "estrutura organizacional",
+                "conceito fundamental",
+                "organização em projetos",
+                "empresas se organizam",
+                "alcançar seus objetivos"
+            ]
+        },
+        {
+            "cena": 2,
+            "tempo": "0:15-0:30",
+            "script": "Neste módulo, vamos abordar as características das estruturas organizacionais existentes e suas influências no Gerenciamento de Projetos. Uma empresa se organiza de forma que melhor propicie o alcance de suas metas e atenda ao que definiu como missão, visão, valores e estratégias. Essa organização se estrutura de modo formal ou informal.",
+            "elementos_visuais": [
+                {
+                    "tipo": "imagem",
+                    "urlImg": "https://conteudo-scientia-prd.s3.amazonaws.com/00908_10_ab484cad89.jpg",
+                    "decricaoImagem": "Estrutura organizacional",
+                    "descricaoBuscaEnvato": "Organizational structures and their influence on project management, project hierarchy"
+                },
+                {
+                    "tipo": "texto",
+                    "titulo": "Estruturas Organizacionais",
+                    "subtitulo": "Características e influências",
+                    "breveDescricao": "Apresentação das características das estruturas organizacionais e como elas influenciam no gerenciamento de projetos. A organização formal e informal para atender metas e estratégias.",
+                    "topico_1": "Características",
+                    "topico_2": "Influências",
+                    "topico_3": "Estrutura formal",
+                    "topico_4": "Estrutura informal"
+                }
+            ],
+            "palavras_chave": [
+                "características",
+                "estruturas organizacionais",
+                "influências no Gerenciamento de Projetos",
+                "empresa se organiza",
+                "metas",
+                "missão",
+                "visão",
+                "valores",
+                "estratégias",
+                "estrutura formal",
+                "estrutura informal"
+            ]
+        },
+        {
+            "cena": 3,
+            "tempo": "0:30-0:45",
+            "script": "A estrutura organizacional informal é aquela que se estabelece pelos próprios funcionários, de acordo com a convivência e experiência nas tarefas. Já a estrutura organizacional formal se estrutura de forma hierárquica, podendo ser por função, projetos, unidade de negócios etc.",
+            "elementos_visuais": [
+                {
+                    "tipo": "imagem",
+                    "urlImg": "https://img.freepik.com/vetores-premium/rede-de-estrutura-organizacional-da-empresa_23-2148867835.jpg?w=1380",
+                    "decricaoImagem": "Estrutura informal",
+                    "descricaoBuscaEnvato": "Informal organizational structure formed by employee relationships and experiences."
+                },
+                {
+                    "tipo": "texto",
+                    "titulo": "Estrutura Formal e Informal",
+                    "subtitulo": "Entenda as diferenças",
+                    "breveDescricao": "Explicação da diferença entre estrutura organizacional formal (hierárquica) e informal (baseada na convivência e experiência dos funcionários).",
+                    "topico_1": "Estrutura informal",
+                    "topico_2": "Estrutura formal",
+                    "topico_3": "Hierarquia",
+                    "topico_4": "Funções e projetos"
+                }
+            ],
+            "palavras_chave": [
+                "estrutura organizacional informal",
+                "funcionários",
+                "convivência",
+                "experiência nas tarefas",
+                "estrutura organizacional formal",
+                "forma hierárquica",
+                "função",
+                "projetos",
+                "unidade de negócios"
+            ]
+        },
+        {
+            "cena": 4,
+            "tempo": "0:45-1:00",
+            "script": "A estrutura organizacional possui componentes que auxiliam na forma como a empresa será estruturada. Os componentes são: cadeia de comando, amplitude administrativa, tomada de decisão, tamanho da especialização, formalização e departamentalização.",
+            "elementos_visuais": [
+                {
+                    "tipo": "imagem",
+                    "urlImg": "https://img.freepik.com/vetores-premium/fluxograma-de-estrutura-organizacional-da-empresa_541198-1042.jpg?w=1380",
+                    "decricaoImagem": "Componentes estrutura",
+                    "descricaoBuscaEnvato": "Organizational structure components: chain of command, span of control, decision-making."
+                },
+                {
+                    "tipo": "texto",
+                    "titulo": "Componentes da Estrutura",
+                    "subtitulo": "Elementos essenciais da organização",
+                    "breveDescricao": "Apresentação dos componentes da estrutura organizacional: cadeia de comando, amplitude administrativa, tomada de decisão, tamanho da especialização, formalização e departamentalização.",
+                    "topico_1": "Cadeia de comando",
+                    "topico_2": "Amplitude administrativa",
+                    "topico_3": "Tomada de decisão",
+                    "topico_4": "Departamentalização"
+                }
+            ],
+            "palavras_chave": [
+                "estrutura organizacional possui componentes",
+                "cadeia de comando",
+                "amplitude administrativa",
+                "tomada de decisão",
+                "tamanho da especialização",
+                "formalização",
+                "departamentalização"
+            ]
+        },
+        {
+            "cena": 5,
+            "tempo": "1:00-1:15",
+            "script": "Amplitude larga, quando há um número grande de subordinados se fazendo necessária a descentralização, o que motiva o subordinado, mas torna o controle um pouco mais difícil. Já na amplitude estreita, quando há um número pequeno de subordinados, é possível a centralização, trazendo maior controle, e por falta de delegação, acaba por desmotivar o subordinado.",
+            "elementos_visuais": [
+                {
+                    "tipo": "imagem",
+                    "urlImg": "https://img.freepik.com/vetores-premium/organograma-de-estrutura-organizacional-hierarquica-plana_471687-1579.jpg?w=1380",
+                    "decricaoImagem": "Amplitude",
+                    "descricaoBuscaEnvato": "Wide span of control requiring decentralization and employee motivation"
+                },
+                {
+                    "tipo": "texto",
+                    "titulo": "Amplitude Administrativa",
+                    "subtitulo": "Impacto no controle e motivação",
+                    "breveDescricao": "Explicação da amplitude administrativa e seus impactos no controle (centralização vs descentralização) e na motivação dos subordinados.",
+                    "topico_1": "Amplitude larga",
+                    "topico_2": "Descentralização",
+                    "topico_3": "Amplitude estreita",
+                    "topico_4": "Centralização"
+                }
+            ],
+            "palavras_chave": [
+                "Amplitude larga, quando há um número grande",
+                "necessária a descentralização",
+                "motiva o subordinado",
+                "amplitude estreita",
+                "número pequeno de subordinados",
+                "possível a centralização",
+                "maior controle",
+                "desmotivar o subordinado"
+            ]
+        },
+        {
+            "cena": 6,
+            "tempo": "1:15-1:30",
+            "script": "Mas, não basta toda essa definição, é preciso que tudo seja propagado na organização, para que todos, sabendo quais são seus papéis e responsabilidade, possam contribuir para um fluxo de comunicação eficiente e eficaz.",
+            "elementos_visuais": [
+                {
+                    "tipo": "imagem",
+                    "urlImg": "https://img.freepik.com/vetores-premium/homem-de-negocios-e-mulher-apertando-as-maos-para-selar-um-acordo_74855-6311.jpg?w=1380",
+                    "decricaoImagem": "Comunicação eficaz",
+                    "descricaoBuscaEnvato": "Efficient communication flow, roles and responsibilities in organization"
+                },
+                {
+                    "tipo": "texto",
+                    "titulo": "Comunicação e Responsabilidade",
+                    "subtitulo": "Pilares para um fluxo eficiente",
+                    "breveDescricao": "A importância da comunicação e da clareza de papéis e responsabilidades para um fluxo de comunicação eficiente e eficaz dentro da organização.",
+                    "topico_1": "Comunicação",
+                    "topico_2": "Papéis e responsabilidades",
+                    "topico_3": "Fluxo eficiente",
+                    "topico_4": "Organização"
+                }
+            ],
+            "palavras_chave": [
+                "preciso que tudo seja propagado",
+                "sabendo quais são seus papéis",
+                "responsabilidade",
+                "para um fluxo de comunicação",
+                "eficiente e eficaz"
+            ]
+        },
+        {
+            "cena": 7,
+            "tempo": "1:30-1:45",
+            "script": "A estrutura de uma organização se torna única, considerando suas variáveis. Diversos são os fatores que devem ser considerados na escolha de uma estrutura organizacional. A estrutura organizacional faz parte dos fatores ambientais da empresa que podem influenciar os processos de gerenciamento de projeto. Recapitulando, vimos a importância da estrutura organizacional, seus componentes e como ela impacta na comunicação e nos projetos. Até a próxima!",
+            "elementos_visuais": [
+                {
+                    "tipo": "imagem",
+                    "urlImg": "https://www.totvs.com/wp-content/uploads/2019/01/estrutura-organizacional-o-que-e.jpg",
+                    "decricaoImagem": "Fatores ambientais",
+                    "descricaoBuscaEnvato": "organizational structure influences project management processes and efficiency"
+                },
+                {
+                    "tipo": "texto",
+                    "titulo": "Considerações Finais",
+                    "subtitulo": "Recapitulando a aula",
+                    "breveDescricao": "Recapitulação dos principais pontos abordados: importância da estrutura organizacional, seus componentes e impacto na comunicação e nos projetos.",
+                    "topico_1": "Estrutura única",
+                    "topico_2": "Fatores ambientais",
+                    "topico_3": "Gerenciamento de projeto",
+                    "topico_4": "Recapitulando a aula"
+                }
+            ],
+            "palavras_chave": [
+                "que podem influenciar os processos de gerenciamento de projeto",
+                "importância da estrutura organizacional",
+                "componentes",
+                "impacta na comunicação",
+                "projetos"
+            ]
+        }
+    ]
+}

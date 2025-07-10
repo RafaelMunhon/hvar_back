@@ -1,0 +1,242 @@
+{
+    "titulo": "Entendendo Eventos em Probabilidade",
+    "subtitulo": "Conceitos e Exemplos Práticos",
+    "imagens": [
+        {
+            "urlImg": "https://static.vecteezy.com/system/resources/previews/009/384/483/non_2x/colorful- Venn-diagram-clipart-illustration_9488022.jpg",
+            "momentoChave": "É um subconjunto do espaço amostral",
+            "descricaoBuscaEnvato": "Colorful Venn diagram illustrating subset concept in probability theory."
+        },
+        {
+            "urlImg": "https://img.freepik.com/vetores-premium/conjunto-de-dados-de-dado-de-seis-lados-com-numeros-de-um-a-seis_679990-1339.jpg",
+            "momentoChave": "experimento do lançamento de dois dados",
+            "descricaoBuscaEnvato": "Illustration of two dice being thrown, representing probability experiments."
+        },
+        {
+            "urlImg": "https://cdn.pixabay.com/photo/2017/10/25/18/58/coins-2888154_1280.jpg",
+            "momentoChave": "experimento de dois lançamentos de uma moeda",
+            "descricaoBuscaEnvato": "Two coins flipped in the air, demonstrating a probability experiment."
+        }
+    ],
+    "formulas": [
+        {
+            "formula": "A_1:{(c, c),(c, k)}",
+            "momentoChaveFormula": "a) Seja o evento A1: “o primeiro resultado é cara”",
+            "fimMomentoChaveFormula": "o primeiro resultado é cara”."
+        },
+        {
+            "formula": "A_2:{(x, y) | x=\\sqrt{y}} \\Rightarrow A_2={(1,1),(2,4)}",
+            "momentoChaveFormula": "Considere o experimento do lançamento de dois dados",
+            "fimMomentoChaveFormula": "lançamento de dois dados:"
+        },
+        {
+            "formula": "A_3={(1,6),(2,5),(3,4),(4,3),(5,2),(6,1)}",
+            "momentoChaveFormula": "b) A_3 'a soma dos resultados é 7 '",
+            "fimMomentoChaveFormula": "soma dos resultados é 7 '."
+        }
+    ],
+    "cenas": [
+        {
+            "cena": 1,
+            "tempo": "0:00-0:15",
+            "script": "Olá! Vamos começar nossa aula sobre eventos em probabilidade. Para entendermos bem, precisamos saber o que é um evento. Um evento, definição 1, é um subconjunto do espaço amostral.",
+            "elementos_visuais": [
+                {
+                    "tipo": "texto",
+                    "titulo": "O que é um Evento?",
+                    "subtitulo": "Introdução ao conceito",
+                    "breveDescricao": "Apresentação da definição inicial de evento como base para o estudo da probabilidade.",
+                    "topico_1": "Definição de Evento",
+                    "palavras_chave": [
+                        "Evento",
+                        "Probabilidade",
+                        "Subconjunto",
+                        "Espaço amostral"
+                    ],
+                    "estilo": "titulo-centralizado"
+                }
+            ],
+            "palavras_chave": [
+                "evento",
+                "probabilidade",
+                "definicao",
+                "subconjunto",
+                "espaço amostral"
+            ]
+        },
+        {
+            "cena": 2,
+            "tempo": "0:15-0:30",
+            "script": "Em outras palavras, definição 2, seja S o espaço amostral de um experimento. Todo subconjunto A contido em S é chamado de evento. Nesse caso, S é denotado como o evento certo, e o conjunto vazio como o evento impossível.",
+            "elementos_visuais": [
+                {
+                    "tipo": "texto",
+                    "titulo": "Definindo Evento Formalmente",
+                    "subtitulo": "Espaço amostral e subconjuntos",
+                    "breveDescricao": "Formalização da definição de evento utilizando a notação de espaço amostral e subconjuntos, introduzindo os conceitos de evento certo e impossível.",
+                    "topico_1": "Espaço Amostral",
+                    "topico_2": "Subconjunto A",
+                    "topico_3": "Evento Certo",
+                    "topico_4": "Evento Impossível",
+                    "palavras_chave": [
+                        "Espaço",
+                        "Amostral",
+                        "Subconjunto",
+                        "Evento certo",
+                        "Evento impossível"
+                    ],
+                    "estilo": "lista-topicos"
+                },
+                {
+                    "tipo": "imagem",
+                    "urlImg": "https://static.vecteezy.com/system/resources/previews/009/384/483/non_2x/colorful- Venn-diagram-clipart-illustration_9488022.jpg",
+                    "decricaoImagem": "Diagrama de Venn",
+                    "descricaoBuscaEnvato": "Colorful Venn diagram illustrating subset concept in probability theory.",
+                    "momentoChave": "É um subconjunto do espaço amostral"
+                }
+            ],
+            "palavras_chave": [
+                "espaço amostral",
+                "subconjunto",
+                "evento certo",
+                "evento impossível"
+            ]
+        },
+        {
+            "cena": 3,
+            "tempo": "0:30-0:45",
+            "script": "Vamos ver alguns exemplos para deixar isso mais claro. Primeiro, considere o experimento de dois lançamentos de uma moeda. Seja o evento A1: “o primeiro resultado é cara”.",
+            "elementos_visuais": [
+                {
+                    "tipo": "texto",
+                    "titulo": "Exemplo 1: Lançamento de Moeda",
+                    "subtitulo": "Definindo o evento A1",
+                    "breveDescricao": "Apresentação do primeiro exemplo prático com o lançamento de moeda, definindo o evento A1 como 'o primeiro resultado é cara'.",
+                    "topico_1": "Experimento da Moeda",
+                    "topico_2": "Evento A1",
+                    "palavras_chave": [
+                        "Lançamento",
+                        "Moeda",
+                        "Evento A1",
+                        "Primeiro resultado",
+                        "Cara"
+                    ],
+                    "estilo": "lista-topicos"
+                },
+                {
+                    "tipo": "imagem",
+                    "urlImg": "https://cdn.pixabay.com/photo/2017/10/25/18/58/coins-2888154_1280.jpg",
+                    "decricaoImagem": "Moedas no ar",
+                    "descricaoBuscaEnvato": "Two coins flipped in the air, demonstrating a probability experiment.",
+                    "momentoChave": "experimento de dois lançamentos de uma moeda"
+                }
+            ],
+            "palavras_chave": [
+                "lançamentos",
+                "moeda",
+                "evento A1",
+                "primeiro resultado",
+                "cara"
+            ]
+        },
+        {
+            "cena": 4,
+            "tempo": "0:45-1:00",
+            "script": "Nesse caso, A1 é o conjunto que contém (cara, cara) e (cara, coroa). Matematicamente, A1 = {(c, c),(c, k)}.",
+            "elementos_visuais": [
+                {
+                    "tipo": "texto",
+                    "titulo": "Representação Matemática de A1",
+                    "subtitulo": "Conjunto de resultados possíveis",
+                    "breveDescricao": "Demonstração da representação matemática do evento A1 como um conjunto contendo os resultados possíveis (cara, cara) e (cara, coroa).",
+                    "topico_1": "Conjunto A1",
+                    "topico_2": "Resultados Possíveis",
+                    "palavras_chave": [
+                        "Conjunto",
+                        "Resultados",
+                        "Possíveis",
+                        "Cara",
+                        "Coroa"
+                    ],
+                    "estilo": "lista-topicos"
+                }
+            ],
+            "palavras_chave": [
+                "conjunto",
+                "resultados",
+                "possíveis",
+                "cara",
+                "coroa"
+            ]
+        },
+        {
+            "cena": 5,
+            "tempo": "1:00-1:15",
+            "script": "Agora, considere o experimento do lançamento de dois dados. Seja A2 o evento onde x é igual à raiz quadrada de y. Então, A2 é o conjunto {(1,1),(2,4)}. Matematicamente, A2:{(x, y) | x=√(y)} => A2={(1,1),(2,4)}.",
+            "elementos_visuais": [
+                {
+                    "tipo": "texto",
+                    "titulo": "Exemplo 2: Lançamento de Dados",
+                    "subtitulo": "Definindo o evento A2",
+                    "breveDescricao": "Apresentação do segundo exemplo com o lançamento de dois dados, definindo o evento A2 como 'x é igual à raiz quadrada de y'.",
+                    "topico_1": "Experimento dos Dados",
+                    "topico_2": "Evento A2",
+                    "palavras_chave": [
+                        "Lançamento",
+                        "Dados",
+                        "Evento A2",
+                        "Raiz quadrada",
+                        "Resultados"
+                    ],
+                    "estilo": "lista-topicos"
+                },
+                {
+                    "tipo": "imagem",
+                    "urlImg": "https://img.freepik.com/vetores-premium/conjunto-de-dados-de-dado-de-seis-lados-com-numeros-de-um-a-seis_679990-1339.jpg",
+                    "decricaoImagem": "Lançamento dados",
+                    "descricaoBuscaEnvato": "Illustration of two dice being thrown, representing probability experiments.",
+                    "momentoChave": "experimento do lançamento de dois dados"
+                }
+            ],
+            "palavras_chave": [
+                "lançamento",
+                "dados",
+                "evento A2",
+                "raiz quadrada",
+                "resultados"
+            ]
+        },
+        {
+            "cena": 6,
+            "tempo": "1:15-1:30",
+            "script": "Por fim, considere A3, onde 'a soma dos resultados é 7'. Nesse caso, A3 é o conjunto {(1,6),(2,5),(3,4),(4,3),(5,2),(6,1)}. Entendemos então que um evento é um subconjunto do espaço amostral que pode ocorrer em um experimento. Espero que tenha ficado claro! Até a próxima!",
+            "elementos_visuais": [
+                {
+                    "tipo": "texto",
+                    "titulo": "Exemplo 3: Soma dos Dados",
+                    "subtitulo": "Definindo o evento A3",
+                    "breveDescricao": "Apresentação do terceiro exemplo com a soma dos resultados dos dados, definindo o evento A3 como 'a soma dos resultados é 7'.",
+                    "topico_1": "Evento A3",
+                    "topico_2": "Soma dos Resultados",
+                    "topico_3": "Subconjunto",
+                    "topico_4": "Espaço Amostral",
+                    "palavras_chave": [
+                        "Soma",
+                        "Resultados",
+                        "Evento A3",
+                        "Subconjunto",
+                        "Espaço amostral"
+                    ],
+                    "estilo": "lista-topicos"
+                }
+            ],
+            "palavras_chave": [
+                "soma",
+                "resultados",
+                "evento A3",
+                "subconjunto",
+                "espaço amostral"
+            ]
+        }
+    ]
+}
