@@ -1,0 +1,67 @@
+venv
+.venv
+venv-*
+*.pyc
+*__pycache__*
+__pycache__/
+app/services/__pycache__/*
+app/common/__pycache__/*
+app/api/__pycache__/*
+*.mp4
+*.mp3
+*.pdf
+.sketch_rnn_env
+sketch_rnn_env/*
+app/videosEstudio/*
+app/videosFinalizados/*
+app/arquivosTemporarios/*
+output_jsons/*
+app.log
+#*.json
+
+# Environment variables
+.env
+.env.*
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+env/
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+*.egg-info/
+.installed.cfg
+*.egg
+
+# Temporary files
+temp/
+tmp/
+arquivosTemporarios/
+videosFinalizados/
+videosEstudio/
+downloadHeygen/
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# Google Cloud credentials
+#*.json
+credentials/
+
+test_email.py
+*.log
